@@ -4,13 +4,25 @@ import path from 'path'
 
 export async function GET() {
   try {
-    // Path to cleaned data (relative to project root)
-    const dataDir = path.join(process.cwd(), '..', 'output', '02_cleaned')
+    // Try multiple data locations (for Vercel deployment and local dev)
+    const possibleDirs = [
+      path.join(process.cwd(), 'public', 'data'),                      // Vercel deployment
+      path.join(process.cwd(), '..', 'output', '02_cleaned', 'cleaned_data'), // Local dev (nested)
+      path.join(process.cwd(), '..', 'output', '02_cleaned'),          // Local dev (flat)
+    ]
+
+    let dataDir = ''
+    for (const dir of possibleDirs) {
+      if (fs.existsSync(dir)) {
+        dataDir = dir
+        break
+      }
+    }
 
     // Check if directory exists
-    if (!fs.existsSync(dataDir)) {
+    if (!dataDir || !fs.existsSync(dataDir)) {
       return NextResponse.json({
-        error: 'Data directory not found',
+        error: 'Data directory not found. Please run: python scripts/prepare_vercel_data.py',
         tables: []
       })
     }

@@ -1,0 +1,6 @@
+{
+  "total_files": 338,
+  "source_dir": "output/02_cleaned/cleaned_data",
+  "prepared_for": "vercel_deployment",
+  "data_location": "public/data/"
+}
