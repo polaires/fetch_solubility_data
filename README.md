@@ -2,6 +2,29 @@
 
 Extract solubility data for binary aqueous systems from SDS-31 (Solubility Data Series - Alkali Metal Orthophosphates) PDF files.
 
+## 🚀 Quick Start (Recommended)
+
+### Automated Extraction with Tabula-Java CLI
+
+**The fastest and most reliable method for automation!**
+
+```bash
+# Linux/macOS
+chmod +x extract_with_tabula.sh
+./extract_with_tabula.sh
+
+# Windows
+extract_with_tabula.bat
+```
+
+This script will:
+1. ✅ Auto-download tabula-java (~65MB) on first run
+2. ✅ Extract tables using multiple modes (lattice, stream, auto)
+3. ✅ Save results as CSV files
+4. ✅ Only requires Java (no complex Python dependencies)
+
+**See [TABULA_AUTOMATION_GUIDE.md](TABULA_AUTOMATION_GUIDE.md) for full details.**
+
 ## Overview
 
 This repository contains PDFs from the **Solubility Data Series Volume 31** covering alkali metal orthophosphates. The PDFs contain:
@@ -10,21 +33,58 @@ This repository contains PDFs from the **Solubility Data Series Volume 31** cove
 - Chemical compound data indexed by CAS registry numbers
 - Author and registry number indexes
 
-## Extraction Tools
+## Extraction Methods
 
-The project uses three powerful PDF table extraction libraries:
+### 🥇 Method 1: Tabula-Java CLI (RECOMMENDED)
 
-1. **Camelot** - Best for tables with clear borders (lattice mode) and scientific documents
-2. **Tabula** - Excellent for detecting tables in scientific documents
-3. **pdfplumber** - Provides fine-grained control for complex tables
+**GitHub**: https://github.com/tabulapdf/tabula-java
+
+**Why this is best:**
+- ✅ Official tool from Tabula team
+- ✅ Only needs Java (simple dependency)
+- ✅ Battle-tested and production-ready
+- ✅ Easy automation with bash/batch scripts
+- ✅ Fast and reliable
+
+**Usage:**
+```bash
+./extract_with_tabula.sh --all          # Process all PDFs
+./extract_with_tabula.sh [pdf] [pages]  # Custom extraction
+```
+
+### 🥈 Method 2: Python Tools
+
+The project also includes Python-based extraction using:
+
+1. **Camelot** - Best for tables with clear borders (lattice mode)
+2. **Tabula-py** - Python wrapper for Tabula
+3. **pdfplumber** - Fine-grained control for complex tables
 
 ## Installation
 
-### Prerequisites
+### For Tabula-Java CLI (Recommended)
 
+**Prerequisites:**
+- Java 8 or higher
+
+**Check Java:**
+```bash
+java -version
+```
+
+**Install Java if needed:**
+- Ubuntu/Debian: `sudo apt-get install default-jre`
+- macOS: `brew install openjdk`
+- Windows: https://www.java.com/download/
+
+**That's it!** The script auto-downloads the JAR file on first run.
+
+### For Python Tools (Optional)
+
+**Prerequisites:**
 - Python 3.8 or higher
 - Ghostscript (required for Camelot)
-- Java 8+ (required for Tabula)
+- Java 8+ (required for Tabula-py)
 
 ### Install Ghostscript
 
@@ -115,12 +175,13 @@ extracted_data/
 
 ## Comparison of Methods
 
-| Method | Best For | Pros | Cons |
-|--------|----------|------|------|
-| **Camelot (Lattice)** | Tables with clear borders | Highest accuracy for bordered tables | Slower processing |
-| **Camelot (Stream)** | Borderless tables | Good for tables without lines | May miss some structures |
-| **Tabula** | Scientific documents | Fast, good detection | Requires Java |
-| **pdfplumber** | Complex layouts | Fine control, no Java needed | May need custom settings |
+| Method | Installation | Dependencies | Speed | Accuracy | Best For |
+|--------|--------------|--------------|-------|----------|----------|
+| **Tabula-Java CLI** ⭐ | Easy | Java only | Fast | Very Good | Production automation |
+| **pdfplumber** | Easy | Python + deps | Medium | Very Good | Python workflows |
+| **Camelot (Lattice)** | Hard | Python + Ghostscript | Slow | Excellent | Highest accuracy needs |
+| **Tabula-py** | Medium | Python + Java | Fast | Very Good | Python + Java users |
+| **Online Tabula** | None | Browser | N/A | Good | Quick testing |
 
 ## Recommended Workflow
 
@@ -200,9 +261,18 @@ To add support for more extraction methods or improve accuracy:
 
 This tool is provided for research and educational purposes. The SDS-31 PDF data is subject to IUPAC copyright.
 
+## Documentation
+
+- **[TABULA_AUTOMATION_GUIDE.md](TABULA_AUTOMATION_GUIDE.md)** - Complete guide for tabula-java automation
+- **[QUICK_START.md](QUICK_START.md)** - Get started in 3 minutes
+- **[INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md)** - Detailed installation instructions
+- **[SOLUTION_SUMMARY.md](SOLUTION_SUMMARY.md)** - Overview and recommendations
+
 ## References
 
+- **Tabula-Java**: https://github.com/tabulapdf/tabula-java (Official CLI tool)
+- **Tabula Online**: https://tabula.technology/ (Web interface)
 - IUPAC Solubility Data Series: https://iupac.org/what-we-do/databases/
 - Camelot Documentation: https://camelot-py.readthedocs.io/
-- Tabula Documentation: https://tabula-py.readthedocs.io/
+- Tabula-py Documentation: https://tabula-py.readthedocs.io/
 - pdfplumber Documentation: https://github.com/jsvine/pdfplumber
