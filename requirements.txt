@@ -1,0 +1,15 @@
+# PDF Table Extraction Libraries
+camelot-py[base]>=0.11.0
+tabula-py>=2.9.0
+pdfplumber>=0.11.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Additional dependencies for Camelot
+opencv-python-headless>=4.8.0
+ghostscript>=0.7
+
+# For better table detection
+pypdf>=3.17.0
