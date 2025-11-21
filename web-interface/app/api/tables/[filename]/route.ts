@@ -9,8 +9,6 @@ export async function GET(
 ) {
   try {
     const filename = params.filename
-    const dataDir = path.join(process.cwd(), '..', 'output', '02_cleaned')
-    const filePath = path.join(dataDir, filename)
 
     // Security check: ensure filename doesn't contain path traversal
     if (filename.includes('..') || filename.includes('/')) {
@@ -19,8 +17,24 @@ export async function GET(
       }, { status: 400 })
     }
 
+    // Try multiple data locations (for Vercel deployment and local dev)
+    const possibleDirs = [
+      path.join(process.cwd(), 'public', 'data'),                      // Vercel deployment
+      path.join(process.cwd(), '..', 'output', '02_cleaned', 'cleaned_data'), // Local dev (nested)
+      path.join(process.cwd(), '..', 'output', '02_cleaned'),          // Local dev (flat)
+    ]
+
+    let filePath = ''
+    for (const dir of possibleDirs) {
+      const testPath = path.join(dir, filename)
+      if (fs.existsSync(testPath)) {
+        filePath = testPath
+        break
+      }
+    }
+
     // Check if file exists
-    if (!fs.existsSync(filePath)) {
+    if (!filePath || !fs.existsSync(filePath)) {
       return NextResponse.json({
         error: 'Table not found'
       }, { status: 404 })
