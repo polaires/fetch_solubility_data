@@ -5,23 +5,37 @@ Extract solubility data for binary aqueous systems from large SDS-31 PDF files (
 
 ## ✅ Solution Provided
 
-### Three-Tier Approach
+### Four-Tier Approach
 
-#### 🥇 **Tier 1: Online Tools (RECOMMENDED - No Installation)**
+#### 🥇 **Tier 1: Tabula-Java CLI Automation (⭐ RECOMMENDED FOR AUTOMATION)**
+- **Tool**: Official Tabula-Java command-line tool
+- **Repository**: https://github.com/tabulapdf/tabula-java
+- **Best for**: Production automation, batch processing, reliable extraction
+- **Installation**: Java only (auto-downloads JAR on first run)
+- **Usage**:
+  ```bash
+  ./extract_with_tabula.sh          # Linux/macOS
+  extract_with_tabula.bat           # Windows
+  ```
+- **Pros**: Simple setup, battle-tested, fast, official tool
+- **Cons**: Requires Java
+- **Guide**: TABULA_AUTOMATION_GUIDE.md
+
+#### 🥈 **Tier 2: Online Tools (RECOMMENDED FOR TESTING)**
 - **Tool**: Tabula Web (https://tabula.technology/)
 - **Best for**: Quick extraction, testing, non-technical users
 - **Pros**: Zero installation, visual interface, free
 - **Cons**: Manual table selection, file size limits
 - **Guide**: QUICK_START.md
 
-#### 🥈 **Tier 2: Simple Python Script**
+#### 🥉 **Tier 3: Simple Python Script**
 - **Tool**: `simple_extract.py` (uses pdfplumber only)
 - **Best for**: Users comfortable with Python, automated extraction
 - **Installation**: `pip install pdfplumber pandas`
 - **Usage**: `python simple_extract.py`
 - **Guide**: QUICK_START.md
 
-#### 🥉 **Tier 3: Advanced Multi-Tool Extraction**
+#### 4️⃣ **Tier 4: Advanced Multi-Tool Extraction**
 - **Tool**: `extract_solubility_data.py` (uses Camelot, Tabula, pdfplumber)
 - **Best for**: Maximum accuracy, comparing methods, research use
 - **Installation**: See INSTALLATION_GUIDE.md (complex)
@@ -31,15 +45,19 @@ Extract solubility data for binary aqueous systems from large SDS-31 PDF files (
 ## 📦 Deliverables
 
 ### Scripts
-1. **simple_extract.py** - Minimal dependencies, easy to use
-2. **quick_extract.py** - Smart script that uses whatever tools are available
-3. **extract_solubility_data.py** - Full-featured extraction with multiple methods
+1. **extract_with_tabula.sh** - Tabula-Java automation for Linux/macOS ⭐
+2. **extract_with_tabula.bat** - Tabula-Java automation for Windows ⭐
+3. **simple_extract.py** - Minimal dependencies, easy to use
+4. **quick_extract.py** - Smart script that uses whatever tools are available
+5. **extract_solubility_data.py** - Full-featured extraction with multiple methods
 
 ### Documentation
-1. **QUICK_START.md** - Get started in 3 minutes
-2. **README.md** - Complete documentation
-3. **INSTALLATION_GUIDE.md** - Detailed installation for all platforms
-4. **requirements.txt** - Python dependencies
+1. **TABULA_AUTOMATION_GUIDE.md** - Complete guide for tabula-java automation ⭐
+2. **QUICK_START.md** - Get started in 3 minutes
+3. **README.md** - Complete documentation
+4. **INSTALLATION_GUIDE.md** - Detailed installation for all platforms
+5. **SOLUTION_SUMMARY.md** - This file, overview and recommendations
+6. **requirements.txt** - Python dependencies
 
 ### Configuration
 - **requirements.txt** - All Python package dependencies
