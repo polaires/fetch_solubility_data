@@ -1,0 +1,86 @@
+# Configuration for Solubility Data Processing Pipeline
+
+# Directory paths
+directories:
+  input: Data                        # Input PDF files
+  output_base: output                # Base output directory
+  extracted: output/01_extracted     # Extracted raw tables
+  cleaned: output/02_cleaned         # Cleaned tables
+  analyzed: output/03_analyzed       # Analysis reports
+  database: output/04_database       # Database-ready files
+
+# PDF extraction settings
+extraction:
+  pages: all                         # Pages to extract (e.g., "all", "1-10", "20-30")
+  multiple_tables: true              # Extract multiple tables per page
+  guess_layout: true                 # Attempt to guess table layout
+
+# Data cleaning settings
+cleaning:
+  apply_ocr_fixes: true              # Apply OCR artifact corrections
+
+  # OCR artifact patterns to fix
+  ocr_fixes:
+    - {from: "mo1", to: "mol"}       # Number 1 → letter l
+    - {from: "I I", to: "II"}        # Split Roman numerals
+    - {from: "Q .", to: "0."}        # Letter O → zero
+    - {from: "a .", to: "0."}        # Letter a → zero
+    - {from: "0. so", to: "0.50"}    # OCR confusion
+    - {from: ". so", to: ".50"}
+
+  # Remove spaces in numbers
+  fix_number_spaces: true
+
+  # Fix comma as decimal separator
+  fix_decimal_comma: true
+
+# Data analysis settings
+analysis:
+  generate_summary: true             # Generate summary report
+  quality_scoring: true              # Score table quality
+  identify_data_types: true          # Detect mass%, molality, etc.
+
+# Database preparation settings
+database:
+  merge_sequences: true              # Merge related table sequences
+  extract_phase_markers: true        # Extract phase labels from values
+  standardize_columns: true          # Standardize column names
+
+  # Data validation
+  validate:
+    mass_percent_range: [0, 100]     # Valid range for mass%
+    molality_min: 0                  # Molality must be non-negative
+    require_numeric: true             # Flag non-numeric values in numeric columns
+
+  # Export formats
+  export_formats:
+    - csv                            # CSV files
+    - json                           # JSON format
+    # - sqlite                       # SQLite database (optional)
+    # - parquet                      # Parquet format (optional)
+
+  # Known valid phase labels
+  valid_phases:
+    - A
+    - B
+    - C
+    - D
+    - E
+    - F
+    - II
+    - III
+    - IV
+    - D0.5
+    - A+B
+    - B+C
+    - C+D
+    - D+E
+    - A+II
+    - B+II
+    - C+II
+
+# Logging settings
+logging:
+  level: INFO                        # DEBUG, INFO, WARNING, ERROR
+  save_logs: true                    # Save logs to file
+  log_file: output/pipeline.log      # Log file path
