@@ -7,8 +7,10 @@ __pycache__/
 
 # Generated output directories (regenerable from pipeline)
 output/02_cleaned_enhanced/
+output/03_improved_headers/
 output/03_analyzed/
 output/04_database/
+output/extraction_accuracy_report.json
 
 # Virtual environment
 venv/
