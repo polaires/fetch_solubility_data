@@ -1,0 +1,17 @@
+{
+  "source_file": "SDS-31_Part1_table_033.csv",
+  "pdf_part": "Part1",
+  "table_num": 33,
+  "original_rows": 53,
+  "original_cols": 12,
+  "column_types": {
+    "mass%": "mass_percent",
+    "mol%": "mol_percent",
+    "mol/kg": "molality",
+    "col_6": "unknown",
+    "mass% ----": "mass_percent",
+    "mol/kg ----": "molality",
+    "mas s": "unknown",
+    "phas e F": "unknown"
+  }
+}

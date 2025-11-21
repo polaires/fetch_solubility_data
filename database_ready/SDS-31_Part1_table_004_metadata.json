@@ -1,0 +1,22 @@
+{
+  "source_file": "SDS-31_Part1_table_004.csv",
+  "pdf_part": "Part1",
+  "table_num": 4,
+  "original_rows": 19,
+  "original_cols": 14,
+  "column_types": {
+    "mass  %": "mass_percent",
+    "mass %": "unknown",
+    "col_2": "unknown",
+    "mas s  % ----": "unknown",
+    "mol/kg H 2 ----": "molality",
+    "col_5": "unknown",
+    "o": "unknown",
+    "col_7": "unknown",
+    "mas s %": "unknown",
+    "col_9": "unknown",
+    "mo1/kg H 2 0.0026 (D)": "unknown",
+    "col_12": "unknown",
+    "phase A + B": "phase"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source_file": "SDS-31_Part2_table_046.csv",
+  "pdf_part": "Part2",
+  "table_num": 46,
+  "original_rows": 58,
+  "original_cols": 10,
+  "column_types": {
+    "no .": "unknown",
+    "mass%": "mass_percent",
+    "mo1/kg": "unknown",
+    "mo1/kg temp . ..": "temperature",
+    "mass% 0 \u00b0 C": "mass_percent",
+    "mol/kg": "molality"
+  }
+}
