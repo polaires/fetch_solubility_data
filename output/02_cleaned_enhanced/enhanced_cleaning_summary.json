@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "total_files": 338,
+  "successful": 338,
+  "systems_identified": 0,
+  "total_phase_labels": 250,
+  "output_dir": "output/02_cleaned_enhanced"
+}
