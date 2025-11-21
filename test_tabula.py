@@ -10,22 +10,22 @@ from pathlib import Path
 def test_tabula_extraction():
     """Test tabula on a small portion of one PDF"""
 
-    # Use the smallest PDF - Part 7
-    pdf_path = "Data/SDS-31_Part7.pdf"
+    # Use Part 1 (larger PDF with more pages)
+    pdf_path = "Data/SDS-31_Part1.pdf"
 
     if not Path(pdf_path).exists():
         print(f"Error: {pdf_path} not found!")
         return
 
     print(f"Testing tabula-py on: {pdf_path}")
-    print(f"Extracting pages 1-3 only (to conserve tokens)")
+    print(f"Extracting pages 20-30 (looking for binary aqueous data)")
     print("="*60)
 
     try:
-        # Extract tables from first 3 pages
+        # Extract tables from pages 20-30
         tables = tabula.read_pdf(
             pdf_path,
-            pages='1-3',
+            pages='20-30',
             multiple_tables=True,
             pandas_options={'header': None}
         )
