@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "files_processed": 3,
+  "total_numeric_before": 197,
+  "total_numeric_after": 197,
+  "results": [
+    {
+      "file": "SDS-31_Part7_table_001.csv",
+      "rows": 20,
+      "cols": 9,
+      "original_numeric": 57,
+      "cleaned_numeric": 57
+    },
+    {
+      "file": "SDS-31_Part7_table_002.csv",
+      "rows": 34,
+      "cols": 8,
+      "original_numeric": 118,
+      "cleaned_numeric": 118
+    },
+    {
+      "file": "SDS-31_Part7_table_003.csv",
+      "rows": 7,
+      "cols": 11,
+      "original_numeric": 22,
+      "cleaned_numeric": 22
+    }
+  ]
+}
