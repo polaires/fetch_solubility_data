@@ -1,0 +1,21 @@
+{
+  "source_files": [
+    "SDS-31_Part1_table_023.csv",
+    "SDS-31_Part1_table_024.csv",
+    "SDS-31_Part1_table_025.csv",
+    "SDS-31_Part1_table_026.csv",
+    "SDS-31_Part1_table_027.csv",
+    "SDS-31_Part1_table_028.csv",
+    "SDS-31_Part1_table_029.csv",
+    "SDS-31_Part1_table_030.csv",
+    "SDS-31_Part1_table_031.csv",
+    "SDS-31_Part1_table_032.csv",
+    "SDS-31_Part1_table_033.csv",
+    "SDS-31_Part1_table_034.csv",
+    "SDS-31_Part1_table_035.csv"
+  ],
+  "pdf_part": "Part1",
+  "table_range": "023-035",
+  "total_rows": 243,
+  "original_tables": 13
+}
