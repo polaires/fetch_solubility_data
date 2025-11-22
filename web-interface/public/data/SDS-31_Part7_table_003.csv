@@ -1,8 +1,8 @@
-0,1,2,3,4,5,6,7,8,9,10
-"Nes s 1er,F .",,,,"E 20 6,","E20 8,E21 2,",,"22 6,22 7,","26 2,",,26 3
-"Niki ti na,E .  A .",,,,"E30 7,","E 30 8,E 31 1,",,"E 31 8,",E 32 4,,
-"Ni renberg,z .",,,,"E 129,","E 130,16 6,",,16 7,,,
-"Obukhov,A,P .",,,,"E 127,","E 130,13 4,",,13 5,,,
-"Oga ne syan,E,B,",,,,"11 4,E129,E 130,",,,16 5,,,
-"Oprede lnikova,","L,",,V .,"E278,","E27 9,28 2",,,,,
-"Orekhov,I . I .",,,,"E 168,","E 17 1,17 8,",,17 9,,,
+Column_A,Column_B,Column_C,Column_D,Column_E,Column_F,Column_G,Column_H,Column_I,Column_J,Column_K
+"Nes s 1er,F .",,,,"E 206,","E208,E212,",,"226.227,","262,",,263.0
+"Niki ti na,E .  A .",,,,"E307,","E 308,E 311,",,"E 318,",E 324,,
+"Ni renberg,z .",,,,"E 129,","E 130.166,",,167,,,
+"Obukhov,A,P .",,,,"E 127,","E 130.134,",,135,,,
+"Oga ne syan,E,B,",,,,"114,E129,E 130,",,,165,,,
+"Oprede lnikova,","L,",,V .,"E278,",E279.282,,,,,
+"Orekhov,I . I .",,,,"E 168,","E 171.178,",,179,,,

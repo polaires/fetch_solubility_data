@@ -1,3 +1,3 @@
-0,1,2,3,4,5,6,7,8
-23,83.28,16.72,47.78,"52,22",578.00,C,+,D
-24,82.42,17.58,56.32,43.68,"629,80",,"""",
+Temperature (°C),Temperature (°C),Temperature (°C),Temperature (°C),Temperature (°C),Numeric Data,Phase,Text Data,Phase
+23,83.28,16.72,47.78,52.22,578.0,C,+,D
+24,82.42,17.58,56.32,43.68,629.8,,"""",
