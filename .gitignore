@@ -11,6 +11,7 @@ output/03_improved_headers/
 output/03_analyzed/
 output/04_database/
 output/extraction_accuracy_report.json
+output/validation_report.json
 
 # Virtual environment
 venv/
