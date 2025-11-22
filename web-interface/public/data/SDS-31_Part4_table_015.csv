@@ -1,5 +1,5 @@
-0,1,2,3,4,5,6,7
-s ec tion,10,20,30,40,so,60,70
+Text Data,Text Data,Temperature (°C),Temperature (°C),Temperature (°C),Text Data,Text Data,Text Data
+s ec tion,10,20.0,30.0,40.0,50,60,70
 1,----,17.1,20.6,23.1,----,----,----
 2,17.33,20.28,23.4,26.21,29.1,32.46,34.71
 ,20.6,23.54,25.7,29.1,32.29,34.88,37.37

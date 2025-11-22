@@ -1,71 +1,70 @@
-0,1,2,3,4,5
-,,,,,"E32 2,32 6"
-"+ phos phor ic  acid,",monopotas s ium,,sa 1t,,"E 31 8 - E32 1,32 8"
+,,,,,E322.326
+"+ phos phor ic  acid,",monopotas s ium,,sa 1t,,E 318 - E321.328
 "d,monopota s s i um",sa 1t,,,,
-+ water,,"70 - 72,","75,","E 20 6 - E21 2,","21 3 - 29 6,32 8"
++ water,,"70 - 72,","75,","E 206 - E212,",213 - 296.328
 "d,monopota s s i um",s a 1t,( aqueous ),,,
-"+ acet ic  acid,potas s i um",,sa 1t,,,22 1
-+ ammon ium ch 1oride,,,,,"26 2,26 3,26 7,26 8"
-"+ arseni c acid,monopota s s i um",,,s a 1t,,"E 20 8,22 0"
-"+ bor i c  acid,potas s i um",,sa 1t,,"E20 8,","E21 0,22 4,23 2,"
-,,,,"23 3,","25 3,25 4,26 0,26 1"
-+ ca1cium ch 1oride,,,,,27 1
-"+ carbon ic  acid,",dipotas s i um,s a 1t,,,"E 21 2,22 2"
-"+ e thanamine,N,N-diethy 1-,",,phosphate,,,27 3
-+ formamide,,,,,"E 21 2,27 2,27 6,27 7"
-+ hyd rogen peroxide,,,,,"E21 2,22 5"
+"+ acet ic  acid,potas s i um",,sa 1t,,,221
++ ammon ium ch 1oride,,,,,262.263.267.268
+"+ arseni c acid,monopota s s i um",,,s a 1t,,E 208.220
+"+ bor i c  acid,potas s i um",,sa 1t,,"E208,","E210.224.232,"
+,,,,"233,",253.254.260.261
++ ca1cium ch 1oride,,,,,271
+"+ carbon ic  acid,",dipotas s i um,s a 1t,,,E 212.222
+"+ e thanamine,N,N-diethy 1-,",,phosphate,,,273
++ formamide,,,,,E 212.272.276.277
++ hyd rogen peroxide,,,,,E212.225
 "+ nitric  aci d,pota s s i um",,s a 1t,,,92 - 95
-+ pho sphor i c  acid,,"17 4,17 8 - 18 1,",,,"20 3 - 20 5,26 4 - 26 6"
-"+ phosphor ic  ac i d,",ca 1ci um,sa 1t,,,"26 4 - 26 6,27 1"
-"+ phosphor i c  acid,",monoammonium,,s a 1t,,"E20 8,E20 9,22 7,"
-,,"23 0,",,"23 1,","23 6,24 4 - 24 7,25 6,"
-,,"26 2,",,"26 3,","26 7,26 8,27 4,27 5"
-"+ phosphor ic  acid,",monoce s i um,,s a 1t,,"E31 8 - E32 1,32 8"
-"+ phosphor i c  acid,",monosod i um,,s a 1t,,"E 47,E 50 - E52,67,"
-,,"68,70 - 72,","75,","80 - 85,","88,89,91 - 95"
-+ pota s s i um ch 1oride,,,"80 - 85,",,"88,89,91,E21 0,"
-,"E21 2,","22 6,22 8,",,"22 9,","24 0 - 24 3,25 1,25 2,"
-,,"25 5,25 7,",,"26 2,","26 3,26 7,26 8,27 1"
-+ pota s s ium hydrox ide,,,,,"18 2,18 3,20 3 - 20 5"
-"+ s e 1en i c  acid,",pota s s i um,s a 1t,,,"E20 8,24 8"
-+ s odium ch loride,,,,,"80 - 85,88,89,91"
-"+ s u 1f ur i c  acid,",pota s s i um,s a 1t,,,"E21 0,E21 2,22 3,"
-,,,,,"23 7 - 23 9,24 9,25 0"
-+ urea,,,"E 20 8,",,"23 4,23 5,27 4,27 5"
++ pho sphor i c  acid,,"174.178 - 181,",,,203 - 205.264 - 266
+"+ phosphor ic  ac i d,",ca 1ci um,sa 1t,,,264 - 266.271
+"+ phosphor i c  acid,",monoammonium,,s a 1t,,"E208,E209.227,"
+,,"230,",,"231,","236.244 - 247.256,"
+,,"262,",,"263,",267.268.274.275
+"+ phosphor ic  acid,",monoce s i um,,s a 1t,,E318 - E321.328
+"+ phosphor i c  acid,",monosod i um,,s a 1t,,"E 47,E 50 - E52.67,"
+,,"68.70 - 72,","75,","80 - 85,",88.89.91 - 95
++ pota s s i um ch 1oride,,,"80 - 85,",,"88.89.91,E210,"
+,"E212,","226.228,",,"229,","240 - 243.251.252,"
+,,"255.257,",,"262,",263.267.268.271
++ pota s s ium hydrox ide,,,,,182.183.203 - 205
+"+ s e 1en i c  acid,",pota s s i um,s a 1t,,,E208.248
++ s odium ch loride,,,,,80 - 85.88.89.91
+"+ s u 1f ur i c  acid,",pota s s i um,s a 1t,,,"E210,E212.223,"
+,,,,,237 - 239.249.250
++ urea,,,"E 208,",,234.235.274.275
 "d,monorubidium s a 1t",,,,,
-+ wa ter,,,,,"E 30 7 - E31 1,31 2 - 31 7"
++ wa ter,,,,,E 307 - E311.312 - 317
 "d,monorubid i um s a 1t",( aqueous ),,,,
-+ phosphoric  acid,,,,"E 30 8,","E 31 0,31 6,31 7"
-"+ pho sphori c acid,",ammoni um,sa 1t,,,"E 30 8,E30 9,31 3"
-+ rubidium ch 1or ide,,,,,"E 30 7,31 4"
-+ rubidium oxide,,,"E 30 8,",,"E31 0,31 5,31 6,31 7"
++ phosphoric  acid,,,,"E 308,",E 310.316.317
+"+ pho sphori c acid,",ammoni um,sa 1t,,,"E 308,E309.313"
++ rubidium ch 1or ide,,,,,E 307.314
++ rubidium oxide,,,"E 308,",,E310.315.316.317
 "d,monos odium s a 1t",,,,,
-+ water,,,"20,","24,","25,E 39 -E42,43 - 45,"
-,,"E 47 - E 52,","53 - 97,",,"E 31 8 - E32 0,32 1 - 33 1"
-+ water-d2,,,,,"33 2,33 3"
++ water,,,"20,","24,","25,E 39 -E42.43 - 45,"
+,,"E 47 - E 52,","53 - 97,",,E 318 - E320.321 - 331
++ water-d2,,,,,332.333
 "d,mono sodium s a 1t",( aqueous ),,,,
 + ammoni um c h 1oride,,,,,90
-+ bor i c  acid s odium,s a 1t,,,,"E 47,73,74"
++ bor i c  acid s odium,s a 1t,,,,E 47.73.74
 "+ n i tric  ac i d,pota s s i um",,s a 1t,,,92 - 95
-"+ n i t r i c  acid,sodium",,s a 1t,"E 47,","E 48,","59 - 64,79,92 - 95"
-"+ perch 1oric  ac i d,",sodium,s a 1t,,,"E 51,69,97"
-+ phosphor i c  acid,,,,,"16,20,21,24,25"
-"+ phosphoric  acid,",diammon ium,,s a 1t,,"E 51,86,87"
-"+ pho sphor i c  acid,",monoammonium,,s a 1t,,"E 51,54,55 - 58,"
-,,,,,"86,87,90"
-"+ phosphoric  acid,",monopota s s ium,,sa 1t,,"E47,E 50 - E 52,67,"
-,,"68,70 - 72,","75,","80 - 85,","88,89,91 - 95"
-+ potas s i um ch1oride,,,"E 51,","E 52,","80 - 85,88,89,91"
-+ 2 - propanone,,,,,"E 51,96,97,E 129"
-+ s odium ch 1oride,,,"E 47,","E 49,","E 51,E 52,65,66,"
-,,,"76 - 78,","80 - 85,","88,89,90,91"
-"+ s u 1furic  aci d,",di sodium,s a 1t,,,"E 51,53"
+"+ n i t r i c  acid,sodium",,s a 1t,"E 47,","E 48,",59 - 64.79.92 - 95
+"+ perch 1oric  ac i d,",sodium,s a 1t,,,E 51.69.97
++ phosphor i c  acid,,,,,16.20.21.24.25
+"+ phosphoric  acid,",diammon ium,,s a 1t,,E 51.86.87
+"+ pho sphor i c  acid,",monoammonium,,s a 1t,,"E 51.54.55 - 58,"
+,,,,,86.87.90
+"+ phosphoric  acid,",monopota s s ium,,sa 1t,,"E47,E 50 - E 52.67,"
+,,"68.70 - 72,","75,","80 - 85,",88.89.91 - 95
++ potas s i um ch1oride,,,"E 51,","E 52,",80 - 85.88.89.91
++ 2 - propanone,,,,,"E 51.96.97,E 129"
++ s odium ch 1oride,,,"E 47,","E 49,","E 51,E 52.65.66,"
+,,,"76 - 78,","80 - 85,",88.89.90.91
+"+ s u 1furic  aci d,",di sodium,s a 1t,,,E 51.53
 "d,tripota s s i um s a 1t",,,,,
-+ wate r,,,"E 168 - E171,",,"E 29 7,29 8 - 30 6"
++ wate r,,,"E 168 - E171,",,E 297.298 - 306
 "d,tripota s s i um sa 1t",( aqueous ),,,,
-+ ammonia,,,,,"E29 7,30 0,30 1"
-"+ bor ic  acid,pota s s i um",,s a 1t,,,"E 29 7,30 4"
-"+ ni trous acid,pota s s i um",,s a 1t,,,"E29 7,30 3"
-+ pho sphoric aci d,,,"E 168 - E 171,",,"17 5 - 17 7,18 4 - 20 2"
-"+ phosphor ic aci d,",tri sodium,s a 1t,,,"E 129,14 9,16 5"
-+ pota s s i um hvdroxide,,,,,"E 168 - E 1 71,18 4 - 20 2"
++ ammonia,,,,,E297.300.301
+"+ bor ic  acid,pota s s i um",,s a 1t,,,E 297.304
+"+ ni trous acid,pota s s i um",,s a 1t,,,E297.303
++ pho sphoric aci d,,,"E 168 - E 171,",,175 - 177.184 - 202
+"+ phosphor ic aci d,",tri sodium,s a 1t,,,E 129.149.165
++ pota s s i um hvdroxide,,,,,E 168 - E 171.184 - 202
