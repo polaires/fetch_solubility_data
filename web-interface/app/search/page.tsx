@@ -27,13 +27,12 @@ export default function SearchPage() {
     setSearched(true)
 
     try {
-      // Get all tables
+      const searchResults: SearchResult[] = []
+
+      // Search original tables
       const tablesRes = await fetch('/api/tables')
       const tablesData = await tablesRes.json()
 
-      const searchResults: SearchResult[] = []
-
-      // Search through each table
       for (const table of tablesData.tables || []) {
         const tableRes = await fetch(`/api/tables/${encodeURIComponent(table.filename)}`)
         const tableData = await tableRes.json()
@@ -42,13 +41,11 @@ export default function SearchPage() {
 
         const matches: Array<{row: number, data: Record<string, any>, relevance: number}> = []
 
-        // Search through rows
         tableData.data.forEach((row: Record<string, any>, idx: number) => {
           const rowText = JSON.stringify(row).toLowerCase()
           const query = searchQuery.toLowerCase()
 
           if (rowText.includes(query)) {
-            // Calculate relevance (simple: count occurrences)
             const occurrences = (rowText.match(new RegExp(query, 'g')) || []).length
             matches.push({
               row: idx + 1,
@@ -61,9 +58,45 @@ export default function SearchPage() {
         if (matches.length > 0) {
           searchResults.push({
             filename: table.filename,
-            part: table.part,
+            part: table.part || 'Original',
             tableNum: table.tableNum,
-            matches: matches.sort((a, b) => b.relevance - a.relevance).slice(0, 5) // Top 5 matches per table
+            matches: matches.sort((a, b) => b.relevance - a.relevance).slice(0, 5)
+          })
+        }
+      }
+
+      // Search filtered tables
+      const filteredRes = await fetch('/api/filtered-tables')
+      const filteredData = await filteredRes.json()
+
+      for (const table of filteredData.tables || []) {
+        const tableRes = await fetch(`/api/filtered-tables/${encodeURIComponent(table.filename)}`)
+        const tableData = await tableRes.json()
+
+        if (!tableData.success) continue
+
+        const matches: Array<{row: number, data: Record<string, any>, relevance: number}> = []
+
+        tableData.data.forEach((row: Record<string, any>, idx: number) => {
+          const rowText = JSON.stringify(row).toLowerCase()
+          const query = searchQuery.toLowerCase()
+
+          if (rowText.includes(query)) {
+            const occurrences = (rowText.match(new RegExp(query, 'g')) || []).length
+            matches.push({
+              row: idx + 1,
+              data: row,
+              relevance: occurrences
+            })
+          }
+        })
+
+        if (matches.length > 0) {
+          searchResults.push({
+            filename: table.filename,
+            part: table.sds || 'Filtered',
+            tableNum: table.tableNum,
+            matches: matches.sort((a, b) => b.relevance - a.relevance).slice(0, 5)
           })
         }
       }

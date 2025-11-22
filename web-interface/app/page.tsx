@@ -19,10 +19,25 @@ export default function Home() {
   const [filterPart, setFilterPart] = useState<string>('all')
 
   useEffect(() => {
-    fetch('/api/tables')
-      .then(res => res.json())
-      .then(data => {
-        setTables(data.tables || [])
+    // Load both original and filtered tables
+    Promise.all([
+      fetch('/api/tables').then(res => res.json()),
+      fetch('/api/filtered-tables').then(res => res.json())
+    ])
+      .then(([originalData, filteredData]) => {
+        const allTables = [
+          ...(originalData.tables || []).map((t: any) => ({ ...t, source: 'original' })),
+          ...(filteredData.tables || []).map((t: any) => ({
+            filename: t.filename,
+            part: t.sds || 'Filtered',
+            tableNum: t.tableNum,
+            rows: t.rows || 0,
+            cols: 0,
+            hasData: true,
+            source: 'filtered'
+          }))
+        ]
+        setTables(allTables)
         setLoading(false)
       })
       .catch(err => {

@@ -1,0 +1,14 @@
+Text Data,Text Data,Phase,Text Data,Temperature (°C),Temperature (°C)
+--,,,,,
+2.0,P,I,,3.99,
+,P,II,,4.02,
+,,,(Av),4.0,2.04
+10.0,P,I,,5.38,
+,P,II,,5.38,
+,,,(Av),5.38,4.79
+25.0,A,I,,8.22,
+,B,I,,8.23,
+,C,I,,8.18,
+,C,II,,8.18,
+,P,I,,8.18,
+,P,II,,8.19,
