@@ -27,7 +27,7 @@ export async function GET() {
 
     // Load summary
     const summaryPath = path.join(dataDir, 'enhanced_cleaning_summary.json')
-    let summary = {}
+    let summary: { total_phase_labels?: number; systems_identified?: number } = {}
     if (fs.existsSync(summaryPath)) {
       summary = JSON.parse(fs.readFileSync(summaryPath, 'utf-8'))
     }
