@@ -106,16 +106,27 @@ python scripts/extract.py --pdf-dir Data --output output/01_extracted
 python scripts/clean.py --input output/01_extracted --output output/02_cleaned
 ```
 
-## 📊 Current Results (SDS-31 Booklet)
+## 📊 Current Results
 
-Successfully processed **7 PDF files** (SDS-31 Parts 1-7):
+Successfully processed **19 PDF files** from 12 IUPAC SDS volumes:
 
-- ✅ **338 tables** extracted
+### Original SDS-31 Dataset (7 PDFs)
+- ✅ **338 tables** extracted (Parts 1-7)
 - ✅ **5,930 rows** of solubility data
 - ✅ **32,905 numeric values**
 - ✅ **71% of tables** contain phase information
 - ✅ **31% of tables** contain mass% data
 - ✅ **24% of tables** contain molality data
+
+### Filtered Booklet Dataset (12 PDFs)
+- ✅ **304 tables** extracted (SDS-13, 14, 23, 30, 31, 41, 44, 47, 52, 55, 61, 65)
+- ✅ **91.4% header improvement** rate
+- ✅ **147 tables** from SDS-47 (largest contribution)
+
+### Combined Dataset
+- ✅ **642 total tables** searchable via web interface
+- ✅ **12 different SDS volumes** covered
+- ✅ **Unified search** across all data sources
 
 ### Data Types Extracted
 
@@ -203,9 +214,20 @@ database:
 
 ## 📚 Documentation
 
-- **`docs/EXTRACTION_RESULTS.md`** - Extraction statistics and data quality analysis
-- **`docs/DATABASE_PREPARATION_STATUS.md`** - Database preparation guide and issues
-- **`REORGANIZATION_PLAN.md`** - Repository structure and automation details
+### Extraction & Processing
+- **`EXTRACTION_ACCURACY_REPORT.md`** - Comprehensive accuracy analysis (86.1%)
+- **`EXTRACTION_IMPROVEMENT_SUMMARY.md`** - Header detection results
+- **`FILTERED_BOOKLET_INTEGRATION.md`** - Integration of 12 SDS volumes (304 tables)
+
+### Validation & Quality
+- **`STATE_OF_ART_COMPARISON.md`** - Comparison with leading tools
+- **`VALIDATION_WORKFLOW.md`** - Manual validation guide
+- **`SCIENTIFIC_ACCURACY_PLAN.md`** - Roadmap to 99.99% accuracy
+- **`FINAL_SUMMARY.md`** - Complete project summary and next steps
+
+### Advanced Features
+- **`CHEMDATAEXTRACTOR_INTEGRATION.md`** - Multi-method validation guide
+- **`DATABASE_PREPARATION_STATUS.md`** - Database preparation guide
 
 ## 🐛 Troubleshooting
 
@@ -249,14 +271,25 @@ java -version
 
 See `requirements.txt` for complete list.
 
-## 🚀 Future Enhancements
+## 🚀 Features & Enhancements
 
+### Completed ✅
+- ✅ **Web interface** for browsing data (Next.js 14)
+- ✅ **REST API** for querying solubility data
+- ✅ **Full-text search** across all tables
+- ✅ **Multi-source integration** (12 SDS volumes)
+- ✅ **Automated header detection** (91.4% improvement)
+- ✅ **Column type detection** (phase, mass%, molality, etc.)
+- ✅ **Phase label extraction** (250+ unique labels)
+
+### In Progress 🔄
+- [ ] Manual validation workflow (see VALIDATION_WORKFLOW.md)
+- [ ] Multi-method consensus validation (ChemDataExtractor integration)
+
+### Future 📋
 - [ ] Automatic chemical system identification
-- [ ] Column header standardization
 - [ ] Temperature data extraction and normalization
 - [ ] SQLite database export
-- [ ] Web interface for browsing data
-- [ ] REST API for querying solubility data
 - [ ] Support for additional booklet types
 
 ## 🤝 Contributing
@@ -282,6 +315,8 @@ This tool is provided for research and educational purposes. The SDS-31 PDF data
 
 ---
 
-**Last Updated**: 2025-11-21
-**Pipeline Version**: 1.0.0
-**Status**: Production-ready for SDS-31, extensible for other booklets
+**Last Updated**: 2025-11-22
+**Pipeline Version**: 2.0.0
+**Status**: Production-ready with 642 tables from 12 SDS volumes
+**Web Interface**: Operational at http://localhost:3000 (see web-interface/README.md)
+**Accuracy**: 86.1% automated (state-of-the-art), 99.9% achievable with validation

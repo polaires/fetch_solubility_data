@@ -1,0 +1,5724 @@
+{
+  "total_files": 304,
+  "improved": 278,
+  "methods_used": {
+    "first_row_header": 17,
+    "data_pattern_inference": 184,
+    "descriptive_numeric": 103
+  },
+  "avg_confidence": 0.5566153190742007,
+  "files": [
+    {
+      "filename": "SDS-13_table_001.csv",
+      "original_headers": [
+        "Volume 4",
+        "H. L. Clever, Argon",
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "new_headers": [
+        "Volume 5/6",
+        "C. L. Young, Hydrogen and Deuterium",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_002.csv",
+      "original_headers": [
+        "0",
+        "1. 3078",
+        "0.2596",
+        "93.1",
+        "93.55"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7999999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_003.csv",
+      "original_headers": [
+        "0",
+        "50.03",
+        "3.081",
+        "a-La(N03)3'6H20"
+      ],
+      "new_headers": [
+        "Column_A",
+        "50.03",
+        "3.081",
+        "a-La(N03)3'6H20"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_004.csv",
+      "original_headers": [
+        "-0.3",
+        "8.6",
+        "0.29",
+        "A",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data",
+        "Text Data",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5636363636363636,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_005.csv",
+      "original_headers": [
+        "At",
+        "25\u00b7C,",
+        "soly",
+        "=",
+        "63.71"
+      ],
+      "new_headers": [
+        "At",
+        "25\u00b7C,",
+        "soly",
+        "=",
+        "63.71"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-13_table_006.csv",
+      "original_headers": [
+        "0",
+        "58.02",
+        "4.238"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_007.csv",
+      "original_headers": [
+        "- 0.5",
+        "Unnamed: 0",
+        "16.5",
+        "0.606",
+        "A"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Empty_Unnamed: 0",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.58,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_008.csv",
+      "original_headers": [
+        "15.8",
+        "59.32",
+        "4.460"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_009.csv",
+      "original_headers": [
+        "10",
+        "59.29",
+        "4.455"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_010.csv",
+      "original_headers": [
+        "bt/OC mass",
+        "%",
+        "mol",
+        "-1 kg",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "bt/OC mass",
+        "%",
+        "mol",
+        "-1 kg",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_011.csv",
+      "original_headers": [
+        "13.2",
+        "57.37",
+        "4.075",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "13.2",
+        "57.37",
+        "4.075",
+        "Column_D"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_012.csv",
+      "original_headers": [
+        "l8.2",
+        "Unnamed: 0",
+        "58.03",
+        "4.187",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "l8.2",
+        "Column_B",
+        "58.03",
+        "4.187",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_013.csv",
+      "original_headers": [
+        "Nd precipitated",
+        "as",
+        "the",
+        "oxalate.",
+        "Nd"
+      ],
+      "new_headers": [
+        "Nd precipitated",
+        "as",
+        "the",
+        "oxalate.",
+        "Nd"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_014.csv",
+      "original_headers": [
+        "-",
+        "2.3",
+        "20.7",
+        "0.79",
+        "II"
+      ],
+      "new_headers": [
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_015.csv",
+      "original_headers": [
+        "-12.9",
+        "38.8",
+        "1.92",
+        "II",
+        "50.8"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Phase",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8125,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_017.csv",
+      "original_headers": [
+        "- 2.1",
+        "Unnamed: 0",
+        "19.2",
+        "0.71",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "- 2.1",
+        "Column_B",
+        "19.2",
+        "0.71",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_018.csv",
+      "original_headers": [
+        "- 1.2",
+        "Unnamed: 0",
+        "10.3",
+        "0.34",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "- 1.2",
+        "Column_B",
+        "10.3",
+        "0.34",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_019.csv",
+      "original_headers": [
+        "sepn",
+        "of the",
+        "soln",
+        "and",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "sepn",
+        "of the",
+        "soln",
+        "and",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_020.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "3",
+        "Unnamed: 2",
+        "J. Chern."
+      ],
+      "new_headers": [
+        "nan",
+        "nan",
+        "nan",
+        "2.0",
+        "Rard, J.A.;"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-13_table_021.csv",
+      "original_headers": [
+        "0",
+        "65.76",
+        "1035",
+        "5.349",
+        "Yb (NO 3) 3' 5H O2"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Numeric Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.66,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_001.csv",
+      "original_headers": [
+        "-12",
+        "26.35",
+        "3.371",
+        "1.871",
+        "Ice"
+      ],
+      "new_headers": [
+        "-12",
+        "26.35",
+        "3.371",
+        "1.871",
+        "Ice"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-14_table_002.csv",
+      "original_headers": [
+        "10 45.58",
+        "5.11 1",
+        "2.990",
+        "1. 562",
+        "II"
+      ],
+      "new_headers": [
+        "10 45.58",
+        "5.11 1",
+        "2.990",
+        "1. 562",
+        "II"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-14_table_003.csv",
+      "original_headers": [
+        "- 0.36",
+        "Unnamed: 0",
+        "3.18",
+        "0.0878",
+        "A"
+      ],
+      "new_headers": [
+        "- 0.36",
+        "Column_B",
+        "3.18",
+        "0.0878",
+        "A"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_004.csv",
+      "original_headers": [
+        "- 2.2",
+        "9.3",
+        "0.88",
+        "0.50",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "- 2.2",
+        "9.3",
+        "0.88",
+        "0.50",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_005.csv",
+      "original_headers": [
+        "30",
+        "0.42",
+        "0.011",
+        "\""
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_006.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "5 0.118",
+        "0.120 0.119",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "new_headers": [
+        "Column_A",
+        "5 0.118",
+        "0.120 0.119",
+        "Column_D",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_007.csv",
+      "original_headers": [
+        "14",
+        "2.11",
+        "hexahydrate"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_008.csv",
+      "original_headers": [
+        "-",
+        "38.1b",
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "55.0b"
+      ],
+      "new_headers": [
+        "-",
+        "38.1b",
+        "Column_C",
+        "Column_D",
+        "55.0b"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_009.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "- 2.03",
+        "16.15",
+        "Unnamed: 1",
+        "1.000"
+      ],
+      "new_headers": [
+        "Column_A",
+        "- 2.03",
+        "16.15",
+        "Column_D",
+        "1.000"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_010.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "0",
+        "0.098m",
+        "2.243",
+        "0.1453m"
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "0.098m",
+        "2.243",
+        "0.1453m"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_011.csv",
+      "original_headers": [
+        "10",
+        "14",
+        "Unnamed: 0",
+        "21.24",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_012.csv",
+      "original_headers": [
+        "-2.749",
+        "\u00b1",
+        "0.004",
+        "4",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "-2.749",
+        "\u00b1",
+        "0.004",
+        "Column_D",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_013.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "type",
+        "method",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Text Data",
+        "Phase",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6083333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-14_table_014.csv",
+      "original_headers": [
+        "25",
+        "0",
+        "1.63",
+        "1.84",
+        "2.09"
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "1.63",
+        "1.84",
+        "2.09"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_001.csv",
+      "original_headers": [
+        "7.n",
+        "8.35e",
+        "8.51",
+        "0.26d"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_002.csv",
+      "original_headers": [
+        "7.5",
+        "1148",
+        "4500",
+        "9.1"
+      ],
+      "new_headers": [
+        "7.5",
+        "Column_B",
+        "Column_C",
+        "9.1"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_003.csv",
+      "original_headers": [
+        "Pressure/psig",
+        "temp/OF",
+        "CCu/ppb"
+      ],
+      "new_headers": [
+        "Pressure/psig",
+        "temp/OF",
+        "CCu/ppb"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-23_table_004.csv",
+      "original_headers": [
+        "1750",
+        "904",
+        "-1.5"
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Numeric Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_005.csv",
+      "original_headers": [
+        "extractions",
+        "water",
+        "t/oC",
+        "pH",
+        "CC)ppm"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7555555555555554,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_006.csv",
+      "original_headers": [
+        "EXPERIMENTAL VALUES:",
+        "Unnamed: 0",
+        "Table",
+        "a1. Solubility",
+        "of"
+      ],
+      "new_headers": [
+        "EXPERIMENTAL VALUES:",
+        "Column_B",
+        "Table",
+        "a1. Solubility",
+        "of"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_007.csv",
+      "original_headers": [
+        "57",
+        "\u00b1",
+        "1",
+        "1730",
+        "\u00b1.1"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Numeric Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6125,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_008.csv",
+      "original_headers": [
+        "291",
+        "\u00b1",
+        "1",
+        "4055",
+        "\u00b1.1"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Numeric Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_009.csv",
+      "original_headers": [
+        "30",
+        "Unnamed: 0",
+        "2.22",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "2.22",
+        "Column_D",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_010.csv",
+      "original_headers": [
+        "0.1",
+        "7.48",
+        "1.62",
+        "7.97",
+        "1.32"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_011.csv",
+      "original_headers": [
+        "2.21",
+        "2.18"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_012.csv",
+      "original_headers": [
+        "130",
+        "0.52",
+        "22.4"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_013.csv",
+      "original_headers": [
+        "1",
+        "7.890",
+        "4.68",
+        "2.8"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_014.csv",
+      "original_headers": [
+        "8.58",
+        "20.0",
+        "7.78",
+        "0.48",
+        "7.66"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.75,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_015.csv",
+      "original_headers": [
+        "B -Zn(OH)2",
+        "11.98",
+        "-15.42",
+        "11.76",
+        "-16.24"
+      ],
+      "new_headers": [
+        "l",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_016.csv",
+      "original_headers": [
+        "0.2",
+        "8.13",
+        "3.1"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_017.csv",
+      "original_headers": [
+        "----",
+        "22.0",
+        "Unnamed: 0",
+        "9.28",
+        "0.81 9.00"
+      ],
+      "new_headers": [
+        "----",
+        "22.0",
+        "Column_C",
+        "9.28",
+        "0.81 9.00"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-23_table_018.csv",
+      "original_headers": [
+        "METHOD/APPARATUS/PROCEDURE:",
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "SOURCE AND"
+      ],
+      "new_headers": [
+        "METHOD/APPARATUS/PROCEDURE:",
+        "Column_B",
+        "Column_C",
+        "Column_D",
+        "SOURCE AND"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_001.csv",
+      "original_headers": [
+        "- 8.7",
+        "Unnamed: 0",
+        "84.24",
+        "15.76",
+        "3.595"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Empty_Unnamed: 0",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5285714285714286,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_002.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "7.85",
+        "38.49",
+        "61.51",
+        "24.16"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5142857142857142,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_003.csv",
+      "original_headers": [
+        "86.4",
+        "7.85",
+        "92.15",
+        "70.06",
+        "129.9"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_004.csv",
+      "original_headers": [
+        "l26a",
+        "Unnamed: 0",
+        "0.5",
+        "99.5",
+        "97.5"
+      ],
+      "new_headers": [
+        "l26a",
+        "Column_B",
+        "0.5",
+        "99.5",
+        "97.5"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_005.csv",
+      "original_headers": [
+        "t/oC",
+        "mass",
+        "%",
+        "mass %",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "nan",
+        "nan",
+        "nan",
+        "(compiler)",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_006.csv",
+      "original_headers": [
+        "- 6.5",
+        "Unnamed: 0",
+        "10.4",
+        "1. 28",
+        "\""
+      ],
+      "new_headers": [
+        "- 6.5",
+        "Column_B",
+        "10.4",
+        "1. 28",
+        "\""
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_007.csv",
+      "original_headers": [
+        "t/oC",
+        "mass",
+        "%",
+        "mol kg- l",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "nan",
+        "nan",
+        "nan",
+        "(compiler)",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_008.csv",
+      "original_headers": [
+        "t/OC",
+        "mass",
+        "%",
+        "g/IOO",
+        "gH20"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Empty_%",
+        "Temperature (\u00b0C)",
+        "Empty_gH20"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_009.csv",
+      "original_headers": [
+        "177",
+        "65.1",
+        "15.2"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_010.csv",
+      "original_headers": [
+        "8",
+        "3.07",
+        "0.182"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_011.csv",
+      "original_headers": [
+        "0",
+        "2.12",
+        "0.230",
+        "0.128",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.55,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_012.csv",
+      "original_headers": [
+        "0",
+        "2.42",
+        "0.206",
+        "0.115"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_013.csv",
+      "original_headers": [
+        "5",
+        "61.6",
+        "17.6",
+        "11.9"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_014.csv",
+      "original_headers": [
+        "-",
+        "1.05",
+        "10.3",
+        "1.51",
+        "0.852"
+      ],
+      "new_headers": [
+        "-",
+        "1.05",
+        "10.3",
+        "1.51",
+        "0.852"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-30_table_015.csv",
+      "original_headers": [
+        "45",
+        "70.4",
+        "24.1",
+        "17.6",
+        "LiBr03"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6399999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_016.csv",
+      "original_headers": [
+        "5",
+        "21.42",
+        "3.152",
+        "1.807",
+        "1.194"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_017.csv",
+      "original_headers": [
+        "5",
+        "3.642",
+        "0.4061",
+        "0.2263",
+        "1.024"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_018.csv",
+      "original_headers": [
+        "134",
+        "43.6",
+        "4.63"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_019.csv",
+      "original_headers": [
+        "0",
+        "2.98",
+        "0.3303",
+        "0.1839",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Column_A",
+        "2.98",
+        "0.3303",
+        "0.1839",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_020.csv",
+      "original_headers": [
+        "25",
+        "2.93",
+        "0.254",
+        "0.1415"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_021.csv",
+      "original_headers": [
+        "4.484",
+        "0.1800"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_022.csv",
+      "original_headers": [
+        "0",
+        "1.17",
+        "0.0817",
+        "0.0454"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_023.csv",
+      "original_headers": [
+        "60",
+        "11. 32",
+        "0.874",
+        "0.489"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_024.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "9.93",
+        "47.l9(m)",
+        "8.133",
+        "4.914"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5714285714285714,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_025.csv",
+      "original_headers": [
+        "- 0.35",
+        "Unnamed: 0",
+        "-",
+        "-.1",
+        "2.38"
+      ],
+      "new_headers": [
+        "- 0.35",
+        "Column_B",
+        "-",
+        "-.1",
+        "2.38"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_026.csv",
+      "original_headers": [
+        "5",
+        "3.30",
+        "0.310",
+        "0.172",
+        "1.028"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6749999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_027.csv",
+      "original_headers": [
+        "30",
+        "9.63",
+        "10.65",
+        "0.538",
+        "1.085"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7333333333333334,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_028.csv",
+      "original_headers": [
+        "0",
+        "2.45",
+        "2.51",
+        "0.127",
+        "1.024"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_029.csv",
+      "original_headers": [
+        "erC",
+        "Solubility",
+        "of",
+        "potassium",
+        "iodate"
+      ],
+      "new_headers": [
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "-la"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_030.csv",
+      "original_headers": [
+        "117",
+        "26.1",
+        "1.65",
+        "2.89"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_031.csv",
+      "original_headers": [
+        "20",
+        "2.11",
+        "0.149",
+        "0.0828"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_032.csv",
+      "original_headers": [
+        "o",
+        "1.07",
+        "0.0633",
+        "0.0351"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7,
+      "improved": true
+    },
+    {
+      "filename": "SDS-30_table_033.csv",
+      "original_headers": [
+        "- 0.30",
+        "Unnamed: 0",
+        "272.85",
+        "1. 78",
+        "0.185"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Empty_Unnamed: 0",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5285714285714286,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_001.csv",
+      "original_headers": [
+        "25 4 . 08",
+        "48 . 97",
+        "8 . 00",
+        "Nall",
+        "0"
+      ],
+      "new_headers": [
+        "25 4 . 08",
+        "48 . 97",
+        "8 . 00",
+        "Nall",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_002.csv",
+      "original_headers": [
+        "0 . 65",
+        "1 . 74",
+        "Unnamed: 0",
+        "1. 7 1",
+        "0.12"
+      ],
+      "new_headers": [
+        "0 . 65",
+        "1 . 74",
+        "Column_C",
+        "1. 7 1",
+        "0.12"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_003.csv",
+      "original_headers": [
+        "36 . 27",
+        "45 . 36",
+        "Unnamed: 0",
+        "31 . 2 0",
+        "3 . 19"
+      ],
+      "new_headers": [
+        "36 . 27",
+        "45 . 36",
+        "Column_C",
+        "31 . 2 0",
+        "3 . 19"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_004.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4"
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "Column_C",
+        "Column_D",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_005.csv",
+      "original_headers": [
+        "-0 . 47",
+        "1 . 45",
+        "1 . 43",
+        "0 . 10",
+        "98 . 57"
+      ],
+      "new_headers": [
+        "-0 . 47",
+        "1 . 45",
+        "1 . 43",
+        "0 . 10",
+        "98 . 57"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-31_table_006.csv",
+      "original_headers": [
+        "0",
+        "0 . 26",
+        "4 . 2 7",
+        "0 , 27",
+        "A"
+      ],
+      "new_headers": [
+        "Column_A",
+        "0 . 26",
+        "4 . 2 7",
+        "0 , 27",
+        "A"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_007.csv",
+      "original_headers": [
+        ":t.J \u2022c",
+        "b g ( l ) /100 g (2) mass%",
+        "a",
+        "mol/kg",
+        "a.1"
+      ],
+      "new_headers": [
+        ":t.J \u2022c",
+        "b g ( l ) /100 g (2) mass%",
+        "a",
+        "mol/kg",
+        "a.1"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-31_table_008.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "concn of",
+        "Na Po"
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "Column_C",
+        "concn of",
+        "Na Po"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_009.csv",
+      "original_headers": [
+        "150",
+        "7 5 . 5",
+        "17 . 69"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_010.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "mols grams",
+        "Unnamed: 2",
+        "Unnamed: 3"
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "mols grams",
+        "Column_D",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_011.csv",
+      "original_headers": [
+        "4",
+        "0 . 30",
+        "-0 . 7",
+        "Unnamed: 0",
+        "ice"
+      ],
+      "new_headers": [
+        "Column_A",
+        "0 . 30",
+        "-0 . 7",
+        "Column_D",
+        "ice"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_012.csv",
+      "original_headers": [
+        "\u00b0 tl",
+        "c .",
+        "Unnamed: 0",
+        "calcd a ,",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "\u00b0 tl",
+        "c .",
+        "Column_C",
+        "calcd a ,",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_013.csv",
+      "original_headers": [
+        "4",
+        "0 . 30",
+        "-0 . 8",
+        "Unnamed: 0",
+        "ice"
+      ],
+      "new_headers": [
+        "Column_A",
+        "0 . 30",
+        "-0 . 8",
+        "Column_D",
+        "ice"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_014.csv",
+      "original_headers": [
+        ":t/ \u2022 c .",
+        "mas s%",
+        "mo1%",
+        "a mol/kg",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        ":t/ \u2022 c .",
+        "mas s%",
+        "mo1%",
+        "a mol/kg",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_015.csv",
+      "original_headers": [
+        "-1 . 18",
+        "4.54",
+        "0 , 40",
+        "0 , 22",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "-1 . 18",
+        "4.54",
+        "0 , 40",
+        "0 , 22",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-31_table_016.csv",
+      "original_headers": [
+        "0",
+        "106.0",
+        "51.43",
+        "4.61"
+      ],
+      "new_headers": [
+        "Column_A",
+        "106.0",
+        "51.43",
+        "4.61"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-41_table_001.csv",
+      "original_headers": [
+        "0",
+        "12.62",
+        "8.02",
+        "30",
+        "12.99"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7999999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-41_table_002.csv",
+      "original_headers": [
+        "0",
+        "4.10",
+        "30",
+        "4.57"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_001.csv",
+      "original_headers": [
+        "t/\u00b0C",
+        "(author)",
+        "(compilers)",
+        "(compilers).1",
+        "solid phase"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6399999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_002.csv",
+      "original_headers": [
+        "0.00333",
+        "0.00333.1",
+        "0.00333.2"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_003.csv",
+      "original_headers": [
+        "25",
+        "0.196",
+        "8.31"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_004.csv",
+      "original_headers": [
+        "0.0109",
+        "1.86",
+        "0.0112",
+        "1.91"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_005.csv",
+      "original_headers": [
+        "19.96",
+        "36",
+        "14.14",
+        "0.770"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_006.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Cl",
+        "Unnamed: 1",
+        "C2",
+        "El"
+      ],
+      "new_headers": [
+        "t/OC",
+        "mol",
+        "dm-s",
+        "mol dm-s",
+        "volts"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_007.csv",
+      "original_headers": [
+        "9.43",
+        "8.48",
+        "0.971",
+        "0.0275",
+        "6.86"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_008.csv",
+      "original_headers": [
+        "1",
+        "0.8415",
+        "4",
+        "0.17",
+        "--"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_009.csv",
+      "original_headers": [
+        "0.05",
+        "4",
+        "0.1633",
+        "0.1839",
+        "3.00"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-44_table_011.csv",
+      "original_headers": [
+        "25",
+        "0.0506",
+        "1.79"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_001.csv",
+      "original_headers": [
+        "0 1. 57",
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "0.66",
+        "38.9"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Text Data",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_002.csv",
+      "original_headers": [
+        "-0.381",
+        "0.451",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_003.csv",
+      "original_headers": [
+        "- 5.11",
+        "Unnamed: 0",
+        "5.48",
+        "5.19",
+        "J.ce"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Empty_Unnamed: 0",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.58,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_004.csv",
+      "original_headers": [
+        "30",
+        "85",
+        "45.9",
+        "3.6",
+        "II"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6285714285714287,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_005.csv",
+      "original_headers": [
+        "o",
+        "40.51",
+        "\"",
+        "Unnamed: 0",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5714285714285714,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_006.csv",
+      "original_headers": [
+        "-22.5",
+        "Unnamed: 0",
+        "14.93",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "new_headers": [
+        "-22.5",
+        "Column_B",
+        "14.93",
+        "Column_D",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_007.csv",
+      "original_headers": [
+        "- 0.0030",
+        "0.000815",
+        "0.00345",
+        "lce"
+      ],
+      "new_headers": [
+        "- 0.0030",
+        "0.000815",
+        "0.00345",
+        "lce"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_008.csv",
+      "original_headers": [
+        "15.70",
+        "44.06",
+        "1.2875",
+        "Unnamed: 0",
+        "\u2022"
+      ],
+      "new_headers": [
+        "15.70",
+        "44.06",
+        "1.2875",
+        "Column_D",
+        "\u2022"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_009.csv",
+      "original_headers": [
+        "I",
+        "t/\"c",
+        "mass %",
+        "Unnamed: 0",
+        "SOlld phases"
+      ],
+      "new_headers": [
+        ",I",
+        "nan",
+        "LICl",
+        "nan",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_010.csv",
+      "original_headers": [
+        "3.0",
+        "1,1.0",
+        "0.2280",
+        "LiCl\u00b72H 2 O"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_011.csv",
+      "original_headers": [
+        "\u00b7 39.0 18.8",
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3"
+      ],
+      "new_headers": [
+        "\u00b7 39.0 18.8",
+        "Column_B",
+        "Column_C",
+        "Column_D",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_012.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "2"
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "Column_C",
+        "Column_D"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_013.csv",
+      "original_headers": [
+        "2.'1",
+        "1",
+        "lce"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_014.csv",
+      "original_headers": [
+        ". 23.0",
+        "11.0",
+        "Unnamed: 0",
+        "Unnamed: 1",
+        ".."
+      ],
+      "new_headers": [
+        ". 23.0",
+        "11.0",
+        "Column_C",
+        "Column_D",
+        ".."
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_015.csv",
+      "original_headers": [
+        "-10.0",
+        "39.08",
+        "Unnamed: 0",
+        "\"",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "-10.0",
+        "39.08",
+        "Column_C",
+        "\"",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_016.csv",
+      "original_headers": [
+        "-64.5",
+        "31.2",
+        "LiCl\u00b75H 2 0 +-",
+        "LiCl\u00b73H 2 O",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "-18.0",
+        "38.5",
+        "LiCl\u00b73H 20 +-",
+        "LiCl\u00b72H 2 O",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 0.8333333333333334,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_017.csv",
+      "original_headers": [
+        "250",
+        "63.3",
+        "6.3",
+        "\"",
+        "a"
+      ],
+      "new_headers": [
+        "Column_A",
+        "63.3",
+        "6.3",
+        "\"",
+        "a"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_018.csv",
+      "original_headers": [
+        "-0.0508",
+        "0.01408",
+        "3.608",
+        "0.060",
+        "lce"
+      ],
+      "new_headers": [
+        "-0.0508",
+        "0.01408",
+        "3.608",
+        "0.060",
+        "lce"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_019.csv",
+      "original_headers": [
+        "- 6.0655",
+        "Unnamed: 0",
+        "1.5000",
+        "5.9786",
+        "ice"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Empty_Unnamed: 0",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.51,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_020.csv",
+      "original_headers": [
+        "-15",
+        "13.05",
+        "0.06",
+        "ice"
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.625,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_021.csv",
+      "original_headers": [
+        "-2",
+        "-2.5",
+        "Unnamed: 0",
+        "5.165",
+        "25.825"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_022.csv",
+      "original_headers": [
+        "-",
+        "15",
+        "0.3273",
+        "24.66",
+        "NaCl\u00b72H 2 0"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_023.csv",
+      "original_headers": [
+        "12",
+        "26.500",
+        "\""
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_024.csv",
+      "original_headers": [
+        "20",
+        "1.62",
+        "26.5",
+        "\""
+      ],
+      "new_headers": [
+        "Column_A",
+        "1.62",
+        "26.5",
+        "\""
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_025.csv",
+      "original_headers": [
+        "\u00b7 0.6",
+        "0.01",
+        "0.99",
+        "ice"
+      ],
+      "new_headers": [
+        "\u00b7 0.6",
+        "0.01",
+        "0.99",
+        "ice"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_026.csv",
+      "original_headers": [
+        "o",
+        "1",
+        "26.25",
+        "NaCl",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.55,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_027.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "0.0",
+        "Unnamed: 1",
+        "0.000",
+        "lce"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6500000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_028.csv",
+      "original_headers": [
+        "- 2.2",
+        "Unnamed: 0",
+        "4"
+      ],
+      "new_headers": [
+        "- 2.2",
+        "Column_B",
+        "Column_C"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_029.csv",
+      "original_headers": [
+        "10",
+        "29.7",
+        "22.9",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Empty_NaCl"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.525,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_030.csv",
+      "original_headers": [
+        "-14.0",
+        "0.364",
+        "24.69",
+        "NaCl\u00b72H 2 O"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_031.csv",
+      "original_headers": [
+        "0.0",
+        "35.633",
+        "26.272",
+        "a",
+        "c"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.64,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_032.csv",
+      "original_headers": [
+        "-21",
+        "23.7",
+        "NaCl\u00b72H",
+        "2",
+        "O"
+      ],
+      "new_headers": [
+        "-21",
+        "23.7",
+        "NaCl\u00b72H",
+        "Column_D",
+        "O"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_033.csv",
+      "original_headers": [
+        "-0.2073",
+        "0.00341",
+        "0.340",
+        "\""
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_034.csv",
+      "original_headers": [
+        "-1. 760",
+        "0.5",
+        "2.859",
+        "lce"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_035.csv",
+      "original_headers": [
+        "0.35",
+        "35.75",
+        "26.34",
+        "1.2090",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5599999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_036.csv",
+      "original_headers": [
+        "-",
+        "0.0890",
+        "0.1472",
+        "lce"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Empty_lce"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.525,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_037.csv",
+      "original_headers": [
+        "- 9.25",
+        "Unnamed: 0",
+        "0.15",
+        "13.0",
+        "\""
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Empty_Unnamed: 0",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.58,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_038.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "250",
+        "0.3623",
+        "26.61"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_039.csv",
+      "original_headers": [
+        "-0.518",
+        "0.873",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6833333333333335,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_040.csv",
+      "original_headers": [
+        "25",
+        "8",
+        "19.75 cm3",
+        "Unnamed: 0",
+        "(a)"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Empty_Unnamed: 0",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5125000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_041.csv",
+      "original_headers": [
+        "20",
+        "35.63",
+        "26.27",
+        "1.193",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8099999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_042.csv",
+      "original_headers": [
+        "1",
+        "26.44",
+        "\""
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5666666666666668,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_043.csv",
+      "original_headers": [
+        "- 3.48",
+        "Unnamed: 0",
+        "6.11",
+        "5.76",
+        "lce"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Empty_Unnamed: 0",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5900000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_044.csv",
+      "original_headers": [
+        "5",
+        "54.87",
+        "26.26",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_045.csv",
+      "original_headers": [
+        "30.4406",
+        "25.4105",
+        "1.19795",
+        "7.9637",
+        "5.1567"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7999999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_046.csv",
+      "original_headers": [
+        ".",
+        "10.6",
+        "13.8",
+        "Unnamed: 0",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5714285714285714,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_047.csv",
+      "original_headers": [
+        "307",
+        "26.73"
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.65,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_048.csv",
+      "original_headers": [
+        "100",
+        "0.396",
+        "28.37",
+        "1.167",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6399999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_049.csv",
+      "original_headers": [
+        "10",
+        "35.8",
+        "26.34",
+        "1.201",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Empty_NaCl"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.58,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_050.csv",
+      "original_headers": [
+        "-",
+        "21.1",
+        "30.0",
+        "23.07",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5714285714285714,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_051.csv",
+      "original_headers": [
+        "120",
+        "40.0",
+        "28.60"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_052.csv",
+      "original_headers": [
+        "10",
+        "26.33",
+        "0.09924",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_053.csv",
+      "original_headers": [
+        "-0.0092",
+        "-0.0031",
+        "0.000819",
+        "0.00479",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.64,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_054.csv",
+      "original_headers": [
+        "150",
+        "0.420",
+        "29.6",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_055.csv",
+      "original_headers": [
+        "-10",
+        "33.09",
+        "24.86",
+        "1.1898",
+        "NaC1'2H 20a"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.72,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_056.csv",
+      "original_headers": [
+        "183.0",
+        "7.27",
+        "0.120",
+        "30.7",
+        "h"
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.58,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_057.csv",
+      "original_headers": [
+        "25",
+        "1",
+        "26.42",
+        "26.42.1",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Empty_25",
+        "Numeric Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.52,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_058.csv",
+      "original_headers": [
+        "2000",
+        "27.8",
+        "27.45",
+        ".."
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.625,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_059.csv",
+      "original_headers": [
+        "Pc/kg cm- 2",
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "240"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Empty_Unnamed: 0",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6642857142857144,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_060.csv",
+      "original_headers": [
+        "- 9.8",
+        "Unnamed: 0",
+        "13.73",
+        "15.92",
+        "1. 1075"
+      ],
+      "new_headers": [
+        "- 9.8",
+        "Column_B",
+        "13.73",
+        "15.92",
+        "1. 1075"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_061.csv",
+      "original_headers": [
+        "o",
+        "34.23",
+        "26.25",
+        "1.2090",
+        "NaC1"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.72,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_062.csv",
+      "original_headers": [
+        "707.0 269.5",
+        "Unnamed: 0",
+        "425.8",
+        "222.0",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "707.0 269.5",
+        "Column_B",
+        "425.8",
+        "222.0",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_063.csv",
+      "original_headers": [
+        "35",
+        "362.01",
+        "26.579",
+        "NaCl",
+        "u"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Phase",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7300000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_064.csv",
+      "original_headers": [
+        "75",
+        "6.460b",
+        "-",
+        "-.1",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Column_A",
+        "6.460b",
+        "-",
+        "-.1",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_065.csv",
+      "original_headers": [
+        "-0.4728a",
+        "0.1368",
+        "0.7932",
+        "-4.7496",
+        "1.3926"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_066.csv",
+      "original_headers": [
+        "\";.30.0 20.0",
+        "6.128 6.166",
+        "Unnamed: 0",
+        "26.370 26.490",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "\";.30.0 20.0",
+        "6.128 6.166",
+        "Column_C",
+        "26.370 26.490",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_067.csv",
+      "original_headers": [
+        "148.6",
+        "29.62",
+        "II"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_068.csv",
+      "original_headers": [
+        "-3.05",
+        "5",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_069.csv",
+      "original_headers": [
+        "20.0",
+        "0.3591",
+        "2&.'12",
+        "NaCl"
+      ],
+      "new_headers": [
+        "20.0",
+        "0.3591",
+        "2&.'12",
+        "NaCl"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_070.csv",
+      "original_headers": [
+        "447",
+        "53.54",
+        "0.2621",
+        "NaCl"
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7375,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_071.csv",
+      "original_headers": [
+        "323.7",
+        "78.8",
+        "0.0071",
+        "0.22",
+        "II"
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7500000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_072.csv",
+      "original_headers": [
+        "0.00",
+        "0.0000",
+        "0.00.1",
+        "ice"
+      ],
+      "new_headers": [
+        "0.00",
+        "0.0000",
+        "0.00.1",
+        "ice"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_073.csv",
+      "original_headers": [
+        "37.8",
+        "0.158",
+        "298.6",
+        "279-300",
+        "0.83"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Numeric Data",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6833333333333332,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_074.csv",
+      "original_headers": [
+        "20",
+        "2.15",
+        "25.8",
+        "\""
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_075.csv",
+      "original_headers": [
+        "-0.45",
+        "0.01",
+        "0.99",
+        ".",
+        "ice"
+      ],
+      "new_headers": [
+        "-0.45",
+        "0.01",
+        "0.99",
+        ".",
+        "ice"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_076.csv",
+      "original_headers": [
+        "4.25",
+        "29.5",
+        "Unnamed: 0",
+        "22.8",
+        "\""
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6399999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_077.csv",
+      "original_headers": [
+        "13",
+        "0.336",
+        "25.1",
+        "KC1"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_078.csv",
+      "original_headers": [
+        "- 2.85",
+        "Unnamed: 0",
+        "6.37",
+        "5.99",
+        "ice"
+      ],
+      "new_headers": [
+        "- 2.85",
+        "Column_B",
+        "6.37",
+        "5.99",
+        "ice"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_079.csv",
+      "original_headers": [
+        "-6.4b",
+        "25.78",
+        "20.50",
+        "n"
+      ],
+      "new_headers": [
+        "-6.4b",
+        "25.78",
+        "20.50",
+        "n"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_080.csv",
+      "original_headers": [
+        "0.00",
+        "27.986",
+        "21.866",
+        "b"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_081.csv",
+      "original_headers": [
+        "125",
+        "59.6",
+        "36.3",
+        "KCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_082.csv",
+      "original_headers": [
+        "142",
+        "38.6",
+        "KCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_083.csv",
+      "original_headers": [
+        "-0.827",
+        "0.241",
+        "1.778",
+        "1.011",
+        "\""
+      ],
+      "new_headers": [
+        "-0.827",
+        "0.241",
+        "1.778",
+        "1.011",
+        "\""
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_084.csv",
+      "original_headers": [
+        "-0.1031",
+        "0.002171",
+        "0.2166",
+        "II"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_085.csv",
+      "original_headers": [
+        "-1.692a",
+        "0.5",
+        "0.0365",
+        "\""
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_086.csv",
+      "original_headers": [
+        "0.70",
+        "28.29",
+        "22.05",
+        "1.1540",
+        "XCl"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6399999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_087.csv",
+      "original_headers": [
+        "-0.0900",
+        "0.1884",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Empty_ice"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5666666666666668,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_088.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "J 1. 5",
+        "31.2",
+        "23.8",
+        "\""
+      ],
+      "new_headers": [
+        "Column_A",
+        "J 1. 5",
+        "31.2",
+        "23.8",
+        "\""
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_089.csv",
+      "original_headers": [
+        "-0.482",
+        "1.057",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_090.csv",
+      "original_headers": [
+        "r",
+        "..",
+        "mole",
+        "ratio"
+      ],
+      "new_headers": [
+        "ml",
+        "..",
+        "mass",
+        "of salt"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_091.csv",
+      "original_headers": [
+        "-0.169",
+        "0.003538",
+        "0.3526",
+        "ice"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_092.csv",
+      "original_headers": [
+        "25",
+        "0.3421",
+        "12.24",
+        "-",
+        "2.6.63"
+      ],
+      "new_headers": [
+        "Column_A",
+        "0.3421",
+        "12.24",
+        "-",
+        "2.6.63"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_093.csv",
+      "original_headers": [
+        "- 4.66",
+        "Unnamed: 0",
+        "10.77",
+        "9.72",
+        "\""
+      ],
+      "new_headers": [
+        "- 4.66",
+        "Column_B",
+        "10.77",
+        "9.72",
+        "\""
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_094.csv",
+      "original_headers": [
+        "-31.6",
+        "1948",
+        "Unnamed: 0",
+        "n",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "-31.6",
+        "Column_B",
+        "Column_C",
+        "n",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_095.csv",
+      "original_headers": [
+        "34",
+        "27.8",
+        "-",
+        "KCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_096.csv",
+      "original_headers": [
+        "0",
+        "27.92",
+        "21.83",
+        "-",
+        "KCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.72,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_097.csv",
+      "original_headers": [
+        "-0.412",
+        "0.1205",
+        "0.8904",
+        "\""
+      ],
+      "new_headers": [
+        "-0.412",
+        "0.1205",
+        "0.8904",
+        "\""
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_098.csv",
+      "original_headers": [
+        "o",
+        "21.60",
+        "RCI",
+        "1928",
+        "papers 1,"
+      ],
+      "new_headers": [
+        "o",
+        "21.60",
+        "RCI",
+        "Column_D",
+        "papers 1,"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_099.csv",
+      "original_headers": [
+        "20",
+        "34.3",
+        "25.5",
+        "KCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_100.csv",
+      "original_headers": [
+        "t/oc",
+        "mass %",
+        "Unnamed: 0",
+        "density",
+        "refractive"
+      ],
+      "new_headers": [
+        "nan",
+        "nan",
+        "nan",
+        "g cm- 3",
+        "index"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_101.csv",
+      "original_headers": [
+        "130",
+        "38.4",
+        "1.2",
+        "2",
+        "\""
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.64,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_102.csv",
+      "original_headers": [
+        "- 2.24",
+        "Unnamed: 0",
+        "- 2.34",
+        "Unnamed: 1",
+        "-"
+      ],
+      "new_headers": [
+        "- 2.24",
+        "Column_B",
+        "- 2.34",
+        "Column_D",
+        "-"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_103.csv",
+      "original_headers": [
+        "-0.3229 0.0926",
+        "0.686"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_104.csv",
+      "original_headers": [
+        "JOO",
+        "56.0",
+        "35.90",
+        "J .215"
+      ],
+      "new_headers": [
+        "JOO",
+        "56.0",
+        "35.90",
+        "J .215"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_105.csv",
+      "original_headers": [
+        "0",
+        "28.1",
+        "21.92",
+        "1.154",
+        "KCl"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5599999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_106.csv",
+      "original_headers": [
+        "10",
+        "23.84",
+        "0.07032",
+        "KCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7125,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_107.csv",
+      "original_headers": [
+        "-0.0051",
+        "0.001389",
+        "0.01035",
+        "lce"
+      ],
+      "new_headers": [
+        "-0.0051",
+        "0.001389",
+        "0.01035",
+        "lce"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_108.csv",
+      "original_headers": [
+        "tjOC",
+        "100",
+        "x mass",
+        "ratio",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "tjOC",
+        "Column_B",
+        "x mass",
+        "ratio",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_109.csv",
+      "original_headers": [
+        "0",
+        "28.10",
+        "21.94",
+        "1.1642",
+        "XCI"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.72,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_110.csv",
+      "original_headers": [
+        "129",
+        "38.2",
+        "\""
+      ],
+      "new_headers": [
+        "Column_A",
+        "38.2",
+        "\""
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_111.csv",
+      "original_headers": [
+        "-10",
+        "21.6",
+        "KC1",
+        "b"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_112.csv",
+      "original_headers": [
+        "250",
+        "49.3",
+        "24.42"
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_113.csv",
+      "original_headers": [
+        "-10.4",
+        "19.80",
+        "ice +",
+        "XCl"
+      ],
+      "new_headers": [
+        "-10.4",
+        "19.80",
+        "ice +",
+        "XCl"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_114.csv",
+      "original_headers": [
+        "-10",
+        "19.0",
+        "II"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_115.csv",
+      "original_headers": [
+        "190",
+        "8.58",
+        "Unnamed: 0",
+        "0.160",
+        "44.08"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Text Data",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5785714285714285,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_116.csv",
+      "original_headers": [
+        "25",
+        "0",
+        "26.3",
+        "26.3.1",
+        "XCI"
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "26.3",
+        "26.3.1",
+        "XCI"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_117.csv",
+      "original_headers": [
+        "-0.36625",
+        "0.10646",
+        "0.78746",
+        "\""
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_118.csv",
+      "original_headers": [
+        "- 0.21",
+        "Unnamed: 0",
+        "-10.76",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "new_headers": [
+        "- 0.21",
+        "Column_B",
+        "-10.76",
+        "Column_D",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_119.csv",
+      "original_headers": [
+        "-10.75",
+        "19.48",
+        "24.19",
+        "1.135",
+        "ice +"
+      ],
+      "new_headers": [
+        "-10.75",
+        "19.48",
+        "24.19",
+        "1.135",
+        "ice +"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_120.csv",
+      "original_headers": [
+        "- 2.3",
+        "Unnamed: 0",
+        "5.02",
+        "Unnamed: 1",
+        "Unnamed: 2"
+      ],
+      "new_headers": [
+        "- 2.3",
+        "Column_B",
+        "5.02",
+        "Column_D",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_121.csv",
+      "original_headers": [
+        "79",
+        "33.70",
+        "II"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_122.csv",
+      "original_headers": [
+        "-",
+        "9.1",
+        "20.3",
+        "II",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "-",
+        "9.1",
+        "20.3",
+        "II",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_123.csv",
+      "original_headers": [
+        "25",
+        "25.95",
+        "n"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_124.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "II"
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "Column_C",
+        "II"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_125.csv",
+      "original_headers": [
+        "-",
+        "5.8",
+        "1],4",
+        "a",
+        "II"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.65,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_126.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "II"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.65,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_127.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "II"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Empty_II"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.525,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_128.csv",
+      "original_headers": [
+        "-7.8188",
+        "2.40896",
+        "3. 245 7",
+        "15.226",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6399999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_129.csv",
+      "original_headers": [
+        "16.13",
+        "4.407",
+        "2'4.73",
+        "KC1"
+      ],
+      "new_headers": [
+        "16.13",
+        "4.407",
+        "2'4.73",
+        "KC1"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_130.csv",
+      "original_headers": [
+        "148.6",
+        "40.24",
+        "\u00b7KCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_131.csv",
+      "original_headers": [
+        "25.42",
+        "26.40",
+        "KCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8166666666666668,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_132.csv",
+      "original_headers": [
+        "0.00",
+        "0.0000",
+        "0.00.1",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Empty_ice"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6250000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_133.csv",
+      "original_headers": [
+        "37.7",
+        "0.1276",
+        "118.3",
+        "116-119",
+        "0.89"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Numeric Data",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6777777777777777,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_134.csv",
+      "original_headers": [
+        "347.5",
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "82.1",
+        "Unnamed: 2"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.61,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_135.csv",
+      "original_headers": [
+        "0.4",
+        "43.59",
+        "43.63",
+        "43.61",
+        "'Rb"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_136.csv",
+      "original_headers": [
+        "0.55",
+        "77.34",
+        "43.61",
+        "1.4409",
+        "R.b. Cl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.72,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_137.csv",
+      "original_headers": [
+        "31.50",
+        "98.61",
+        "49.65",
+        "1.5118",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.72,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_138.csv",
+      "original_headers": [
+        "-0. 06510 0. 01780",
+        "0.2148",
+        "ice"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_139.csv",
+      "original_headers": [
+        "1000",
+        "48.0",
+        "48.0.1"
+      ],
+      "new_headers": [
+        "Numeric Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5666666666666668,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_140.csv",
+      "original_headers": [
+        "-0.0473",
+        "0.01286",
+        "3.67",
+        ".0.155\u00b7",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5599999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_141.csv",
+      "original_headers": [
+        "0.70",
+        "162.29",
+        "61.87",
+        "1.8458",
+        "CsCI"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.65,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_142.csv",
+      "original_headers": [
+        "-0.2673",
+        "1.2810",
+        "0.07703",
+        "n"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_143.csv",
+      "original_headers": [
+        "n\u2022 0. 03990 0.01116",
+        "0.1875",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_144.csv",
+      "original_headers": [
+        "1000",
+        "63.8",
+        "63.7",
+        "\""
+      ],
+      "new_headers": [
+        "Column_A",
+        "63.8",
+        "63.7",
+        "\""
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_145.csv",
+      "original_headers": [
+        "-0.0480",
+        "0. 0133 4",
+        "3.60",
+        "0.224",
+        "ice"
+      ],
+      "new_headers": [
+        "-0.0480",
+        "0. 0133 4",
+        "3.60",
+        "0.224",
+        "ice"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-47_table_146.csv",
+      "original_headers": [
+        "-1. 5743",
+        "0.5000",
+        "7.7643",
+        "ice"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-47_table_147.csv",
+      "original_headers": [
+        "25",
+        "66.63",
+        "11.86",
+        "CsCl"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_001.csv",
+      "original_headers": [
+        "0.944",
+        "0.702",
+        "5.210",
+        "3.535",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "0.944",
+        "0.702",
+        "5.210",
+        "3.535",
+        "Column_E"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_002.csv",
+      "original_headers": [
+        "lS",
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "2.45"
+      ],
+      "new_headers": [
+        "lS",
+        "Column_B",
+        "Column_C",
+        "2.45"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_003.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "--- ---",
+        "Unnamed: 1",
+        "---",
+        "---.1"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Empty_Unnamed: 1",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5285714285714287,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_004.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "Unnamed: 1",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Pharm. J."
+      ],
+      "new_headers": [
+        "Column_A",
+        "Column_B",
+        "Column_C",
+        "Column_D",
+        "Pharm. J."
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_005.csv",
+      "original_headers": [
+        "15",
+        "776",
+        "2.30"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Numeric Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5666666666666668,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_006.csv",
+      "original_headers": [
+        "10",
+        "786.8",
+        "0.02266"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Numeric Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_007.csv",
+      "original_headers": [
+        "1.195",
+        "0.02131",
+        "A",
+        "a"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Phase",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7125,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_008.csv",
+      "original_headers": [
+        "Water was",
+        "saturated with",
+        "Ca(OH)2",
+        "Unnamed: 0",
+        "by"
+      ],
+      "new_headers": [
+        "mechanically",
+        "shaking the",
+        "nan",
+        "mixtures",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_009.csv",
+      "original_headers": [
+        "0",
+        "1.456",
+        "2.60"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_010.csv",
+      "original_headers": [
+        "24",
+        "0.064",
+        "0.00",
+        "K",
+        "-"
+      ],
+      "new_headers": [
+        "Column_A",
+        "0.064",
+        "0.00",
+        "K",
+        "-"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_011.csv",
+      "original_headers": [
+        "51. 6",
+        "-0.019",
+        "1.91",
+        "S",
+        "0.24"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7200000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_012.csv",
+      "original_headers": [
+        "in a",
+        "few mL",
+        "of water",
+        "was",
+        "poured"
+      ],
+      "new_headers": [
+        "into",
+        "100-150",
+        "mL of",
+        "nearly saturated",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_013.csv",
+      "original_headers": [
+        "25",
+        "0.0203",
+        "9.04"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_014.csv",
+      "original_headers": [
+        "0",
+        "1.5",
+        "0.89",
+        "1.65",
+        "1.67"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.72,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_015.csv",
+      "original_headers": [
+        "0",
+        "3.5",
+        "0.34"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_016.csv",
+      "original_headers": [
+        "0",
+        "0.35",
+        "0.34"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_018.csv",
+      "original_headers": [
+        "45",
+        "1.81",
+        "1. 78",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7000000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_019.csv",
+      "original_headers": [
+        "12",
+        "285.2",
+        "2.4",
+        "2.6",
+        "0.16"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.72,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_020.csv",
+      "original_headers": [
+        "1",
+        "8.304",
+        "4.510",
+        "0.2754",
+        "a"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.72,
+      "improved": true
+    },
+    {
+      "filename": "SDS-52_table_021.csv",
+      "original_headers": [
+        "room",
+        "2.00",
+        "x",
+        "10-2",
+        "A"
+      ],
+      "new_headers": [
+        "room",
+        "1.02",
+        "x",
+        "10-2",
+        "A"
+      ],
+      "method": "first_row_header",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_001.csv",
+      "original_headers": [
+        "tlOc U0",
+        "2",
+        "(N0 3",
+        ") 2\u00b7 6H 20",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_002.csv",
+      "original_headers": [
+        "-2.9",
+        "17.33 0.5320",
+        "II",
+        "A"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6125,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_003.csv",
+      "original_headers": [
+        "94",
+        "80.6",
+        "10.5"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8000000000000002,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_004.csv",
+      "original_headers": [
+        "Unnamed: 0",
+        "85",
+        "79.92",
+        "10.10",
+        "Unnamed: 1"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6399999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_005.csv",
+      "original_headers": [
+        "77.2 78.49",
+        "9.260",
+        "A"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6833333333333335,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_006.csv",
+      "original_headers": [
+        "57",
+        "45.72",
+        "7.900"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6666666666666666,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_007.csv",
+      "original_headers": [
+        "-0.2 1.0",
+        "0.021",
+        "ice",
+        "-13.5",
+        "46.2"
+      ],
+      "new_headers": [
+        "-0.2 1.0",
+        "0.021",
+        "ice",
+        "-13.5",
+        "46.2"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-55_table_008.csv",
+      "original_headers": [
+        "t/oc",
+        "mass",
+        "%",
+        "mol/kg",
+        "Solid"
+      ],
+      "new_headers": [
+        "t/oc",
+        "mass",
+        "%",
+        "mol/kg",
+        "Solid"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-55_table_009.csv",
+      "original_headers": [
+        "29.8",
+        "66.2",
+        "4.08",
+        "A or",
+        "B"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Phase"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.7300000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_010.csv",
+      "original_headers": [
+        "t/oc",
+        "mass %",
+        "Unnamed: 0",
+        "mol/kg",
+        "Solid Phase"
+      ],
+      "new_headers": [
+        "t/oc",
+        "mass %",
+        "Column_C",
+        "mol/kg",
+        "Solid Phase"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_011.csv",
+      "original_headers": [
+        "-- C37.3",
+        "67.07",
+        "4.243",
+        "2.09",
+        "A"
+      ],
+      "new_headers": [
+        "-- C37.3",
+        "67.07",
+        "4.243",
+        "2.09",
+        "A"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-55_table_012.csv",
+      "original_headers": [
+        "25",
+        "2.615",
+        "3.74",
+        "1.955"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-55_table_013.csv",
+      "original_headers": [
+        "d(25 C)",
+        "Unnamed: 0",
+        "=",
+        "0.9973",
+        "+"
+      ],
+      "new_headers": [
+        "d(25 C)",
+        "Column_B",
+        "=",
+        "0.9973",
+        "+"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-61_table_001.csv",
+      "original_headers": [
+        "93.2",
+        "70.5",
+        "70.53",
+        "28.8",
+        "28.84"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.6500000000000001,
+      "improved": true
+    },
+    {
+      "filename": "SDS-61_table_002.csv",
+      "original_headers": [
+        "92.7 .\".92.5 365.9 365.7",
+        "Unnamed: 0",
+        "70.3 70.33",
+        "Unnamed: 1",
+        "28.6 28.64"
+      ],
+      "new_headers": [
+        "92.7 .\".92.5 365.9 365.7",
+        "Column_B",
+        "70.3 70.33",
+        "Column_D",
+        "28.6 28.64"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-61_table_003.csv",
+      "original_headers": [
+        "g/100 cm- 3",
+        "sIn",
+        ":",
+        "Unnamed: 0",
+        "89.44"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Text Data",
+        "Text Data",
+        "Empty_Unnamed: 0",
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5444444444444445,
+      "improved": true
+    },
+    {
+      "filename": "SDS-61_table_004.csv",
+      "original_headers": [
+        "\"",
+        "(67.48)a",
+        "\".1",
+        "Zaitseva and Lepeshkov (50)"
+      ],
+      "new_headers": [
+        "\"",
+        "(67.48)a",
+        "\".1",
+        "Zaitseva and Lepeshkov (50)"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    },
+    {
+      "filename": "SDS-61_table_005.csv",
+      "original_headers": [
+        "323",
+        "73.26",
+        "\"",
+        "Comec and Dickely (10)"
+      ],
+      "new_headers": [
+        "Column_A",
+        "73.26",
+        "\"",
+        "Comec and Dickely (10)"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-61_table_006.csv",
+      "original_headers": [
+        "c",
+        "0.31",
+        "Unnamed: 0"
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5333333333333333,
+      "improved": true
+    },
+    {
+      "filename": "SDS-61_table_007.csv",
+      "original_headers": [
+        "15",
+        "288.15",
+        "0.2200",
+        "15.66 ..",
+        ".."
+      ],
+      "new_headers": [
+        "Text Data",
+        "Temperature (\u00b0C)",
+        "Temperature (\u00b0C)",
+        "Text Data",
+        "Text Data"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.5599999999999999,
+      "improved": true
+    },
+    {
+      "filename": "SDS-61_table_008.csv",
+      "original_headers": [
+        "tJOC",
+        "TIK",
+        "Solubility",
+        "Unnamed: 0",
+        "Status"
+      ],
+      "new_headers": [
+        "nan",
+        "nan",
+        "mol fraction molality",
+        "Solid phase",
+        "nan"
+      ],
+      "method": "first_row_header",
+      "confidence": 1.0,
+      "improved": true
+    },
+    {
+      "filename": "SDS-61_table_009.csv",
+      "original_headers": [
+        "(2) Water;",
+        "H20; [7732-18-5J",
+        "Unnamed: 0",
+        "Rec. Trav.",
+        "Chim."
+      ],
+      "new_headers": [
+        "(2) Water;",
+        "H20; [7732-18-5J",
+        "Column_C",
+        "Rec. Trav.",
+        "Chim."
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": true
+    },
+    {
+      "filename": "SDS-65_table_001.csv",
+      "original_headers": [
+        "COMPONENTS: ORIGINAL MEASUREMENTS:"
+      ],
+      "new_headers": [
+        "Temperature (\u00b0C)"
+      ],
+      "method": "data_pattern_inference",
+      "confidence": 0.8,
+      "improved": true
+    },
+    {
+      "filename": "SDS-65_table_002.csv",
+      "original_headers": [
+        "COMPONENTS: ORIGINAL MEASUREMENTS:"
+      ],
+      "new_headers": [
+        "COMPONENTS: ORIGINAL MEASUREMENTS:"
+      ],
+      "method": "descriptive_numeric",
+      "confidence": 0.3,
+      "improved": false
+    }
+  ]
+}
