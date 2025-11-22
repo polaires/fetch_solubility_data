@@ -1,0 +1,63 @@
+{
+  "file": "SDS-31_Part5_table_048.csv",
+  "original_rows": 56,
+  "original_cols": 16,
+  "ocr_cleaning": {
+    "original_numeric": 266,
+    "cleaned_numeric": 265,
+    "improvement": -1
+  },
+  "phase_extraction": {
+    "phases_found": [],
+    "phase_columns_added": 0
+  },
+  "column_analysis": {
+    "types_detected": {
+      "0": "numeric",
+      "1": "text",
+      "2": "numeric",
+      "3": "text",
+      "4": "numeric",
+      "5": "text",
+      "6": "text",
+      "7": "ph",
+      "8": "phase",
+      "9": "text",
+      "10": "text",
+      "11": "numeric",
+      "12": "numeric",
+      "13": "text",
+      "14": "phase",
+      "15": "phase"
+    },
+    "standard_names": {
+      "0": "col_0",
+      "1": "label",
+      "2": "col_2",
+      "3": "label",
+      "4": "col_4",
+      "5": "label",
+      "6": "label",
+      "7": "pH",
+      "8": "phase",
+      "9": "label",
+      "10": "label",
+      "11": "col_11",
+      "12": "col_12",
+      "13": "label",
+      "14": "phase",
+      "15": "phase"
+    },
+    "summary": {
+      "temperature_cols": 0,
+      "composition_cols": 0,
+      "phase_cols": 3,
+      "numeric_cols": 5,
+      "text_cols": 8
+    }
+  },
+  "chemical_system": "Unknown",
+  "system_confidence": "low",
+  "final_rows": 56,
+  "final_cols": 16
+}

@@ -1,0 +1,36 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Generated output directories (regenerable from pipeline)
+output/02_cleaned_enhanced/
+output/03_improved_headers/
+output/03_analyzed/
+output/04_database/
+output/extraction_accuracy_report.json
+output/validation_report.json
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.egg-info/
+dist/
+build/
+
