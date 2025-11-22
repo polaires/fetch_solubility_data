@@ -29,20 +29,32 @@ export default function TableView() {
   const rowsPerPage = 50
 
   useEffect(() => {
-    fetch(`/api/tables/${encodeURIComponent(filename)}`)
-      .then(res => res.json())
-      .then(data => {
+    // Try original tables first, then filtered tables
+    const tryFetchTable = async () => {
+      try {
+        // Try original tables API
+        let res = await fetch(`/api/tables/${encodeURIComponent(filename)}`)
+        let data = await res.json()
+
+        // If not found, try filtered tables API
+        if (!data.success) {
+          res = await fetch(`/api/filtered-tables/${encodeURIComponent(filename)}`)
+          data = await res.json()
+        }
+
         if (data.success) {
           setTableData(data)
         } else {
           setError(data.error || 'Failed to load table')
         }
         setLoading(false)
-      })
-      .catch(err => {
+      } catch (err: any) {
         setError(err.message)
         setLoading(false)
-      })
+      }
+    }
+
+    tryFetchTable()
   }, [filename])
 
   if (loading) {
