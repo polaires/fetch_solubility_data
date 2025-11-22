@@ -1,0 +1,5 @@
+# Deployment trigger file
+# Last update: 2025-11-22
+# Commit: 841b0c2 - CSV files updated with proper headers for search
+
+This file triggers Vercel redeployment to pick up the latest CSV changes.
