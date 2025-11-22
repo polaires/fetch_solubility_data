@@ -1,0 +1,2951 @@
+{
+  "success": true,
+  "pdfs_processed": 12,
+  "total_tables": 307,
+  "total_rows": 3803,
+  "results": [
+    {
+      "pdf": "SDS-13_filtered.pdf",
+      "success": true,
+      "tables": 21,
+      "rows": 167,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-13_filtered",
+        "part_num": 0,
+        "filename": "SDS-13_filtered.pdf",
+        "stem": "SDS-13_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-13_filtered_table_001.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 1,
+          "rows": 21,
+          "cols": 6
+        },
+        {
+          "file": "SDS-13_filtered_table_002.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 2,
+          "rows": 7,
+          "cols": 6
+        },
+        {
+          "file": "SDS-13_filtered_table_003.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 3,
+          "rows": 19,
+          "cols": 4
+        },
+        {
+          "file": "SDS-13_filtered_table_004.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 4,
+          "rows": 15,
+          "cols": 11
+        },
+        {
+          "file": "SDS-13_filtered_table_005.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 5,
+          "rows": 2,
+          "cols": 12
+        },
+        {
+          "file": "SDS-13_filtered_table_006.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 6,
+          "rows": 5,
+          "cols": 3
+        },
+        {
+          "file": "SDS-13_filtered_table_007.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 7,
+          "rows": 16,
+          "cols": 10
+        },
+        {
+          "file": "SDS-13_filtered_table_008.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 8,
+          "rows": 4,
+          "cols": 3
+        },
+        {
+          "file": "SDS-13_filtered_table_009.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 9,
+          "rows": 4,
+          "cols": 3
+        },
+        {
+          "file": "SDS-13_filtered_table_010.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 10,
+          "rows": 17,
+          "cols": 14
+        },
+        {
+          "file": "SDS-13_filtered_table_011.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 11,
+          "rows": 2,
+          "cols": 4
+        },
+        {
+          "file": "SDS-13_filtered_table_012.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 12,
+          "rows": 2,
+          "cols": 5
+        },
+        {
+          "file": "SDS-13_filtered_table_013.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 13,
+          "rows": 2,
+          "cols": 17
+        },
+        {
+          "file": "SDS-13_filtered_table_014.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 14,
+          "rows": 3,
+          "cols": 9
+        },
+        {
+          "file": "SDS-13_filtered_table_015.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 15,
+          "rows": 3,
+          "cols": 8
+        },
+        {
+          "file": "SDS-13_filtered_table_016.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 16,
+          "rows": 1,
+          "cols": 16
+        },
+        {
+          "file": "SDS-13_filtered_table_017.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 17,
+          "rows": 17,
+          "cols": 11
+        },
+        {
+          "file": "SDS-13_filtered_table_018.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 18,
+          "rows": 15,
+          "cols": 9
+        },
+        {
+          "file": "SDS-13_filtered_table_019.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 19,
+          "rows": 2,
+          "cols": 14
+        },
+        {
+          "file": "SDS-13_filtered_table_020.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 20,
+          "rows": 5,
+          "cols": 12
+        },
+        {
+          "file": "SDS-13_filtered_table_021.csv",
+          "source_pdf": "SDS-13_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-13_filtered",
+          "table_num": 21,
+          "rows": 5,
+          "cols": 5
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-14_filtered.pdf",
+      "success": true,
+      "tables": 14,
+      "rows": 274,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-14_filtered",
+        "part_num": 0,
+        "filename": "SDS-14_filtered.pdf",
+        "stem": "SDS-14_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-14_filtered_table_001.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 1,
+          "rows": 8,
+          "cols": 5
+        },
+        {
+          "file": "SDS-14_filtered_table_002.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 2,
+          "rows": 16,
+          "cols": 5
+        },
+        {
+          "file": "SDS-14_filtered_table_003.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 3,
+          "rows": 18,
+          "cols": 6
+        },
+        {
+          "file": "SDS-14_filtered_table_004.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 4,
+          "rows": 26,
+          "cols": 8
+        },
+        {
+          "file": "SDS-14_filtered_table_005.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 5,
+          "rows": 12,
+          "cols": 4
+        },
+        {
+          "file": "SDS-14_filtered_table_006.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 6,
+          "rows": 35,
+          "cols": 10
+        },
+        {
+          "file": "SDS-14_filtered_table_007.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 7,
+          "rows": 18,
+          "cols": 3
+        },
+        {
+          "file": "SDS-14_filtered_table_008.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 8,
+          "rows": 26,
+          "cols": 9
+        },
+        {
+          "file": "SDS-14_filtered_table_009.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 9,
+          "rows": 24,
+          "cols": 10
+        },
+        {
+          "file": "SDS-14_filtered_table_010.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 10,
+          "rows": 18,
+          "cols": 8
+        },
+        {
+          "file": "SDS-14_filtered_table_011.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 11,
+          "rows": 33,
+          "cols": 6
+        },
+        {
+          "file": "SDS-14_filtered_table_012.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 12,
+          "rows": 5,
+          "cols": 6
+        },
+        {
+          "file": "SDS-14_filtered_table_013.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 13,
+          "rows": 14,
+          "cols": 6
+        },
+        {
+          "file": "SDS-14_filtered_table_014.csv",
+          "source_pdf": "SDS-14_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-14_filtered",
+          "table_num": 14,
+          "rows": 21,
+          "cols": 7
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-23_filtered.pdf",
+      "success": true,
+      "tables": 18,
+      "rows": 247,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-23_filtered",
+        "part_num": 0,
+        "filename": "SDS-23_filtered.pdf",
+        "stem": "SDS-23_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-23_filtered_table_001.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 1,
+          "rows": 6,
+          "cols": 4
+        },
+        {
+          "file": "SDS-23_filtered_table_002.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 2,
+          "rows": 9,
+          "cols": 4
+        },
+        {
+          "file": "SDS-23_filtered_table_003.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 3,
+          "rows": 19,
+          "cols": 3
+        },
+        {
+          "file": "SDS-23_filtered_table_004.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 4,
+          "rows": 17,
+          "cols": 3
+        },
+        {
+          "file": "SDS-23_filtered_table_005.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 5,
+          "rows": 10,
+          "cols": 9
+        },
+        {
+          "file": "SDS-23_filtered_table_006.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 6,
+          "rows": 8,
+          "cols": 10
+        },
+        {
+          "file": "SDS-23_filtered_table_007.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 7,
+          "rows": 23,
+          "cols": 8
+        },
+        {
+          "file": "SDS-23_filtered_table_008.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 8,
+          "rows": 54,
+          "cols": 9
+        },
+        {
+          "file": "SDS-23_filtered_table_009.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 9,
+          "rows": 16,
+          "cols": 8
+        },
+        {
+          "file": "SDS-23_filtered_table_010.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 10,
+          "rows": 9,
+          "cols": 5
+        },
+        {
+          "file": "SDS-23_filtered_table_011.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 11,
+          "rows": 5,
+          "cols": 2
+        },
+        {
+          "file": "SDS-23_filtered_table_012.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 12,
+          "rows": 9,
+          "cols": 3
+        },
+        {
+          "file": "SDS-23_filtered_table_013.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 13,
+          "rows": 10,
+          "cols": 4
+        },
+        {
+          "file": "SDS-23_filtered_table_014.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 14,
+          "rows": 12,
+          "cols": 8
+        },
+        {
+          "file": "SDS-23_filtered_table_015.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 15,
+          "rows": 9,
+          "cols": 5
+        },
+        {
+          "file": "SDS-23_filtered_table_016.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 16,
+          "rows": 8,
+          "cols": 3
+        },
+        {
+          "file": "SDS-23_filtered_table_017.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 17,
+          "rows": 21,
+          "cols": 9
+        },
+        {
+          "file": "SDS-23_filtered_table_018.csv",
+          "source_pdf": "SDS-23_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-23_filtered",
+          "table_num": 18,
+          "rows": 2,
+          "cols": 11
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-30_filtered.pdf",
+      "success": true,
+      "tables": 33,
+      "rows": 503,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-30_filtered",
+        "part_num": 0,
+        "filename": "SDS-30_filtered.pdf",
+        "stem": "SDS-30_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-30_filtered_table_001.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 1,
+          "rows": 23,
+          "cols": 7
+        },
+        {
+          "file": "SDS-30_filtered_table_002.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 2,
+          "rows": 54,
+          "cols": 7
+        },
+        {
+          "file": "SDS-30_filtered_table_003.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 3,
+          "rows": 21,
+          "cols": 6
+        },
+        {
+          "file": "SDS-30_filtered_table_004.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 4,
+          "rows": 38,
+          "cols": 7
+        },
+        {
+          "file": "SDS-30_filtered_table_005.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 5,
+          "rows": 22,
+          "cols": 10
+        },
+        {
+          "file": "SDS-30_filtered_table_006.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 6,
+          "rows": 20,
+          "cols": 6
+        },
+        {
+          "file": "SDS-30_filtered_table_007.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 7,
+          "rows": 26,
+          "cols": 8
+        },
+        {
+          "file": "SDS-30_filtered_table_008.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 8,
+          "rows": 22,
+          "cols": 6
+        },
+        {
+          "file": "SDS-30_filtered_table_009.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 9,
+          "rows": 9,
+          "cols": 3
+        },
+        {
+          "file": "SDS-30_filtered_table_010.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 10,
+          "rows": 6,
+          "cols": 3
+        },
+        {
+          "file": "SDS-30_filtered_table_011.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 11,
+          "rows": 12,
+          "cols": 8
+        },
+        {
+          "file": "SDS-30_filtered_table_012.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 12,
+          "rows": 12,
+          "cols": 4
+        },
+        {
+          "file": "SDS-30_filtered_table_013.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 13,
+          "rows": 10,
+          "cols": 4
+        },
+        {
+          "file": "SDS-30_filtered_table_014.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 14,
+          "rows": 23,
+          "cols": 6
+        },
+        {
+          "file": "SDS-30_filtered_table_015.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 15,
+          "rows": 8,
+          "cols": 5
+        },
+        {
+          "file": "SDS-30_filtered_table_016.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 16,
+          "rows": 10,
+          "cols": 6
+        },
+        {
+          "file": "SDS-30_filtered_table_017.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 17,
+          "rows": 10,
+          "cols": 6
+        },
+        {
+          "file": "SDS-30_filtered_table_018.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 18,
+          "rows": 20,
+          "cols": 3
+        },
+        {
+          "file": "SDS-30_filtered_table_019.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 19,
+          "rows": 12,
+          "cols": 8
+        },
+        {
+          "file": "SDS-30_filtered_table_020.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 20,
+          "rows": 8,
+          "cols": 4
+        },
+        {
+          "file": "SDS-30_filtered_table_021.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 21,
+          "rows": 6,
+          "cols": 2
+        },
+        {
+          "file": "SDS-30_filtered_table_022.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 22,
+          "rows": 7,
+          "cols": 4
+        },
+        {
+          "file": "SDS-30_filtered_table_023.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 23,
+          "rows": 5,
+          "cols": 4
+        },
+        {
+          "file": "SDS-30_filtered_table_024.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 24,
+          "rows": 14,
+          "cols": 7
+        },
+        {
+          "file": "SDS-30_filtered_table_025.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 25,
+          "rows": 21,
+          "cols": 8
+        },
+        {
+          "file": "SDS-30_filtered_table_026.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 26,
+          "rows": 10,
+          "cols": 6
+        },
+        {
+          "file": "SDS-30_filtered_table_027.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 27,
+          "rows": 5,
+          "cols": 6
+        },
+        {
+          "file": "SDS-30_filtered_table_028.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 28,
+          "rows": 5,
+          "cols": 6
+        },
+        {
+          "file": "SDS-30_filtered_table_029.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 29,
+          "rows": 3,
+          "cols": 8
+        },
+        {
+          "file": "SDS-30_filtered_table_030.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 30,
+          "rows": 15,
+          "cols": 4
+        },
+        {
+          "file": "SDS-30_filtered_table_031.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 31,
+          "rows": 9,
+          "cols": 4
+        },
+        {
+          "file": "SDS-30_filtered_table_032.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 32,
+          "rows": 12,
+          "cols": 4
+        },
+        {
+          "file": "SDS-30_filtered_table_033.csv",
+          "source_pdf": "SDS-30_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-30_filtered",
+          "table_num": 33,
+          "rows": 25,
+          "cols": 7
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-31_filtered.pdf",
+      "success": true,
+      "tables": 16,
+      "rows": 225,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-31_filtered",
+        "part_num": 0,
+        "filename": "SDS-31_filtered.pdf",
+        "stem": "SDS-31_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-31_filtered_table_001.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 1,
+          "rows": 14,
+          "cols": 6
+        },
+        {
+          "file": "SDS-31_filtered_table_002.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 2,
+          "rows": 24,
+          "cols": 10
+        },
+        {
+          "file": "SDS-31_filtered_table_003.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 3,
+          "rows": 31,
+          "cols": 10
+        },
+        {
+          "file": "SDS-31_filtered_table_004.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 4,
+          "rows": 2,
+          "cols": 17
+        },
+        {
+          "file": "SDS-31_filtered_table_005.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 5,
+          "rows": 17,
+          "cols": 5
+        },
+        {
+          "file": "SDS-31_filtered_table_006.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 6,
+          "rows": 10,
+          "cols": 6
+        },
+        {
+          "file": "SDS-31_filtered_table_007.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 7,
+          "rows": 22,
+          "cols": 6
+        },
+        {
+          "file": "SDS-31_filtered_table_008.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 8,
+          "rows": 25,
+          "cols": 11
+        },
+        {
+          "file": "SDS-31_filtered_table_009.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 9,
+          "rows": 4,
+          "cols": 3
+        },
+        {
+          "file": "SDS-31_filtered_table_010.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 10,
+          "rows": 8,
+          "cols": 11
+        },
+        {
+          "file": "SDS-31_filtered_table_011.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 11,
+          "rows": 8,
+          "cols": 5
+        },
+        {
+          "file": "SDS-31_filtered_table_012.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 12,
+          "rows": 16,
+          "cols": 9
+        },
+        {
+          "file": "SDS-31_filtered_table_013.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 13,
+          "rows": 7,
+          "cols": 5
+        },
+        {
+          "file": "SDS-31_filtered_table_014.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 14,
+          "rows": 14,
+          "cols": 12
+        },
+        {
+          "file": "SDS-31_filtered_table_015.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 15,
+          "rows": 18,
+          "cols": 11
+        },
+        {
+          "file": "SDS-31_filtered_table_016.csv",
+          "source_pdf": "SDS-31_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-31_filtered",
+          "table_num": 16,
+          "rows": 5,
+          "cols": 4
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-41_filtered.pdf",
+      "success": true,
+      "tables": 2,
+      "rows": 10,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-41_filtered",
+        "part_num": 0,
+        "filename": "SDS-41_filtered.pdf",
+        "stem": "SDS-41_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-41_filtered_table_001.csv",
+          "source_pdf": "SDS-41_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-41_filtered",
+          "table_num": 1,
+          "rows": 5,
+          "cols": 6
+        },
+        {
+          "file": "SDS-41_filtered_table_002.csv",
+          "source_pdf": "SDS-41_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-41_filtered",
+          "table_num": 2,
+          "rows": 5,
+          "cols": 4
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-44_filtered.pdf",
+      "success": true,
+      "tables": 11,
+      "rows": 92,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-44_filtered",
+        "part_num": 0,
+        "filename": "SDS-44_filtered.pdf",
+        "stem": "SDS-44_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-44_filtered_table_001.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 1,
+          "rows": 10,
+          "cols": 5
+        },
+        {
+          "file": "SDS-44_filtered_table_002.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 2,
+          "rows": 5,
+          "cols": 3
+        },
+        {
+          "file": "SDS-44_filtered_table_003.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 3,
+          "rows": 14,
+          "cols": 3
+        },
+        {
+          "file": "SDS-44_filtered_table_004.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 4,
+          "rows": 5,
+          "cols": 4
+        },
+        {
+          "file": "SDS-44_filtered_table_005.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 5,
+          "rows": 17,
+          "cols": 4
+        },
+        {
+          "file": "SDS-44_filtered_table_006.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 6,
+          "rows": 13,
+          "cols": 7
+        },
+        {
+          "file": "SDS-44_filtered_table_007.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 7,
+          "rows": 4,
+          "cols": 5
+        },
+        {
+          "file": "SDS-44_filtered_table_008.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 8,
+          "rows": 11,
+          "cols": 6
+        },
+        {
+          "file": "SDS-44_filtered_table_009.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 9,
+          "rows": 6,
+          "cols": 6
+        },
+        {
+          "file": "SDS-44_filtered_table_010.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 10,
+          "rows": 1,
+          "cols": 4
+        },
+        {
+          "file": "SDS-44_filtered_table_011.csv",
+          "source_pdf": "SDS-44_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-44_filtered",
+          "table_num": 11,
+          "rows": 6,
+          "cols": 3
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-47_filtered.pdf",
+      "success": true,
+      "tables": 147,
+      "rows": 1637,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-47_filtered",
+        "part_num": 0,
+        "filename": "SDS-47_filtered.pdf",
+        "stem": "SDS-47_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-47_filtered_table_001.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 1,
+          "rows": 12,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_002.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 2,
+          "rows": 7,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_003.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 3,
+          "rows": 4,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_004.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 4,
+          "rows": 7,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_005.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 5,
+          "rows": 15,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_006.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 6,
+          "rows": 30,
+          "cols": 12
+        },
+        {
+          "file": "SDS-47_filtered_table_007.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 7,
+          "rows": 33,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_008.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 8,
+          "rows": 25,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_009.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 9,
+          "rows": 21,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_010.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 10,
+          "rows": 4,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_011.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 11,
+          "rows": 31,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_012.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 12,
+          "rows": 23,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_013.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 13,
+          "rows": 2,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_014.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 14,
+          "rows": 6,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_015.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 15,
+          "rows": 12,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_016.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 16,
+          "rows": 8,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_017.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 17,
+          "rows": 10,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_018.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 18,
+          "rows": 22,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_019.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 19,
+          "rows": 6,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_020.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 20,
+          "rows": 18,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_021.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 21,
+          "rows": 31,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_022.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 22,
+          "rows": 16,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_023.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 23,
+          "rows": 7,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_024.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 24,
+          "rows": 5,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_025.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 25,
+          "rows": 8,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_026.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 26,
+          "rows": 28,
+          "cols": 8
+        },
+        {
+          "file": "SDS-47_filtered_table_027.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 27,
+          "rows": 20,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_028.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 28,
+          "rows": 9,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_029.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 29,
+          "rows": 10,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_030.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 30,
+          "rows": 23,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_031.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 31,
+          "rows": 26,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_032.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 32,
+          "rows": 17,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_033.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 33,
+          "rows": 5,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_034.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 34,
+          "rows": 4,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_035.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 35,
+          "rows": 8,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_036.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 36,
+          "rows": 16,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_037.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 37,
+          "rows": 3,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_038.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 38,
+          "rows": 8,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_039.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 39,
+          "rows": 8,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_040.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 40,
+          "rows": 10,
+          "cols": 8
+        },
+        {
+          "file": "SDS-47_filtered_table_041.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 41,
+          "rows": 4,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_042.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 42,
+          "rows": 6,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_043.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 43,
+          "rows": 11,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_044.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 44,
+          "rows": 16,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_045.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 45,
+          "rows": 4,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_046.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 46,
+          "rows": 15,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_047.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 47,
+          "rows": 12,
+          "cols": 2
+        },
+        {
+          "file": "SDS-47_filtered_table_048.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 48,
+          "rows": 17,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_049.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 49,
+          "rows": 5,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_050.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 50,
+          "rows": 4,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_051.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 51,
+          "rows": 4,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_052.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 52,
+          "rows": 8,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_053.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 53,
+          "rows": 28,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_054.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 54,
+          "rows": 7,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_055.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 55,
+          "rows": 8,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_056.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 56,
+          "rows": 18,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_057.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 57,
+          "rows": 2,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_058.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 58,
+          "rows": 9,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_059.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 59,
+          "rows": 18,
+          "cols": 14
+        },
+        {
+          "file": "SDS-47_filtered_table_060.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 60,
+          "rows": 8,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_061.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 61,
+          "rows": 4,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_062.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 62,
+          "rows": 29,
+          "cols": 8
+        },
+        {
+          "file": "SDS-47_filtered_table_063.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 63,
+          "rows": 3,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_064.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 64,
+          "rows": 11,
+          "cols": 9
+        },
+        {
+          "file": "SDS-47_filtered_table_065.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 65,
+          "rows": 16,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_066.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 66,
+          "rows": 18,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_067.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 67,
+          "rows": 13,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_068.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 68,
+          "rows": 4,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_069.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 69,
+          "rows": 12,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_070.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 70,
+          "rows": 8,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_071.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 71,
+          "rows": 12,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_072.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 72,
+          "rows": 22,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_073.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 73,
+          "rows": 7,
+          "cols": 9
+        },
+        {
+          "file": "SDS-47_filtered_table_074.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 74,
+          "rows": 5,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_075.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 75,
+          "rows": 7,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_076.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 76,
+          "rows": 6,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_077.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 77,
+          "rows": 4,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_078.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 78,
+          "rows": 8,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_079.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 79,
+          "rows": 22,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_080.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 80,
+          "rows": 10,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_081.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 81,
+          "rows": 5,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_082.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 82,
+          "rows": 7,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_083.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 83,
+          "rows": 14,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_084.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 84,
+          "rows": 6,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_085.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 85,
+          "rows": 3,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_086.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 86,
+          "rows": 7,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_087.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 87,
+          "rows": 18,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_088.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 88,
+          "rows": 13,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_089.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 89,
+          "rows": 7,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_090.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 90,
+          "rows": 4,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_091.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 91,
+          "rows": 5,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_092.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 92,
+          "rows": 12,
+          "cols": 9
+        },
+        {
+          "file": "SDS-47_filtered_table_093.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 93,
+          "rows": 4,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_094.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 94,
+          "rows": 4,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_095.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 95,
+          "rows": 3,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_096.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 96,
+          "rows": 5,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_097.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 97,
+          "rows": 25,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_098.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 98,
+          "rows": 9,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_099.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 99,
+          "rows": 3,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_100.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 100,
+          "rows": 12,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_101.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 101,
+          "rows": 6,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_102.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 102,
+          "rows": 6,
+          "cols": 9
+        },
+        {
+          "file": "SDS-47_filtered_table_103.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 103,
+          "rows": 7,
+          "cols": 2
+        },
+        {
+          "file": "SDS-47_filtered_table_104.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 104,
+          "rows": 21,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_105.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 105,
+          "rows": 11,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_106.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 106,
+          "rows": 8,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_107.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 107,
+          "rows": 27,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_108.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 108,
+          "rows": 2,
+          "cols": 9
+        },
+        {
+          "file": "SDS-47_filtered_table_109.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 109,
+          "rows": 5,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_110.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 110,
+          "rows": 13,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_111.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 111,
+          "rows": 3,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_112.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 112,
+          "rows": 10,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_113.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 113,
+          "rows": 6,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_114.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 114,
+          "rows": 7,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_115.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 115,
+          "rows": 33,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_116.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 116,
+          "rows": 11,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_117.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 117,
+          "rows": 18,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_118.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 118,
+          "rows": 22,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_119.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 119,
+          "rows": 8,
+          "cols": 7
+        },
+        {
+          "file": "SDS-47_filtered_table_120.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 120,
+          "rows": 17,
+          "cols": 12
+        },
+        {
+          "file": "SDS-47_filtered_table_121.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 121,
+          "rows": 16,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_122.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 122,
+          "rows": 12,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_123.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 123,
+          "rows": 3,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_124.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 124,
+          "rows": 11,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_125.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 125,
+          "rows": 2,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_126.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 126,
+          "rows": 4,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_127.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 127,
+          "rows": 2,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_128.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 128,
+          "rows": 4,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_129.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 129,
+          "rows": 16,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_130.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 130,
+          "rows": 9,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_131.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 131,
+          "rows": 12,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_132.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 132,
+          "rows": 13,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_133.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 133,
+          "rows": 6,
+          "cols": 9
+        },
+        {
+          "file": "SDS-47_filtered_table_134.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 134,
+          "rows": 11,
+          "cols": 10
+        },
+        {
+          "file": "SDS-47_filtered_table_135.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 135,
+          "rows": 2,
+          "cols": 6
+        },
+        {
+          "file": "SDS-47_filtered_table_136.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 136,
+          "rows": 2,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_137.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 137,
+          "rows": 2,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_138.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 138,
+          "rows": 18,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_139.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 139,
+          "rows": 10,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_140.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 140,
+          "rows": 22,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_141.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 141,
+          "rows": 8,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_142.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 142,
+          "rows": 7,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_143.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 143,
+          "rows": 16,
+          "cols": 3
+        },
+        {
+          "file": "SDS-47_filtered_table_144.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 144,
+          "rows": 10,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_145.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 145,
+          "rows": 19,
+          "cols": 5
+        },
+        {
+          "file": "SDS-47_filtered_table_146.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 146,
+          "rows": 7,
+          "cols": 4
+        },
+        {
+          "file": "SDS-47_filtered_table_147.csv",
+          "source_pdf": "SDS-47_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-47_filtered",
+          "table_num": 147,
+          "rows": 3,
+          "cols": 4
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-52_filtered.pdf",
+      "success": true,
+      "tables": 21,
+      "rows": 283,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-52_filtered",
+        "part_num": 0,
+        "filename": "SDS-52_filtered.pdf",
+        "stem": "SDS-52_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-52_filtered_table_001.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 1,
+          "rows": 8,
+          "cols": 10
+        },
+        {
+          "file": "SDS-52_filtered_table_002.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 2,
+          "rows": 13,
+          "cols": 4
+        },
+        {
+          "file": "SDS-52_filtered_table_003.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 3,
+          "rows": 9,
+          "cols": 7
+        },
+        {
+          "file": "SDS-52_filtered_table_004.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 4,
+          "rows": 29,
+          "cols": 11
+        },
+        {
+          "file": "SDS-52_filtered_table_005.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 5,
+          "rows": 14,
+          "cols": 3
+        },
+        {
+          "file": "SDS-52_filtered_table_006.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 6,
+          "rows": 10,
+          "cols": 3
+        },
+        {
+          "file": "SDS-52_filtered_table_007.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 7,
+          "rows": 8,
+          "cols": 4
+        },
+        {
+          "file": "SDS-52_filtered_table_008.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 8,
+          "rows": 4,
+          "cols": 10
+        },
+        {
+          "file": "SDS-52_filtered_table_009.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 9,
+          "rows": 7,
+          "cols": 3
+        },
+        {
+          "file": "SDS-52_filtered_table_010.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 10,
+          "rows": 44,
+          "cols": 5
+        },
+        {
+          "file": "SDS-52_filtered_table_011.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 11,
+          "rows": 11,
+          "cols": 5
+        },
+        {
+          "file": "SDS-52_filtered_table_012.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 12,
+          "rows": 11,
+          "cols": 12
+        },
+        {
+          "file": "SDS-52_filtered_table_013.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 13,
+          "rows": 16,
+          "cols": 3
+        },
+        {
+          "file": "SDS-52_filtered_table_014.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 14,
+          "rows": 8,
+          "cols": 5
+        },
+        {
+          "file": "SDS-52_filtered_table_015.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 15,
+          "rows": 22,
+          "cols": 3
+        },
+        {
+          "file": "SDS-52_filtered_table_016.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 16,
+          "rows": 24,
+          "cols": 3
+        },
+        {
+          "file": "SDS-52_filtered_table_017.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 17,
+          "rows": 1,
+          "cols": 9
+        },
+        {
+          "file": "SDS-52_filtered_table_018.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 18,
+          "rows": 11,
+          "cols": 4
+        },
+        {
+          "file": "SDS-52_filtered_table_019.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 19,
+          "rows": 19,
+          "cols": 5
+        },
+        {
+          "file": "SDS-52_filtered_table_020.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 20,
+          "rows": 5,
+          "cols": 5
+        },
+        {
+          "file": "SDS-52_filtered_table_021.csv",
+          "source_pdf": "SDS-52_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-52_filtered",
+          "table_num": 21,
+          "rows": 9,
+          "cols": 5
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-55_filtered.pdf",
+      "success": true,
+      "tables": 13,
+      "rows": 170,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-55_filtered",
+        "part_num": 0,
+        "filename": "SDS-55_filtered.pdf",
+        "stem": "SDS-55_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-55_filtered_table_001.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 1,
+          "rows": 18,
+          "cols": 14
+        },
+        {
+          "file": "SDS-55_filtered_table_002.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 2,
+          "rows": 25,
+          "cols": 4
+        },
+        {
+          "file": "SDS-55_filtered_table_003.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 3,
+          "rows": 8,
+          "cols": 3
+        },
+        {
+          "file": "SDS-55_filtered_table_004.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 4,
+          "rows": 20,
+          "cols": 5
+        },
+        {
+          "file": "SDS-55_filtered_table_005.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 5,
+          "rows": 21,
+          "cols": 3
+        },
+        {
+          "file": "SDS-55_filtered_table_006.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 6,
+          "rows": 7,
+          "cols": 3
+        },
+        {
+          "file": "SDS-55_filtered_table_007.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 7,
+          "rows": 12,
+          "cols": 7
+        },
+        {
+          "file": "SDS-55_filtered_table_008.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 8,
+          "rows": 2,
+          "cols": 10
+        },
+        {
+          "file": "SDS-55_filtered_table_009.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 9,
+          "rows": 11,
+          "cols": 5
+        },
+        {
+          "file": "SDS-55_filtered_table_010.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 10,
+          "rows": 21,
+          "cols": 8
+        },
+        {
+          "file": "SDS-55_filtered_table_011.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 11,
+          "rows": 15,
+          "cols": 5
+        },
+        {
+          "file": "SDS-55_filtered_table_012.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 12,
+          "rows": 3,
+          "cols": 4
+        },
+        {
+          "file": "SDS-55_filtered_table_013.csv",
+          "source_pdf": "SDS-55_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-55_filtered",
+          "table_num": 13,
+          "rows": 7,
+          "cols": 9
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-61_filtered.pdf",
+      "success": true,
+      "tables": 9,
+      "rows": 136,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-61_filtered",
+        "part_num": 0,
+        "filename": "SDS-61_filtered.pdf",
+        "stem": "SDS-61_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-61_filtered_table_001.csv",
+          "source_pdf": "SDS-61_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-61_filtered",
+          "table_num": 1,
+          "rows": 17,
+          "cols": 8
+        },
+        {
+          "file": "SDS-61_filtered_table_002.csv",
+          "source_pdf": "SDS-61_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-61_filtered",
+          "table_num": 2,
+          "rows": 10,
+          "cols": 9
+        },
+        {
+          "file": "SDS-61_filtered_table_003.csv",
+          "source_pdf": "SDS-61_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-61_filtered",
+          "table_num": 3,
+          "rows": 3,
+          "cols": 9
+        },
+        {
+          "file": "SDS-61_filtered_table_004.csv",
+          "source_pdf": "SDS-61_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-61_filtered",
+          "table_num": 4,
+          "rows": 24,
+          "cols": 4
+        },
+        {
+          "file": "SDS-61_filtered_table_005.csv",
+          "source_pdf": "SDS-61_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-61_filtered",
+          "table_num": 5,
+          "rows": 10,
+          "cols": 4
+        },
+        {
+          "file": "SDS-61_filtered_table_006.csv",
+          "source_pdf": "SDS-61_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-61_filtered",
+          "table_num": 6,
+          "rows": 18,
+          "cols": 3
+        },
+        {
+          "file": "SDS-61_filtered_table_007.csv",
+          "source_pdf": "SDS-61_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-61_filtered",
+          "table_num": 7,
+          "rows": 19,
+          "cols": 5
+        },
+        {
+          "file": "SDS-61_filtered_table_008.csv",
+          "source_pdf": "SDS-61_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-61_filtered",
+          "table_num": 8,
+          "rows": 7,
+          "cols": 5
+        },
+        {
+          "file": "SDS-61_filtered_table_009.csv",
+          "source_pdf": "SDS-61_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-61_filtered",
+          "table_num": 9,
+          "rows": 28,
+          "cols": 8
+        }
+      ]
+    },
+    {
+      "pdf": "SDS-65_filtered.pdf",
+      "success": true,
+      "tables": 2,
+      "rows": 59,
+      "metadata": {
+        "series": "Unknown",
+        "part": "SDS-65_filtered",
+        "part_num": 0,
+        "filename": "SDS-65_filtered.pdf",
+        "stem": "SDS-65_filtered"
+      },
+      "table_info": [
+        {
+          "file": "SDS-65_filtered_table_001.csv",
+          "source_pdf": "SDS-65_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-65_filtered",
+          "table_num": 1,
+          "rows": 37,
+          "cols": 1
+        },
+        {
+          "file": "SDS-65_filtered_table_002.csv",
+          "source_pdf": "SDS-65_filtered.pdf",
+          "series": "Unknown",
+          "part": "SDS-65_filtered",
+          "table_num": 2,
+          "rows": 22,
+          "cols": 1
+        }
+      ]
+    }
+  ]
+}

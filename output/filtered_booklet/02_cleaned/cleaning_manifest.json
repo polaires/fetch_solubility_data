@@ -1,0 +1,2157 @@
+{
+  "success": true,
+  "files_processed": 307,
+  "total_numeric_before": 13134,
+  "total_numeric_after": 13139,
+  "results": [
+    {
+      "file": "SDS-13_filtered_table_001.csv",
+      "rows": 21,
+      "cols": 6,
+      "original_numeric": 10,
+      "cleaned_numeric": 10
+    },
+    {
+      "file": "SDS-13_filtered_table_002.csv",
+      "rows": 7,
+      "cols": 6,
+      "original_numeric": 42,
+      "cleaned_numeric": 42
+    },
+    {
+      "file": "SDS-13_filtered_table_003.csv",
+      "rows": 19,
+      "cols": 4,
+      "original_numeric": 59,
+      "cleaned_numeric": 59
+    },
+    {
+      "file": "SDS-13_filtered_table_004.csv",
+      "rows": 15,
+      "cols": 11,
+      "original_numeric": 72,
+      "cleaned_numeric": 72
+    },
+    {
+      "file": "SDS-13_filtered_table_005.csv",
+      "rows": 2,
+      "cols": 12,
+      "original_numeric": 6,
+      "cleaned_numeric": 6
+    },
+    {
+      "file": "SDS-13_filtered_table_006.csv",
+      "rows": 5,
+      "cols": 3,
+      "original_numeric": 15,
+      "cleaned_numeric": 15
+    },
+    {
+      "file": "SDS-13_filtered_table_007.csv",
+      "rows": 16,
+      "cols": 10,
+      "original_numeric": 81,
+      "cleaned_numeric": 81
+    },
+    {
+      "file": "SDS-13_filtered_table_008.csv",
+      "rows": 4,
+      "cols": 3,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-13_filtered_table_009.csv",
+      "rows": 4,
+      "cols": 3,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-13_filtered_table_010.csv",
+      "rows": 17,
+      "cols": 14,
+      "original_numeric": 57,
+      "cleaned_numeric": 57
+    },
+    {
+      "file": "SDS-13_filtered_table_011.csv",
+      "rows": 2,
+      "cols": 4,
+      "original_numeric": 3,
+      "cleaned_numeric": 3
+    },
+    {
+      "file": "SDS-13_filtered_table_012.csv",
+      "rows": 2,
+      "cols": 5,
+      "original_numeric": 3,
+      "cleaned_numeric": 3
+    },
+    {
+      "file": "SDS-13_filtered_table_013.csv",
+      "rows": 2,
+      "cols": 17,
+      "original_numeric": 1,
+      "cleaned_numeric": 1
+    },
+    {
+      "file": "SDS-13_filtered_table_014.csv",
+      "rows": 3,
+      "cols": 9,
+      "original_numeric": 10,
+      "cleaned_numeric": 10
+    },
+    {
+      "file": "SDS-13_filtered_table_015.csv",
+      "rows": 3,
+      "cols": 8,
+      "original_numeric": 18,
+      "cleaned_numeric": 18
+    },
+    {
+      "file": "SDS-13_filtered_table_016.csv",
+      "rows": 1,
+      "cols": 16,
+      "original_numeric": 3,
+      "cleaned_numeric": 3
+    },
+    {
+      "file": "SDS-13_filtered_table_017.csv",
+      "rows": 17,
+      "cols": 11,
+      "original_numeric": 72,
+      "cleaned_numeric": 72
+    },
+    {
+      "file": "SDS-13_filtered_table_018.csv",
+      "rows": 15,
+      "cols": 9,
+      "original_numeric": 84,
+      "cleaned_numeric": 84
+    },
+    {
+      "file": "SDS-13_filtered_table_019.csv",
+      "rows": 2,
+      "cols": 14,
+      "original_numeric": 1,
+      "cleaned_numeric": 1
+    },
+    {
+      "file": "SDS-13_filtered_table_020.csv",
+      "rows": 5,
+      "cols": 12,
+      "original_numeric": 11,
+      "cleaned_numeric": 11
+    },
+    {
+      "file": "SDS-13_filtered_table_021.csv",
+      "rows": 5,
+      "cols": 5,
+      "original_numeric": 19,
+      "cleaned_numeric": 19
+    },
+    {
+      "file": "SDS-14_filtered_table_001.csv",
+      "rows": 8,
+      "cols": 5,
+      "original_numeric": 34,
+      "cleaned_numeric": 34
+    },
+    {
+      "file": "SDS-14_filtered_table_002.csv",
+      "rows": 16,
+      "cols": 5,
+      "original_numeric": 56,
+      "cleaned_numeric": 56
+    },
+    {
+      "file": "SDS-14_filtered_table_003.csv",
+      "rows": 18,
+      "cols": 6,
+      "original_numeric": 54,
+      "cleaned_numeric": 54
+    },
+    {
+      "file": "SDS-14_filtered_table_004.csv",
+      "rows": 26,
+      "cols": 8,
+      "original_numeric": 115,
+      "cleaned_numeric": 115
+    },
+    {
+      "file": "SDS-14_filtered_table_005.csv",
+      "rows": 12,
+      "cols": 4,
+      "original_numeric": 37,
+      "cleaned_numeric": 37
+    },
+    {
+      "file": "SDS-14_filtered_table_006.csv",
+      "rows": 35,
+      "cols": 10,
+      "original_numeric": 56,
+      "cleaned_numeric": 56
+    },
+    {
+      "file": "SDS-14_filtered_table_007.csv",
+      "rows": 18,
+      "cols": 3,
+      "original_numeric": 36,
+      "cleaned_numeric": 36
+    },
+    {
+      "file": "SDS-14_filtered_table_008.csv",
+      "rows": 26,
+      "cols": 9,
+      "original_numeric": 118,
+      "cleaned_numeric": 118
+    },
+    {
+      "file": "SDS-14_filtered_table_009.csv",
+      "rows": 24,
+      "cols": 10,
+      "original_numeric": 115,
+      "cleaned_numeric": 115
+    },
+    {
+      "file": "SDS-14_filtered_table_010.csv",
+      "rows": 18,
+      "cols": 8,
+      "original_numeric": 86,
+      "cleaned_numeric": 86
+    },
+    {
+      "file": "SDS-14_filtered_table_011.csv",
+      "rows": 33,
+      "cols": 6,
+      "original_numeric": 88,
+      "cleaned_numeric": 88
+    },
+    {
+      "file": "SDS-14_filtered_table_012.csv",
+      "rows": 5,
+      "cols": 6,
+      "original_numeric": 11,
+      "cleaned_numeric": 11
+    },
+    {
+      "file": "SDS-14_filtered_table_013.csv",
+      "rows": 14,
+      "cols": 6,
+      "original_numeric": 17,
+      "cleaned_numeric": 17
+    },
+    {
+      "file": "SDS-14_filtered_table_014.csv",
+      "rows": 21,
+      "cols": 7,
+      "original_numeric": 63,
+      "cleaned_numeric": 63
+    },
+    {
+      "file": "SDS-23_filtered_table_001.csv",
+      "rows": 6,
+      "cols": 4,
+      "original_numeric": 23,
+      "cleaned_numeric": 23
+    },
+    {
+      "file": "SDS-23_filtered_table_002.csv",
+      "rows": 9,
+      "cols": 4,
+      "original_numeric": 36,
+      "cleaned_numeric": 36
+    },
+    {
+      "file": "SDS-23_filtered_table_003.csv",
+      "rows": 19,
+      "cols": 3,
+      "original_numeric": 54,
+      "cleaned_numeric": 54
+    },
+    {
+      "file": "SDS-23_filtered_table_004.csv",
+      "rows": 17,
+      "cols": 3,
+      "original_numeric": 51,
+      "cleaned_numeric": 51
+    },
+    {
+      "file": "SDS-23_filtered_table_005.csv",
+      "rows": 10,
+      "cols": 9,
+      "original_numeric": 72,
+      "cleaned_numeric": 72
+    },
+    {
+      "file": "SDS-23_filtered_table_006.csv",
+      "rows": 8,
+      "cols": 10,
+      "original_numeric": 15,
+      "cleaned_numeric": 15
+    },
+    {
+      "file": "SDS-23_filtered_table_007.csv",
+      "rows": 23,
+      "cols": 8,
+      "original_numeric": 130,
+      "cleaned_numeric": 130
+    },
+    {
+      "file": "SDS-23_filtered_table_008.csv",
+      "rows": 54,
+      "cols": 9,
+      "original_numeric": 324,
+      "cleaned_numeric": 324
+    },
+    {
+      "file": "SDS-23_filtered_table_009.csv",
+      "rows": 16,
+      "cols": 8,
+      "original_numeric": 37,
+      "cleaned_numeric": 37
+    },
+    {
+      "file": "SDS-23_filtered_table_010.csv",
+      "rows": 9,
+      "cols": 5,
+      "original_numeric": 45,
+      "cleaned_numeric": 45
+    },
+    {
+      "file": "SDS-23_filtered_table_011.csv",
+      "rows": 5,
+      "cols": 2,
+      "original_numeric": 10,
+      "cleaned_numeric": 10
+    },
+    {
+      "file": "SDS-23_filtered_table_012.csv",
+      "rows": 9,
+      "cols": 3,
+      "original_numeric": 27,
+      "cleaned_numeric": 27
+    },
+    {
+      "file": "SDS-23_filtered_table_013.csv",
+      "rows": 10,
+      "cols": 4,
+      "original_numeric": 40,
+      "cleaned_numeric": 40
+    },
+    {
+      "file": "SDS-23_filtered_table_014.csv",
+      "rows": 12,
+      "cols": 8,
+      "original_numeric": 78,
+      "cleaned_numeric": 78
+    },
+    {
+      "file": "SDS-23_filtered_table_015.csv",
+      "rows": 9,
+      "cols": 5,
+      "original_numeric": 33,
+      "cleaned_numeric": 33
+    },
+    {
+      "file": "SDS-23_filtered_table_016.csv",
+      "rows": 8,
+      "cols": 3,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-23_filtered_table_017.csv",
+      "rows": 21,
+      "cols": 9,
+      "original_numeric": 115,
+      "cleaned_numeric": 115
+    },
+    {
+      "file": "SDS-23_filtered_table_018.csv",
+      "rows": 2,
+      "cols": 11,
+      "original_numeric": 1,
+      "cleaned_numeric": 1
+    },
+    {
+      "file": "SDS-30_filtered_table_001.csv",
+      "rows": 23,
+      "cols": 7,
+      "original_numeric": 116,
+      "cleaned_numeric": 116
+    },
+    {
+      "file": "SDS-30_filtered_table_002.csv",
+      "rows": 54,
+      "cols": 7,
+      "original_numeric": 274,
+      "cleaned_numeric": 274
+    },
+    {
+      "file": "SDS-30_filtered_table_003.csv",
+      "rows": 21,
+      "cols": 6,
+      "original_numeric": 105,
+      "cleaned_numeric": 105
+    },
+    {
+      "file": "SDS-30_filtered_table_004.csv",
+      "rows": 38,
+      "cols": 7,
+      "original_numeric": 144,
+      "cleaned_numeric": 144
+    },
+    {
+      "file": "SDS-30_filtered_table_005.csv",
+      "rows": 22,
+      "cols": 10,
+      "original_numeric": 105,
+      "cleaned_numeric": 105
+    },
+    {
+      "file": "SDS-30_filtered_table_006.csv",
+      "rows": 20,
+      "cols": 6,
+      "original_numeric": 60,
+      "cleaned_numeric": 60
+    },
+    {
+      "file": "SDS-30_filtered_table_007.csv",
+      "rows": 26,
+      "cols": 8,
+      "original_numeric": 71,
+      "cleaned_numeric": 71
+    },
+    {
+      "file": "SDS-30_filtered_table_008.csv",
+      "rows": 22,
+      "cols": 6,
+      "original_numeric": 84,
+      "cleaned_numeric": 84
+    },
+    {
+      "file": "SDS-30_filtered_table_009.csv",
+      "rows": 9,
+      "cols": 3,
+      "original_numeric": 27,
+      "cleaned_numeric": 27
+    },
+    {
+      "file": "SDS-30_filtered_table_010.csv",
+      "rows": 6,
+      "cols": 3,
+      "original_numeric": 18,
+      "cleaned_numeric": 18
+    },
+    {
+      "file": "SDS-30_filtered_table_011.csv",
+      "rows": 12,
+      "cols": 8,
+      "original_numeric": 48,
+      "cleaned_numeric": 48
+    },
+    {
+      "file": "SDS-30_filtered_table_012.csv",
+      "rows": 12,
+      "cols": 4,
+      "original_numeric": 48,
+      "cleaned_numeric": 48
+    },
+    {
+      "file": "SDS-30_filtered_table_013.csv",
+      "rows": 10,
+      "cols": 4,
+      "original_numeric": 40,
+      "cleaned_numeric": 40
+    },
+    {
+      "file": "SDS-30_filtered_table_014.csv",
+      "rows": 23,
+      "cols": 6,
+      "original_numeric": 94,
+      "cleaned_numeric": 94
+    },
+    {
+      "file": "SDS-30_filtered_table_015.csv",
+      "rows": 8,
+      "cols": 5,
+      "original_numeric": 33,
+      "cleaned_numeric": 33
+    },
+    {
+      "file": "SDS-30_filtered_table_016.csv",
+      "rows": 10,
+      "cols": 6,
+      "original_numeric": 49,
+      "cleaned_numeric": 49
+    },
+    {
+      "file": "SDS-30_filtered_table_017.csv",
+      "rows": 10,
+      "cols": 6,
+      "original_numeric": 49,
+      "cleaned_numeric": 49
+    },
+    {
+      "file": "SDS-30_filtered_table_018.csv",
+      "rows": 20,
+      "cols": 3,
+      "original_numeric": 60,
+      "cleaned_numeric": 60
+    },
+    {
+      "file": "SDS-30_filtered_table_019.csv",
+      "rows": 12,
+      "cols": 8,
+      "original_numeric": 47,
+      "cleaned_numeric": 47
+    },
+    {
+      "file": "SDS-30_filtered_table_020.csv",
+      "rows": 8,
+      "cols": 4,
+      "original_numeric": 32,
+      "cleaned_numeric": 32
+    },
+    {
+      "file": "SDS-30_filtered_table_021.csv",
+      "rows": 6,
+      "cols": 2,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-30_filtered_table_022.csv",
+      "rows": 7,
+      "cols": 4,
+      "original_numeric": 28,
+      "cleaned_numeric": 28
+    },
+    {
+      "file": "SDS-30_filtered_table_023.csv",
+      "rows": 5,
+      "cols": 4,
+      "original_numeric": 20,
+      "cleaned_numeric": 20
+    },
+    {
+      "file": "SDS-30_filtered_table_024.csv",
+      "rows": 14,
+      "cols": 7,
+      "original_numeric": 56,
+      "cleaned_numeric": 56
+    },
+    {
+      "file": "SDS-30_filtered_table_025.csv",
+      "rows": 21,
+      "cols": 8,
+      "original_numeric": 99,
+      "cleaned_numeric": 99
+    },
+    {
+      "file": "SDS-30_filtered_table_026.csv",
+      "rows": 10,
+      "cols": 6,
+      "original_numeric": 37,
+      "cleaned_numeric": 37
+    },
+    {
+      "file": "SDS-30_filtered_table_027.csv",
+      "rows": 5,
+      "cols": 6,
+      "original_numeric": 25,
+      "cleaned_numeric": 25
+    },
+    {
+      "file": "SDS-30_filtered_table_028.csv",
+      "rows": 5,
+      "cols": 6,
+      "original_numeric": 25,
+      "cleaned_numeric": 25
+    },
+    {
+      "file": "SDS-30_filtered_table_029.csv",
+      "rows": 3,
+      "cols": 8,
+      "original_numeric": 1,
+      "cleaned_numeric": 1
+    },
+    {
+      "file": "SDS-30_filtered_table_030.csv",
+      "rows": 15,
+      "cols": 4,
+      "original_numeric": 60,
+      "cleaned_numeric": 60
+    },
+    {
+      "file": "SDS-30_filtered_table_031.csv",
+      "rows": 9,
+      "cols": 4,
+      "original_numeric": 36,
+      "cleaned_numeric": 36
+    },
+    {
+      "file": "SDS-30_filtered_table_032.csv",
+      "rows": 12,
+      "cols": 4,
+      "original_numeric": 47,
+      "cleaned_numeric": 47
+    },
+    {
+      "file": "SDS-30_filtered_table_033.csv",
+      "rows": 25,
+      "cols": 7,
+      "original_numeric": 104,
+      "cleaned_numeric": 104
+    },
+    {
+      "file": "SDS-31_filtered_table_001.csv",
+      "rows": 14,
+      "cols": 6,
+      "original_numeric": 56,
+      "cleaned_numeric": 56
+    },
+    {
+      "file": "SDS-31_filtered_table_002.csv",
+      "rows": 24,
+      "cols": 10,
+      "original_numeric": 204,
+      "cleaned_numeric": 206
+    },
+    {
+      "file": "SDS-31_filtered_table_003.csv",
+      "rows": 31,
+      "cols": 10,
+      "original_numeric": 254,
+      "cleaned_numeric": 254
+    },
+    {
+      "file": "SDS-31_filtered_table_004.csv",
+      "rows": 2,
+      "cols": 17,
+      "original_numeric": 5,
+      "cleaned_numeric": 5
+    },
+    {
+      "file": "SDS-31_filtered_table_005.csv",
+      "rows": 17,
+      "cols": 5,
+      "original_numeric": 85,
+      "cleaned_numeric": 85
+    },
+    {
+      "file": "SDS-31_filtered_table_006.csv",
+      "rows": 10,
+      "cols": 6,
+      "original_numeric": 39,
+      "cleaned_numeric": 40
+    },
+    {
+      "file": "SDS-31_filtered_table_007.csv",
+      "rows": 22,
+      "cols": 6,
+      "original_numeric": 85,
+      "cleaned_numeric": 85
+    },
+    {
+      "file": "SDS-31_filtered_table_008.csv",
+      "rows": 25,
+      "cols": 11,
+      "original_numeric": 112,
+      "cleaned_numeric": 113
+    },
+    {
+      "file": "SDS-31_filtered_table_009.csv",
+      "rows": 4,
+      "cols": 3,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-31_filtered_table_010.csv",
+      "rows": 8,
+      "cols": 11,
+      "original_numeric": 23,
+      "cleaned_numeric": 23
+    },
+    {
+      "file": "SDS-31_filtered_table_011.csv",
+      "rows": 8,
+      "cols": 5,
+      "original_numeric": 26,
+      "cleaned_numeric": 26
+    },
+    {
+      "file": "SDS-31_filtered_table_012.csv",
+      "rows": 16,
+      "cols": 9,
+      "original_numeric": 60,
+      "cleaned_numeric": 60
+    },
+    {
+      "file": "SDS-31_filtered_table_013.csv",
+      "rows": 7,
+      "cols": 5,
+      "original_numeric": 23,
+      "cleaned_numeric": 23
+    },
+    {
+      "file": "SDS-31_filtered_table_014.csv",
+      "rows": 14,
+      "cols": 12,
+      "original_numeric": 106,
+      "cleaned_numeric": 104
+    },
+    {
+      "file": "SDS-31_filtered_table_015.csv",
+      "rows": 18,
+      "cols": 11,
+      "original_numeric": 114,
+      "cleaned_numeric": 116
+    },
+    {
+      "file": "SDS-31_filtered_table_016.csv",
+      "rows": 5,
+      "cols": 4,
+      "original_numeric": 20,
+      "cleaned_numeric": 20
+    },
+    {
+      "file": "SDS-41_filtered_table_001.csv",
+      "rows": 5,
+      "cols": 6,
+      "original_numeric": 30,
+      "cleaned_numeric": 30
+    },
+    {
+      "file": "SDS-41_filtered_table_002.csv",
+      "rows": 5,
+      "cols": 4,
+      "original_numeric": 20,
+      "cleaned_numeric": 20
+    },
+    {
+      "file": "SDS-44_filtered_table_001.csv",
+      "rows": 10,
+      "cols": 5,
+      "original_numeric": 37,
+      "cleaned_numeric": 37
+    },
+    {
+      "file": "SDS-44_filtered_table_002.csv",
+      "rows": 5,
+      "cols": 3,
+      "original_numeric": 15,
+      "cleaned_numeric": 15
+    },
+    {
+      "file": "SDS-44_filtered_table_003.csv",
+      "rows": 14,
+      "cols": 3,
+      "original_numeric": 42,
+      "cleaned_numeric": 42
+    },
+    {
+      "file": "SDS-44_filtered_table_004.csv",
+      "rows": 5,
+      "cols": 4,
+      "original_numeric": 20,
+      "cleaned_numeric": 20
+    },
+    {
+      "file": "SDS-44_filtered_table_005.csv",
+      "rows": 17,
+      "cols": 4,
+      "original_numeric": 68,
+      "cleaned_numeric": 68
+    },
+    {
+      "file": "SDS-44_filtered_table_006.csv",
+      "rows": 13,
+      "cols": 7,
+      "original_numeric": 57,
+      "cleaned_numeric": 57
+    },
+    {
+      "file": "SDS-44_filtered_table_007.csv",
+      "rows": 4,
+      "cols": 5,
+      "original_numeric": 20,
+      "cleaned_numeric": 20
+    },
+    {
+      "file": "SDS-44_filtered_table_008.csv",
+      "rows": 11,
+      "cols": 6,
+      "original_numeric": 53,
+      "cleaned_numeric": 53
+    },
+    {
+      "file": "SDS-44_filtered_table_009.csv",
+      "rows": 6,
+      "cols": 6,
+      "original_numeric": 34,
+      "cleaned_numeric": 34
+    },
+    {
+      "file": "SDS-44_filtered_table_010.csv",
+      "rows": 1,
+      "cols": 4,
+      "original_numeric": 3,
+      "cleaned_numeric": 3
+    },
+    {
+      "file": "SDS-44_filtered_table_011.csv",
+      "rows": 6,
+      "cols": 3,
+      "original_numeric": 18,
+      "cleaned_numeric": 18
+    },
+    {
+      "file": "SDS-47_filtered_table_001.csv",
+      "rows": 12,
+      "cols": 6,
+      "original_numeric": 33,
+      "cleaned_numeric": 33
+    },
+    {
+      "file": "SDS-47_filtered_table_002.csv",
+      "rows": 7,
+      "cols": 3,
+      "original_numeric": 14,
+      "cleaned_numeric": 14
+    },
+    {
+      "file": "SDS-47_filtered_table_003.csv",
+      "rows": 4,
+      "cols": 5,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-47_filtered_table_004.csv",
+      "rows": 7,
+      "cols": 7,
+      "original_numeric": 26,
+      "cleaned_numeric": 26
+    },
+    {
+      "file": "SDS-47_filtered_table_005.csv",
+      "rows": 15,
+      "cols": 7,
+      "original_numeric": 29,
+      "cleaned_numeric": 29
+    },
+    {
+      "file": "SDS-47_filtered_table_006.csv",
+      "rows": 30,
+      "cols": 12,
+      "original_numeric": 75,
+      "cleaned_numeric": 75
+    },
+    {
+      "file": "SDS-47_filtered_table_007.csv",
+      "rows": 33,
+      "cols": 4,
+      "original_numeric": 99,
+      "cleaned_numeric": 99
+    },
+    {
+      "file": "SDS-47_filtered_table_008.csv",
+      "rows": 25,
+      "cols": 7,
+      "original_numeric": 78,
+      "cleaned_numeric": 78
+    },
+    {
+      "file": "SDS-47_filtered_table_009.csv",
+      "rows": 21,
+      "cols": 5,
+      "original_numeric": 37,
+      "cleaned_numeric": 37
+    },
+    {
+      "file": "SDS-47_filtered_table_010.csv",
+      "rows": 4,
+      "cols": 4,
+      "original_numeric": 14,
+      "cleaned_numeric": 14
+    },
+    {
+      "file": "SDS-47_filtered_table_011.csv",
+      "rows": 31,
+      "cols": 7,
+      "original_numeric": 38,
+      "cleaned_numeric": 38
+    },
+    {
+      "file": "SDS-47_filtered_table_012.csv",
+      "rows": 23,
+      "cols": 4,
+      "original_numeric": 49,
+      "cleaned_numeric": 49
+    },
+    {
+      "file": "SDS-47_filtered_table_013.csv",
+      "rows": 2,
+      "cols": 3,
+      "original_numeric": 4,
+      "cleaned_numeric": 4
+    },
+    {
+      "file": "SDS-47_filtered_table_014.csv",
+      "rows": 6,
+      "cols": 5,
+      "original_numeric": 13,
+      "cleaned_numeric": 13
+    },
+    {
+      "file": "SDS-47_filtered_table_015.csv",
+      "rows": 12,
+      "cols": 6,
+      "original_numeric": 27,
+      "cleaned_numeric": 27
+    },
+    {
+      "file": "SDS-47_filtered_table_016.csv",
+      "rows": 8,
+      "cols": 7,
+      "original_numeric": 27,
+      "cleaned_numeric": 27
+    },
+    {
+      "file": "SDS-47_filtered_table_017.csv",
+      "rows": 10,
+      "cols": 5,
+      "original_numeric": 30,
+      "cleaned_numeric": 30
+    },
+    {
+      "file": "SDS-47_filtered_table_018.csv",
+      "rows": 22,
+      "cols": 5,
+      "original_numeric": 88,
+      "cleaned_numeric": 88
+    },
+    {
+      "file": "SDS-47_filtered_table_019.csv",
+      "rows": 6,
+      "cols": 5,
+      "original_numeric": 18,
+      "cleaned_numeric": 18
+    },
+    {
+      "file": "SDS-47_filtered_table_020.csv",
+      "rows": 18,
+      "cols": 4,
+      "original_numeric": 54,
+      "cleaned_numeric": 54
+    },
+    {
+      "file": "SDS-47_filtered_table_021.csv",
+      "rows": 31,
+      "cols": 6,
+      "original_numeric": 106,
+      "cleaned_numeric": 106
+    },
+    {
+      "file": "SDS-47_filtered_table_022.csv",
+      "rows": 16,
+      "cols": 6,
+      "original_numeric": 49,
+      "cleaned_numeric": 49
+    },
+    {
+      "file": "SDS-47_filtered_table_023.csv",
+      "rows": 7,
+      "cols": 3,
+      "original_numeric": 14,
+      "cleaned_numeric": 14
+    },
+    {
+      "file": "SDS-47_filtered_table_024.csv",
+      "rows": 5,
+      "cols": 4,
+      "original_numeric": 15,
+      "cleaned_numeric": 15
+    },
+    {
+      "file": "SDS-47_filtered_table_025.csv",
+      "rows": 8,
+      "cols": 4,
+      "original_numeric": 22,
+      "cleaned_numeric": 22
+    },
+    {
+      "file": "SDS-47_filtered_table_026.csv",
+      "rows": 28,
+      "cols": 8,
+      "original_numeric": 81,
+      "cleaned_numeric": 81
+    },
+    {
+      "file": "SDS-47_filtered_table_027.csv",
+      "rows": 20,
+      "cols": 5,
+      "original_numeric": 41,
+      "cleaned_numeric": 41
+    },
+    {
+      "file": "SDS-47_filtered_table_028.csv",
+      "rows": 9,
+      "cols": 3,
+      "original_numeric": 18,
+      "cleaned_numeric": 18
+    },
+    {
+      "file": "SDS-47_filtered_table_029.csv",
+      "rows": 10,
+      "cols": 4,
+      "original_numeric": 30,
+      "cleaned_numeric": 30
+    },
+    {
+      "file": "SDS-47_filtered_table_030.csv",
+      "rows": 23,
+      "cols": 4,
+      "original_numeric": 72,
+      "cleaned_numeric": 72
+    },
+    {
+      "file": "SDS-47_filtered_table_031.csv",
+      "rows": 26,
+      "cols": 5,
+      "original_numeric": 78,
+      "cleaned_numeric": 78
+    },
+    {
+      "file": "SDS-47_filtered_table_032.csv",
+      "rows": 17,
+      "cols": 5,
+      "original_numeric": 36,
+      "cleaned_numeric": 36
+    },
+    {
+      "file": "SDS-47_filtered_table_033.csv",
+      "rows": 5,
+      "cols": 4,
+      "original_numeric": 15,
+      "cleaned_numeric": 15
+    },
+    {
+      "file": "SDS-47_filtered_table_034.csv",
+      "rows": 4,
+      "cols": 4,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-47_filtered_table_035.csv",
+      "rows": 8,
+      "cols": 5,
+      "original_numeric": 32,
+      "cleaned_numeric": 32
+    },
+    {
+      "file": "SDS-47_filtered_table_036.csv",
+      "rows": 16,
+      "cols": 4,
+      "original_numeric": 32,
+      "cleaned_numeric": 32
+    },
+    {
+      "file": "SDS-47_filtered_table_037.csv",
+      "rows": 3,
+      "cols": 5,
+      "original_numeric": 9,
+      "cleaned_numeric": 9
+    },
+    {
+      "file": "SDS-47_filtered_table_038.csv",
+      "rows": 8,
+      "cols": 4,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-47_filtered_table_039.csv",
+      "rows": 8,
+      "cols": 3,
+      "original_numeric": 16,
+      "cleaned_numeric": 16
+    },
+    {
+      "file": "SDS-47_filtered_table_040.csv",
+      "rows": 10,
+      "cols": 8,
+      "original_numeric": 38,
+      "cleaned_numeric": 38
+    },
+    {
+      "file": "SDS-47_filtered_table_041.csv",
+      "rows": 4,
+      "cols": 5,
+      "original_numeric": 16,
+      "cleaned_numeric": 16
+    },
+    {
+      "file": "SDS-47_filtered_table_042.csv",
+      "rows": 6,
+      "cols": 3,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-47_filtered_table_043.csv",
+      "rows": 11,
+      "cols": 5,
+      "original_numeric": 33,
+      "cleaned_numeric": 33
+    },
+    {
+      "file": "SDS-47_filtered_table_044.csv",
+      "rows": 16,
+      "cols": 4,
+      "original_numeric": 48,
+      "cleaned_numeric": 48
+    },
+    {
+      "file": "SDS-47_filtered_table_045.csv",
+      "rows": 4,
+      "cols": 6,
+      "original_numeric": 18,
+      "cleaned_numeric": 18
+    },
+    {
+      "file": "SDS-47_filtered_table_046.csv",
+      "rows": 15,
+      "cols": 7,
+      "original_numeric": 39,
+      "cleaned_numeric": 39
+    },
+    {
+      "file": "SDS-47_filtered_table_047.csv",
+      "rows": 12,
+      "cols": 2,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-47_filtered_table_048.csv",
+      "rows": 17,
+      "cols": 5,
+      "original_numeric": 56,
+      "cleaned_numeric": 56
+    },
+    {
+      "file": "SDS-47_filtered_table_049.csv",
+      "rows": 5,
+      "cols": 5,
+      "original_numeric": 20,
+      "cleaned_numeric": 20
+    },
+    {
+      "file": "SDS-47_filtered_table_050.csv",
+      "rows": 4,
+      "cols": 7,
+      "original_numeric": 15,
+      "cleaned_numeric": 15
+    },
+    {
+      "file": "SDS-47_filtered_table_051.csv",
+      "rows": 4,
+      "cols": 3,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-47_filtered_table_052.csv",
+      "rows": 8,
+      "cols": 4,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-47_filtered_table_053.csv",
+      "rows": 28,
+      "cols": 5,
+      "original_numeric": 112,
+      "cleaned_numeric": 112
+    },
+    {
+      "file": "SDS-47_filtered_table_054.csv",
+      "rows": 7,
+      "cols": 4,
+      "original_numeric": 21,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-47_filtered_table_055.csv",
+      "rows": 8,
+      "cols": 5,
+      "original_numeric": 34,
+      "cleaned_numeric": 34
+    },
+    {
+      "file": "SDS-47_filtered_table_056.csv",
+      "rows": 18,
+      "cols": 5,
+      "original_numeric": 72,
+      "cleaned_numeric": 72
+    },
+    {
+      "file": "SDS-47_filtered_table_057.csv",
+      "rows": 2,
+      "cols": 5,
+      "original_numeric": 7,
+      "cleaned_numeric": 7
+    },
+    {
+      "file": "SDS-47_filtered_table_058.csv",
+      "rows": 9,
+      "cols": 4,
+      "original_numeric": 27,
+      "cleaned_numeric": 27
+    },
+    {
+      "file": "SDS-47_filtered_table_059.csv",
+      "rows": 18,
+      "cols": 14,
+      "original_numeric": 179,
+      "cleaned_numeric": 179
+    },
+    {
+      "file": "SDS-47_filtered_table_060.csv",
+      "rows": 8,
+      "cols": 6,
+      "original_numeric": 34,
+      "cleaned_numeric": 34
+    },
+    {
+      "file": "SDS-47_filtered_table_061.csv",
+      "rows": 4,
+      "cols": 5,
+      "original_numeric": 16,
+      "cleaned_numeric": 16
+    },
+    {
+      "file": "SDS-47_filtered_table_062.csv",
+      "rows": 29,
+      "cols": 8,
+      "original_numeric": 88,
+      "cleaned_numeric": 88
+    },
+    {
+      "file": "SDS-47_filtered_table_063.csv",
+      "rows": 3,
+      "cols": 5,
+      "original_numeric": 8,
+      "cleaned_numeric": 8
+    },
+    {
+      "file": "SDS-47_filtered_table_064.csv",
+      "rows": 11,
+      "cols": 9,
+      "original_numeric": 87,
+      "cleaned_numeric": 87
+    },
+    {
+      "file": "SDS-47_filtered_table_065.csv",
+      "rows": 16,
+      "cols": 6,
+      "original_numeric": 96,
+      "cleaned_numeric": 96
+    },
+    {
+      "file": "SDS-47_filtered_table_066.csv",
+      "rows": 18,
+      "cols": 6,
+      "original_numeric": 54,
+      "cleaned_numeric": 54
+    },
+    {
+      "file": "SDS-47_filtered_table_067.csv",
+      "rows": 13,
+      "cols": 3,
+      "original_numeric": 26,
+      "cleaned_numeric": 26
+    },
+    {
+      "file": "SDS-47_filtered_table_068.csv",
+      "rows": 4,
+      "cols": 3,
+      "original_numeric": 8,
+      "cleaned_numeric": 8
+    },
+    {
+      "file": "SDS-47_filtered_table_069.csv",
+      "rows": 12,
+      "cols": 4,
+      "original_numeric": 36,
+      "cleaned_numeric": 36
+    },
+    {
+      "file": "SDS-47_filtered_table_070.csv",
+      "rows": 8,
+      "cols": 4,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-47_filtered_table_071.csv",
+      "rows": 12,
+      "cols": 5,
+      "original_numeric": 48,
+      "cleaned_numeric": 48
+    },
+    {
+      "file": "SDS-47_filtered_table_072.csv",
+      "rows": 22,
+      "cols": 4,
+      "original_numeric": 66,
+      "cleaned_numeric": 66
+    },
+    {
+      "file": "SDS-47_filtered_table_073.csv",
+      "rows": 7,
+      "cols": 9,
+      "original_numeric": 57,
+      "cleaned_numeric": 57
+    },
+    {
+      "file": "SDS-47_filtered_table_074.csv",
+      "rows": 5,
+      "cols": 4,
+      "original_numeric": 15,
+      "cleaned_numeric": 15
+    },
+    {
+      "file": "SDS-47_filtered_table_075.csv",
+      "rows": 7,
+      "cols": 5,
+      "original_numeric": 21,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-47_filtered_table_076.csv",
+      "rows": 6,
+      "cols": 5,
+      "original_numeric": 18,
+      "cleaned_numeric": 18
+    },
+    {
+      "file": "SDS-47_filtered_table_077.csv",
+      "rows": 4,
+      "cols": 4,
+      "original_numeric": 13,
+      "cleaned_numeric": 13
+    },
+    {
+      "file": "SDS-47_filtered_table_078.csv",
+      "rows": 8,
+      "cols": 5,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-47_filtered_table_079.csv",
+      "rows": 22,
+      "cols": 4,
+      "original_numeric": 66,
+      "cleaned_numeric": 66
+    },
+    {
+      "file": "SDS-47_filtered_table_080.csv",
+      "rows": 10,
+      "cols": 4,
+      "original_numeric": 30,
+      "cleaned_numeric": 30
+    },
+    {
+      "file": "SDS-47_filtered_table_081.csv",
+      "rows": 5,
+      "cols": 4,
+      "original_numeric": 15,
+      "cleaned_numeric": 15
+    },
+    {
+      "file": "SDS-47_filtered_table_082.csv",
+      "rows": 7,
+      "cols": 3,
+      "original_numeric": 14,
+      "cleaned_numeric": 14
+    },
+    {
+      "file": "SDS-47_filtered_table_083.csv",
+      "rows": 14,
+      "cols": 5,
+      "original_numeric": 56,
+      "cleaned_numeric": 56
+    },
+    {
+      "file": "SDS-47_filtered_table_084.csv",
+      "rows": 6,
+      "cols": 4,
+      "original_numeric": 18,
+      "cleaned_numeric": 18
+    },
+    {
+      "file": "SDS-47_filtered_table_085.csv",
+      "rows": 3,
+      "cols": 4,
+      "original_numeric": 9,
+      "cleaned_numeric": 9
+    },
+    {
+      "file": "SDS-47_filtered_table_086.csv",
+      "rows": 7,
+      "cols": 5,
+      "original_numeric": 28,
+      "cleaned_numeric": 28
+    },
+    {
+      "file": "SDS-47_filtered_table_087.csv",
+      "rows": 18,
+      "cols": 3,
+      "original_numeric": 36,
+      "cleaned_numeric": 36
+    },
+    {
+      "file": "SDS-47_filtered_table_088.csv",
+      "rows": 13,
+      "cols": 5,
+      "original_numeric": 37,
+      "cleaned_numeric": 37
+    },
+    {
+      "file": "SDS-47_filtered_table_089.csv",
+      "rows": 7,
+      "cols": 3,
+      "original_numeric": 14,
+      "cleaned_numeric": 14
+    },
+    {
+      "file": "SDS-47_filtered_table_090.csv",
+      "rows": 4,
+      "cols": 4,
+      "original_numeric": 1,
+      "cleaned_numeric": 1
+    },
+    {
+      "file": "SDS-47_filtered_table_091.csv",
+      "rows": 5,
+      "cols": 4,
+      "original_numeric": 15,
+      "cleaned_numeric": 15
+    },
+    {
+      "file": "SDS-47_filtered_table_092.csv",
+      "rows": 12,
+      "cols": 9,
+      "original_numeric": 44,
+      "cleaned_numeric": 44
+    },
+    {
+      "file": "SDS-47_filtered_table_093.csv",
+      "rows": 4,
+      "cols": 5,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-47_filtered_table_094.csv",
+      "rows": 4,
+      "cols": 6,
+      "original_numeric": 8,
+      "cleaned_numeric": 8
+    },
+    {
+      "file": "SDS-47_filtered_table_095.csv",
+      "rows": 3,
+      "cols": 4,
+      "original_numeric": 8,
+      "cleaned_numeric": 8
+    },
+    {
+      "file": "SDS-47_filtered_table_096.csv",
+      "rows": 5,
+      "cols": 5,
+      "original_numeric": 19,
+      "cleaned_numeric": 19
+    },
+    {
+      "file": "SDS-47_filtered_table_097.csv",
+      "rows": 25,
+      "cols": 4,
+      "original_numeric": 75,
+      "cleaned_numeric": 75
+    },
+    {
+      "file": "SDS-47_filtered_table_098.csv",
+      "rows": 9,
+      "cols": 6,
+      "original_numeric": 28,
+      "cleaned_numeric": 28
+    },
+    {
+      "file": "SDS-47_filtered_table_099.csv",
+      "rows": 3,
+      "cols": 4,
+      "original_numeric": 8,
+      "cleaned_numeric": 8
+    },
+    {
+      "file": "SDS-47_filtered_table_100.csv",
+      "rows": 12,
+      "cols": 7,
+      "original_numeric": 20,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-47_filtered_table_101.csv",
+      "rows": 6,
+      "cols": 5,
+      "original_numeric": 21,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-47_filtered_table_102.csv",
+      "rows": 6,
+      "cols": 9,
+      "original_numeric": 22,
+      "cleaned_numeric": 22
+    },
+    {
+      "file": "SDS-47_filtered_table_103.csv",
+      "rows": 7,
+      "cols": 2,
+      "original_numeric": 13,
+      "cleaned_numeric": 13
+    },
+    {
+      "file": "SDS-47_filtered_table_104.csv",
+      "rows": 21,
+      "cols": 4,
+      "original_numeric": 66,
+      "cleaned_numeric": 66
+    },
+    {
+      "file": "SDS-47_filtered_table_105.csv",
+      "rows": 11,
+      "cols": 5,
+      "original_numeric": 40,
+      "cleaned_numeric": 40
+    },
+    {
+      "file": "SDS-47_filtered_table_106.csv",
+      "rows": 8,
+      "cols": 4,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-47_filtered_table_107.csv",
+      "rows": 27,
+      "cols": 4,
+      "original_numeric": 81,
+      "cleaned_numeric": 81
+    },
+    {
+      "file": "SDS-47_filtered_table_108.csv",
+      "rows": 2,
+      "cols": 9,
+      "original_numeric": 2,
+      "cleaned_numeric": 2
+    },
+    {
+      "file": "SDS-47_filtered_table_109.csv",
+      "rows": 5,
+      "cols": 5,
+      "original_numeric": 20,
+      "cleaned_numeric": 20
+    },
+    {
+      "file": "SDS-47_filtered_table_110.csv",
+      "rows": 13,
+      "cols": 3,
+      "original_numeric": 26,
+      "cleaned_numeric": 26
+    },
+    {
+      "file": "SDS-47_filtered_table_111.csv",
+      "rows": 3,
+      "cols": 4,
+      "original_numeric": 7,
+      "cleaned_numeric": 7
+    },
+    {
+      "file": "SDS-47_filtered_table_112.csv",
+      "rows": 10,
+      "cols": 3,
+      "original_numeric": 26,
+      "cleaned_numeric": 26
+    },
+    {
+      "file": "SDS-47_filtered_table_113.csv",
+      "rows": 6,
+      "cols": 4,
+      "original_numeric": 13,
+      "cleaned_numeric": 13
+    },
+    {
+      "file": "SDS-47_filtered_table_114.csv",
+      "rows": 7,
+      "cols": 3,
+      "original_numeric": 14,
+      "cleaned_numeric": 14
+    },
+    {
+      "file": "SDS-47_filtered_table_115.csv",
+      "rows": 33,
+      "cols": 7,
+      "original_numeric": 128,
+      "cleaned_numeric": 128
+    },
+    {
+      "file": "SDS-47_filtered_table_116.csv",
+      "rows": 11,
+      "cols": 5,
+      "original_numeric": 34,
+      "cleaned_numeric": 34
+    },
+    {
+      "file": "SDS-47_filtered_table_117.csv",
+      "rows": 18,
+      "cols": 4,
+      "original_numeric": 54,
+      "cleaned_numeric": 54
+    },
+    {
+      "file": "SDS-47_filtered_table_118.csv",
+      "rows": 22,
+      "cols": 7,
+      "original_numeric": 87,
+      "cleaned_numeric": 87
+    },
+    {
+      "file": "SDS-47_filtered_table_119.csv",
+      "rows": 8,
+      "cols": 7,
+      "original_numeric": 35,
+      "cleaned_numeric": 35
+    },
+    {
+      "file": "SDS-47_filtered_table_120.csv",
+      "rows": 17,
+      "cols": 12,
+      "original_numeric": 61,
+      "cleaned_numeric": 61
+    },
+    {
+      "file": "SDS-47_filtered_table_121.csv",
+      "rows": 16,
+      "cols": 3,
+      "original_numeric": 32,
+      "cleaned_numeric": 32
+    },
+    {
+      "file": "SDS-47_filtered_table_122.csv",
+      "rows": 12,
+      "cols": 6,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-47_filtered_table_123.csv",
+      "rows": 3,
+      "cols": 3,
+      "original_numeric": 6,
+      "cleaned_numeric": 6
+    },
+    {
+      "file": "SDS-47_filtered_table_124.csv",
+      "rows": 11,
+      "cols": 4,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-47_filtered_table_125.csv",
+      "rows": 2,
+      "cols": 5,
+      "original_numeric": 4,
+      "cleaned_numeric": 4
+    },
+    {
+      "file": "SDS-47_filtered_table_126.csv",
+      "rows": 4,
+      "cols": 5,
+      "original_numeric": 4,
+      "cleaned_numeric": 4
+    },
+    {
+      "file": "SDS-47_filtered_table_127.csv",
+      "rows": 2,
+      "cols": 4,
+      "original_numeric": 2,
+      "cleaned_numeric": 2
+    },
+    {
+      "file": "SDS-47_filtered_table_128.csv",
+      "rows": 4,
+      "cols": 5,
+      "original_numeric": 16,
+      "cleaned_numeric": 16
+    },
+    {
+      "file": "SDS-47_filtered_table_129.csv",
+      "rows": 16,
+      "cols": 4,
+      "original_numeric": 49,
+      "cleaned_numeric": 49
+    },
+    {
+      "file": "SDS-47_filtered_table_130.csv",
+      "rows": 9,
+      "cols": 3,
+      "original_numeric": 18,
+      "cleaned_numeric": 18
+    },
+    {
+      "file": "SDS-47_filtered_table_131.csv",
+      "rows": 12,
+      "cols": 3,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-47_filtered_table_132.csv",
+      "rows": 13,
+      "cols": 4,
+      "original_numeric": 39,
+      "cleaned_numeric": 39
+    },
+    {
+      "file": "SDS-47_filtered_table_133.csv",
+      "rows": 6,
+      "cols": 9,
+      "original_numeric": 54,
+      "cleaned_numeric": 54
+    },
+    {
+      "file": "SDS-47_filtered_table_134.csv",
+      "rows": 11,
+      "cols": 10,
+      "original_numeric": 34,
+      "cleaned_numeric": 34
+    },
+    {
+      "file": "SDS-47_filtered_table_135.csv",
+      "rows": 2,
+      "cols": 6,
+      "original_numeric": 8,
+      "cleaned_numeric": 8
+    },
+    {
+      "file": "SDS-47_filtered_table_136.csv",
+      "rows": 2,
+      "cols": 5,
+      "original_numeric": 8,
+      "cleaned_numeric": 8
+    },
+    {
+      "file": "SDS-47_filtered_table_137.csv",
+      "rows": 2,
+      "cols": 5,
+      "original_numeric": 8,
+      "cleaned_numeric": 8
+    },
+    {
+      "file": "SDS-47_filtered_table_138.csv",
+      "rows": 18,
+      "cols": 3,
+      "original_numeric": 36,
+      "cleaned_numeric": 36
+    },
+    {
+      "file": "SDS-47_filtered_table_139.csv",
+      "rows": 10,
+      "cols": 3,
+      "original_numeric": 30,
+      "cleaned_numeric": 30
+    },
+    {
+      "file": "SDS-47_filtered_table_140.csv",
+      "rows": 22,
+      "cols": 5,
+      "original_numeric": 88,
+      "cleaned_numeric": 88
+    },
+    {
+      "file": "SDS-47_filtered_table_141.csv",
+      "rows": 8,
+      "cols": 5,
+      "original_numeric": 32,
+      "cleaned_numeric": 32
+    },
+    {
+      "file": "SDS-47_filtered_table_142.csv",
+      "rows": 7,
+      "cols": 4,
+      "original_numeric": 21,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-47_filtered_table_143.csv",
+      "rows": 16,
+      "cols": 3,
+      "original_numeric": 32,
+      "cleaned_numeric": 32
+    },
+    {
+      "file": "SDS-47_filtered_table_144.csv",
+      "rows": 10,
+      "cols": 4,
+      "original_numeric": 30,
+      "cleaned_numeric": 30
+    },
+    {
+      "file": "SDS-47_filtered_table_145.csv",
+      "rows": 19,
+      "cols": 5,
+      "original_numeric": 76,
+      "cleaned_numeric": 76
+    },
+    {
+      "file": "SDS-47_filtered_table_146.csv",
+      "rows": 7,
+      "cols": 4,
+      "original_numeric": 21,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-47_filtered_table_147.csv",
+      "rows": 3,
+      "cols": 4,
+      "original_numeric": 9,
+      "cleaned_numeric": 9
+    },
+    {
+      "file": "SDS-52_filtered_table_001.csv",
+      "rows": 8,
+      "cols": 10,
+      "original_numeric": 63,
+      "cleaned_numeric": 63
+    },
+    {
+      "file": "SDS-52_filtered_table_002.csv",
+      "rows": 13,
+      "cols": 4,
+      "original_numeric": 22,
+      "cleaned_numeric": 22
+    },
+    {
+      "file": "SDS-52_filtered_table_003.csv",
+      "rows": 9,
+      "cols": 7,
+      "original_numeric": 43,
+      "cleaned_numeric": 43
+    },
+    {
+      "file": "SDS-52_filtered_table_004.csv",
+      "rows": 29,
+      "cols": 11,
+      "original_numeric": 76,
+      "cleaned_numeric": 76
+    },
+    {
+      "file": "SDS-52_filtered_table_005.csv",
+      "rows": 14,
+      "cols": 3,
+      "original_numeric": 42,
+      "cleaned_numeric": 42
+    },
+    {
+      "file": "SDS-52_filtered_table_006.csv",
+      "rows": 10,
+      "cols": 3,
+      "original_numeric": 30,
+      "cleaned_numeric": 30
+    },
+    {
+      "file": "SDS-52_filtered_table_007.csv",
+      "rows": 8,
+      "cols": 4,
+      "original_numeric": 16,
+      "cleaned_numeric": 16
+    },
+    {
+      "file": "SDS-52_filtered_table_008.csv",
+      "rows": 4,
+      "cols": 10,
+      "original_numeric": 3,
+      "cleaned_numeric": 3
+    },
+    {
+      "file": "SDS-52_filtered_table_009.csv",
+      "rows": 7,
+      "cols": 3,
+      "original_numeric": 21,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-52_filtered_table_010.csv",
+      "rows": 44,
+      "cols": 5,
+      "original_numeric": 133,
+      "cleaned_numeric": 133
+    },
+    {
+      "file": "SDS-52_filtered_table_011.csv",
+      "rows": 11,
+      "cols": 5,
+      "original_numeric": 35,
+      "cleaned_numeric": 35
+    },
+    {
+      "file": "SDS-52_filtered_table_012.csv",
+      "rows": 11,
+      "cols": 12,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-52_filtered_table_013.csv",
+      "rows": 16,
+      "cols": 3,
+      "original_numeric": 48,
+      "cleaned_numeric": 48
+    },
+    {
+      "file": "SDS-52_filtered_table_014.csv",
+      "rows": 8,
+      "cols": 5,
+      "original_numeric": 36,
+      "cleaned_numeric": 36
+    },
+    {
+      "file": "SDS-52_filtered_table_015.csv",
+      "rows": 22,
+      "cols": 3,
+      "original_numeric": 66,
+      "cleaned_numeric": 66
+    },
+    {
+      "file": "SDS-52_filtered_table_016.csv",
+      "rows": 24,
+      "cols": 3,
+      "original_numeric": 72,
+      "cleaned_numeric": 72
+    },
+    {
+      "file": "SDS-52_filtered_table_017.csv",
+      "rows": 1,
+      "cols": 9,
+      "original_numeric": 2,
+      "cleaned_numeric": 2
+    },
+    {
+      "file": "SDS-52_filtered_table_018.csv",
+      "rows": 11,
+      "cols": 4,
+      "original_numeric": 34,
+      "cleaned_numeric": 34
+    },
+    {
+      "file": "SDS-52_filtered_table_019.csv",
+      "rows": 19,
+      "cols": 5,
+      "original_numeric": 95,
+      "cleaned_numeric": 95
+    },
+    {
+      "file": "SDS-52_filtered_table_020.csv",
+      "rows": 5,
+      "cols": 5,
+      "original_numeric": 20,
+      "cleaned_numeric": 20
+    },
+    {
+      "file": "SDS-52_filtered_table_021.csv",
+      "rows": 9,
+      "cols": 5,
+      "original_numeric": 21,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-55_filtered_table_001.csv",
+      "rows": 18,
+      "cols": 14,
+      "original_numeric": 68,
+      "cleaned_numeric": 68
+    },
+    {
+      "file": "SDS-55_filtered_table_002.csv",
+      "rows": 25,
+      "cols": 4,
+      "original_numeric": 48,
+      "cleaned_numeric": 48
+    },
+    {
+      "file": "SDS-55_filtered_table_003.csv",
+      "rows": 8,
+      "cols": 3,
+      "original_numeric": 24,
+      "cleaned_numeric": 24
+    },
+    {
+      "file": "SDS-55_filtered_table_004.csv",
+      "rows": 20,
+      "cols": 5,
+      "original_numeric": 60,
+      "cleaned_numeric": 60
+    },
+    {
+      "file": "SDS-55_filtered_table_005.csv",
+      "rows": 21,
+      "cols": 3,
+      "original_numeric": 40,
+      "cleaned_numeric": 40
+    },
+    {
+      "file": "SDS-55_filtered_table_006.csv",
+      "rows": 7,
+      "cols": 3,
+      "original_numeric": 21,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-55_filtered_table_007.csv",
+      "rows": 12,
+      "cols": 7,
+      "original_numeric": 57,
+      "cleaned_numeric": 57
+    },
+    {
+      "file": "SDS-55_filtered_table_008.csv",
+      "rows": 2,
+      "cols": 10,
+      "original_numeric": 0,
+      "cleaned_numeric": 0
+    },
+    {
+      "file": "SDS-55_filtered_table_009.csv",
+      "rows": 11,
+      "cols": 5,
+      "original_numeric": 33,
+      "cleaned_numeric": 33
+    },
+    {
+      "file": "SDS-55_filtered_table_010.csv",
+      "rows": 21,
+      "cols": 8,
+      "original_numeric": 47,
+      "cleaned_numeric": 47
+    },
+    {
+      "file": "SDS-55_filtered_table_011.csv",
+      "rows": 15,
+      "cols": 5,
+      "original_numeric": 55,
+      "cleaned_numeric": 55
+    },
+    {
+      "file": "SDS-55_filtered_table_012.csv",
+      "rows": 3,
+      "cols": 4,
+      "original_numeric": 12,
+      "cleaned_numeric": 12
+    },
+    {
+      "file": "SDS-55_filtered_table_013.csv",
+      "rows": 7,
+      "cols": 9,
+      "original_numeric": 21,
+      "cleaned_numeric": 21
+    },
+    {
+      "file": "SDS-61_filtered_table_001.csv",
+      "rows": 17,
+      "cols": 8,
+      "original_numeric": 87,
+      "cleaned_numeric": 87
+    },
+    {
+      "file": "SDS-61_filtered_table_002.csv",
+      "rows": 10,
+      "cols": 9,
+      "original_numeric": 42,
+      "cleaned_numeric": 42
+    },
+    {
+      "file": "SDS-61_filtered_table_003.csv",
+      "rows": 3,
+      "cols": 9,
+      "original_numeric": 17,
+      "cleaned_numeric": 17
+    },
+    {
+      "file": "SDS-61_filtered_table_004.csv",
+      "rows": 24,
+      "cols": 4,
+      "original_numeric": 43,
+      "cleaned_numeric": 43
+    },
+    {
+      "file": "SDS-61_filtered_table_005.csv",
+      "rows": 10,
+      "cols": 4,
+      "original_numeric": 27,
+      "cleaned_numeric": 27
+    },
+    {
+      "file": "SDS-61_filtered_table_006.csv",
+      "rows": 18,
+      "cols": 3,
+      "original_numeric": 16,
+      "cleaned_numeric": 16
+    },
+    {
+      "file": "SDS-61_filtered_table_007.csv",
+      "rows": 19,
+      "cols": 5,
+      "original_numeric": 72,
+      "cleaned_numeric": 72
+    },
+    {
+      "file": "SDS-61_filtered_table_008.csv",
+      "rows": 7,
+      "cols": 5,
+      "original_numeric": 16,
+      "cleaned_numeric": 16
+    },
+    {
+      "file": "SDS-61_filtered_table_009.csv",
+      "rows": 28,
+      "cols": 8,
+      "original_numeric": 48,
+      "cleaned_numeric": 48
+    },
+    {
+      "file": "SDS-65_filtered_table_001.csv",
+      "rows": 37,
+      "cols": 1,
+      "original_numeric": 28,
+      "cleaned_numeric": 28
+    },
+    {
+      "file": "SDS-65_filtered_table_002.csv",
+      "rows": 22,
+      "cols": 1,
+      "original_numeric": 10,
+      "cleaned_numeric": 10
+    }
+  ]
+}

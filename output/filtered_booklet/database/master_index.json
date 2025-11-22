@@ -1,0 +1,4088 @@
+{
+  "created": "2025-11-22T06:11:25.801504",
+  "source_directory": "output/filtered_booklet/02_cleaned",
+  "total_files": 307,
+  "total_rows": 3803,
+  "pdf_sources": {
+    "SDS-13_filtered": {
+      "table_count": 21
+    },
+    "SDS-14_filtered": {
+      "table_count": 14
+    },
+    "SDS-23_filtered": {
+      "table_count": 18
+    },
+    "SDS-30_filtered": {
+      "table_count": 33
+    },
+    "SDS-31_filtered": {
+      "table_count": 16
+    },
+    "SDS-41_filtered": {
+      "table_count": 2
+    },
+    "SDS-44_filtered": {
+      "table_count": 11
+    },
+    "SDS-47_filtered": {
+      "table_count": 147
+    },
+    "SDS-52_filtered": {
+      "table_count": 21
+    },
+    "SDS-55_filtered": {
+      "table_count": 13
+    },
+    "SDS-61_filtered": {
+      "table_count": 9
+    },
+    "SDS-65_filtered": {
+      "table_count": 2
+    }
+  },
+  "tables": [
+    {
+      "file": "SDS-13_filtered_table_001.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_001.csv",
+      "filename": "SDS-13_filtered_table_001.csv",
+      "rows": 21,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "R",
+        "C",
+        "H",
+        "Amide",
+        "Actinide",
+        "Chloride",
+        "Dioxide",
+        "Lanthanide",
+        "L"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_002.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_002.csv",
+      "filename": "SDS-13_filtered_table_002.csv",
+      "rows": 7,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-13_filtered_table_003.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_003.csv",
+      "filename": "SDS-13_filtered_table_003.csv",
+      "rows": 19,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "La",
+        "N03"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_004.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_004.csv",
+      "filename": "SDS-13_filtered_table_004.csv",
+      "rows": 15,
+      "cols": 11,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_005.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_005.csv",
+      "filename": "SDS-13_filtered_table_005.csv",
+      "rows": 2,
+      "cols": 12,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "At",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_006.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_006.csv",
+      "filename": "SDS-13_filtered_table_006.csv",
+      "rows": 5,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-13_filtered_table_007.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_007.csv",
+      "filename": "SDS-13_filtered_table_007.csv",
+      "rows": 16,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_008.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_008.csv",
+      "filename": "SDS-13_filtered_table_008.csv",
+      "rows": 4,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-13_filtered_table_009.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_009.csv",
+      "filename": "SDS-13_filtered_table_009.csv",
+      "rows": 4,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-13_filtered_table_010.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_010.csv",
+      "filename": "SDS-13_filtered_table_010.csv",
+      "rows": 17,
+      "cols": 14,
+      "has_numeric_data": true,
+      "data_types": [
+        "phase"
+      ],
+      "chemicals": [
+        "OC",
+        "A",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_011.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_011.csv",
+      "filename": "SDS-13_filtered_table_011.csv",
+      "rows": 2,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-13_filtered_table_012.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_012.csv",
+      "filename": "SDS-13_filtered_table_012.csv",
+      "rows": 2,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-13_filtered_table_013.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_013.csv",
+      "filename": "SDS-13_filtered_table_013.csv",
+      "rows": 2,
+      "cols": 17,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "oxalate",
+        "Nd"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_014.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_014.csv",
+      "filename": "SDS-13_filtered_table_014.csv",
+      "rows": 3,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_015.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_015.csv",
+      "filename": "SDS-13_filtered_table_015.csv",
+      "rows": 3,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_016.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_016.csv",
+      "filename": "SDS-13_filtered_table_016.csv",
+      "rows": 1,
+      "cols": 16,
+      "has_numeric_data": true,
+      "data_types": [
+        "temperature",
+        "solubility"
+      ],
+      "chemicals": [
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_017.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_017.csv",
+      "filename": "SDS-13_filtered_table_017.csv",
+      "rows": 17,
+      "cols": 11,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "ZO",
+        "hydrate",
+        "N0",
+        "Sm",
+        "NO"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_018.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_018.csv",
+      "filename": "SDS-13_filtered_table_018.csv",
+      "rows": 15,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "D",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_019.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_019.csv",
+      "filename": "SDS-13_filtered_table_019.csv",
+      "rows": 2,
+      "cols": 14,
+      "has_numeric_data": true,
+      "data_types": [
+        "phase"
+      ],
+      "chemicals": [
+        "Z",
+        "KMn0"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_020.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_020.csv",
+      "filename": "SDS-13_filtered_table_020.csv",
+      "rows": 5,
+      "cols": 12,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H",
+        "F",
+        "A",
+        "J"
+      ]
+    },
+    {
+      "file": "SDS-13_filtered_table_021.csv",
+      "pdf_source": "SDS-13_filtered",
+      "path": "02_cleaned/SDS-13_filtered_table_021.csv",
+      "filename": "SDS-13_filtered_table_021.csv",
+      "rows": 5,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O2",
+        "Yb",
+        "NO"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_001.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_001.csv",
+      "filename": "SDS-14_filtered_table_001.csv",
+      "rows": 8,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Mg",
+        "Cl"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_002.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_002.csv",
+      "filename": "SDS-14_filtered_table_002.csv",
+      "rows": 16,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_003.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_003.csv",
+      "filename": "SDS-14_filtered_table_003.csv",
+      "rows": 18,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_004.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_004.csv",
+      "filename": "SDS-14_filtered_table_004.csv",
+      "rows": 26,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Ca",
+        "CI03"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_005.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_005.csv",
+      "filename": "SDS-14_filtered_table_005.csv",
+      "rows": 12,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Ca",
+        "I03"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_006.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_006.csv",
+      "filename": "SDS-14_filtered_table_006.csv",
+      "rows": 35,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KI03",
+        "hydrate",
+        "iodate",
+        "A",
+        "monohydrate"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_007.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_007.csv",
+      "filename": "SDS-14_filtered_table_007.csv",
+      "rows": 18,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "It",
+        "anhydrate",
+        "hexahydrate",
+        "monohydrate"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_008.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_008.csv",
+      "filename": "SDS-14_filtered_table_008.csv",
+      "rows": 26,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Oa",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_009.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_009.csv",
+      "filename": "SDS-14_filtered_table_009.csv",
+      "rows": 24,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_010.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_010.csv",
+      "filename": "SDS-14_filtered_table_010.csv",
+      "rows": 18,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-14_filtered_table_011.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_011.csv",
+      "filename": "SDS-14_filtered_table_011.csv",
+      "rows": 33,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Av"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_012.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_012.csv",
+      "filename": "SDS-14_filtered_table_012.csv",
+      "rows": 5,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Av"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_013.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_013.csv",
+      "filename": "SDS-14_filtered_table_013.csv",
+      "rows": 14,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "I",
+        "II",
+        "P",
+        "Av"
+      ]
+    },
+    {
+      "file": "SDS-14_filtered_table_014.csv",
+      "pdf_source": "SDS-14_filtered",
+      "path": "02_cleaned/SDS-14_filtered_table_014.csv",
+      "filename": "SDS-14_filtered_table_014.csv",
+      "rows": 21,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "I"
+      ]
+    },
+    {
+      "file": "SDS-23_filtered_table_001.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_001.csv",
+      "filename": "SDS-23_filtered_table_001.csv",
+      "rows": 6,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O"
+      ]
+    },
+    {
+      "file": "SDS-23_filtered_table_002.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_002.csv",
+      "filename": "SDS-23_filtered_table_002.csv",
+      "rows": 9,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Z700",
+        "Z"
+      ]
+    },
+    {
+      "file": "SDS-23_filtered_table_003.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_003.csv",
+      "filename": "SDS-23_filtered_table_003.csv",
+      "rows": 19,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [
+        "temperature"
+      ],
+      "chemicals": [
+        "O",
+        "CCu",
+        "OF"
+      ]
+    },
+    {
+      "file": "SDS-23_filtered_table_004.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_004.csv",
+      "filename": "SDS-23_filtered_table_004.csv",
+      "rows": 17,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-23_filtered_table_005.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_005.csv",
+      "filename": "SDS-23_filtered_table_005.csv",
+      "rows": 10,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "CC"
+      ]
+    },
+    {
+      "file": "SDS-23_filtered_table_006.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_006.csv",
+      "filename": "SDS-23_filtered_table_006.csv",
+      "rows": 8,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [
+        "solubility"
+      ],
+      "chemicals": [
+        "OH",
+        "EXPERIMENTAL",
+        "CCu",
+        "VALUES",
+        "Cu"
+      ]
+    },
+    {
+      "file": "SDS-23_filtered_table_007.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_007.csv",
+      "filename": "SDS-23_filtered_table_007.csv",
+      "rows": 23,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-23_filtered_table_008.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_008.csv",
+      "filename": "SDS-23_filtered_table_008.csv",
+      "rows": 54,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-23_filtered_table_009.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_009.csv",
+      "filename": "SDS-23_filtered_table_009.csv",
+      "rows": 16,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "AgZO",
+        "II",
+        "Ag",
+        "AgCl",
+        "L",
+        "wate"
+      ]
+    },
+    {
+      "file": "SDS-23_filtered_table_010.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_010.csv",
+      "filename": "SDS-23_filtered_table_010.csv",
+      "rows": 9,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-23_filtered_table_011.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_011.csv",
+      "filename": "SDS-23_filtered_table_011.csv",
+      "rows": 5,
+      "cols": 2,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-23_filtered_table_012.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_012.csv",
+      "filename": "SDS-23_filtered_table_012.csv",
+      "rows": 9,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-23_filtered_table_013.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_013.csv",
+      "filename": "SDS-23_filtered_table_013.csv",
+      "rows": 10,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-23_filtered_table_014.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_014.csv",
+      "filename": "SDS-23_filtered_table_014.csv",
+      "rows": 12,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-23_filtered_table_015.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_015.csv",
+      "filename": "SDS-23_filtered_table_015.csv",
+      "rows": 9,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Bz",
+        "OH",
+        "Zn",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-23_filtered_table_016.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_016.csv",
+      "filename": "SDS-23_filtered_table_016.csv",
+      "rows": 8,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-23_filtered_table_017.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_017.csv",
+      "filename": "SDS-23_filtered_table_017.csv",
+      "rows": 21,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "C",
+        "OH",
+        "Cd"
+      ]
+    },
+    {
+      "file": "SDS-23_filtered_table_018.csv",
+      "pdf_source": "SDS-23_filtered",
+      "path": "02_cleaned/SDS-23_filtered_table_018.csv",
+      "filename": "SDS-23_filtered_table_018.csv",
+      "rows": 2,
+      "cols": 11,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "PROCEDURE",
+        "AND",
+        "SOURCE",
+        "APPARATUS",
+        "METHOD"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_001.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_001.csv",
+      "filename": "SDS-30_filtered_table_001.csv",
+      "rows": 23,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "LiCl03"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_002.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_002.csv",
+      "filename": "SDS-30_filtered_table_002.csv",
+      "rows": 54,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H20",
+        "Il",
+        "LiC103"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_003.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_003.csv",
+      "filename": "SDS-30_filtered_table_003.csv",
+      "rows": 21,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "S",
+        "LiC103"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_004.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_004.csv",
+      "filename": "SDS-30_filtered_table_004.csv",
+      "rows": 38,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "LiCl03"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_005.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_005.csv",
+      "filename": "SDS-30_filtered_table_005.csv",
+      "rows": 22,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H20",
+        "LiC103"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_006.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_006.csv",
+      "filename": "SDS-30_filtered_table_006.csv",
+      "rows": 20,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_007.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_007.csv",
+      "filename": "SDS-30_filtered_table_007.csv",
+      "rows": 26,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [
+        "solubility"
+      ],
+      "chemicals": [
+        "D",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_008.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_008.csv",
+      "filename": "SDS-30_filtered_table_008.csv",
+      "rows": 22,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "OC",
+        "IOO"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_009.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_009.csv",
+      "filename": "SDS-30_filtered_table_009.csv",
+      "rows": 9,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_010.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_010.csv",
+      "filename": "SDS-30_filtered_table_010.csv",
+      "rows": 6,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_011.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_011.csv",
+      "filename": "SDS-30_filtered_table_011.csv",
+      "rows": 12,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Q",
+        "U"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_012.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_012.csv",
+      "filename": "SDS-30_filtered_table_012.csv",
+      "rows": 12,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_013.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_013.csv",
+      "filename": "SDS-30_filtered_table_013.csv",
+      "rows": 10,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_014.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_014.csv",
+      "filename": "SDS-30_filtered_table_014.csv",
+      "rows": 23,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "LiBr03",
+        "LiBrO",
+        "H20"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_015.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_015.csv",
+      "filename": "SDS-30_filtered_table_015.csv",
+      "rows": 8,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "LiBr03"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_016.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_016.csv",
+      "filename": "SDS-30_filtered_table_016.csv",
+      "rows": 10,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaBr03"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_017.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_017.csv",
+      "filename": "SDS-30_filtered_table_017.csv",
+      "rows": 10,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KBr03"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_018.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_018.csv",
+      "filename": "SDS-30_filtered_table_018.csv",
+      "rows": 20,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_019.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_019.csv",
+      "filename": "SDS-30_filtered_table_019.csv",
+      "rows": 12,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "V",
+        "SO"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_020.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_020.csv",
+      "filename": "SDS-30_filtered_table_020.csv",
+      "rows": 8,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_021.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_021.csv",
+      "filename": "SDS-30_filtered_table_021.csv",
+      "rows": 6,
+      "cols": 2,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_022.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_022.csv",
+      "filename": "SDS-30_filtered_table_022.csv",
+      "rows": 7,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_023.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_023.csv",
+      "filename": "SDS-30_filtered_table_023.csv",
+      "rows": 5,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_024.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_024.csv",
+      "filename": "SDS-30_filtered_table_024.csv",
+      "rows": 14,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "U",
+        "S"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_025.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_025.csv",
+      "filename": "SDS-30_filtered_table_025.csv",
+      "rows": 21,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_026.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_026.csv",
+      "filename": "SDS-30_filtered_table_026.csv",
+      "rows": 10,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_027.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_027.csv",
+      "filename": "SDS-30_filtered_table_027.csv",
+      "rows": 5,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_028.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_028.csv",
+      "filename": "SDS-30_filtered_table_028.csv",
+      "rows": 5,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_029.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_029.csv",
+      "filename": "SDS-30_filtered_table_029.csv",
+      "rows": 3,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [
+        "solubility"
+      ],
+      "chemicals": [
+        "iodate"
+      ]
+    },
+    {
+      "file": "SDS-30_filtered_table_030.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_030.csv",
+      "filename": "SDS-30_filtered_table_030.csv",
+      "rows": 15,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_031.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_031.csv",
+      "filename": "SDS-30_filtered_table_031.csv",
+      "rows": 9,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_032.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_032.csv",
+      "filename": "SDS-30_filtered_table_032.csv",
+      "rows": 12,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-30_filtered_table_033.csv",
+      "pdf_source": "SDS-30_filtered",
+      "path": "02_cleaned/SDS-30_filtered_table_033.csv",
+      "filename": "SDS-30_filtered_table_033.csv",
+      "rows": 25,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "HI03",
+        "HI308"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_001.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_001.csv",
+      "filename": "SDS-31_filtered_table_001.csv",
+      "rows": 14,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H",
+        "NaHl0",
+        "NaH",
+        "Ht"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_002.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_002.csv",
+      "filename": "SDS-31_filtered_table_002.csv",
+      "rows": 24,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-31_filtered_table_003.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_003.csv",
+      "filename": "SDS-31_filtered_table_003.csv",
+      "rows": 31,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-31_filtered_table_004.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_004.csv",
+      "filename": "SDS-31_filtered_table_004.csv",
+      "rows": 2,
+      "cols": 17,
+      "has_numeric_data": true,
+      "data_types": [
+        "mass_percent",
+        "molality"
+      ],
+      "chemicals": [
+        "O",
+        "H2",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_005.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_005.csv",
+      "filename": "SDS-31_filtered_table_005.csv",
+      "rows": 17,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-31_filtered_table_006.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_006.csv",
+      "filename": "SDS-31_filtered_table_006.csv",
+      "rows": 10,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "I",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_007.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_007.csv",
+      "filename": "SDS-31_filtered_table_007.csv",
+      "rows": 22,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [
+        "mass_percent",
+        "molality"
+      ],
+      "chemicals": [
+        "J"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_008.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_008.csv",
+      "filename": "SDS-31_filtered_table_008.csv",
+      "rows": 25,
+      "cols": 11,
+      "has_numeric_data": true,
+      "data_types": [
+        "mass_percent",
+        "molality"
+      ],
+      "chemicals": [
+        "Po",
+        "Na"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_009.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_009.csv",
+      "filename": "SDS-31_filtered_table_009.csv",
+      "rows": 4,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Sb"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_010.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_010.csv",
+      "filename": "SDS-31_filtered_table_010.csv",
+      "rows": 8,
+      "cols": 11,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-31_filtered_table_011.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_011.csv",
+      "filename": "SDS-31_filtered_table_011.csv",
+      "rows": 8,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "KH"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_012.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_012.csv",
+      "filename": "SDS-31_filtered_table_012.csv",
+      "rows": 16,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [
+        "molality"
+      ],
+      "chemicals": [
+        "LS",
+        "KH"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_013.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_013.csv",
+      "filename": "SDS-31_filtered_table_013.csv",
+      "rows": 7,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "KH"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_014.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_014.csv",
+      "filename": "SDS-31_filtered_table_014.csv",
+      "rows": 14,
+      "cols": 12,
+      "has_numeric_data": true,
+      "data_types": [
+        "mass_percent",
+        "mol_percent",
+        "molality",
+        "phase"
+      ],
+      "chemicals": [
+        "II",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_015.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_015.csv",
+      "filename": "SDS-31_filtered_table_015.csv",
+      "rows": 18,
+      "cols": 11,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-31_filtered_table_016.csv",
+      "pdf_source": "SDS-31_filtered",
+      "path": "02_cleaned/SDS-31_filtered_table_016.csv",
+      "filename": "SDS-31_filtered_table_016.csv",
+      "rows": 5,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-41_filtered_table_001.csv",
+      "pdf_source": "SDS-41_filtered",
+      "path": "02_cleaned/SDS-41_filtered_table_001.csv",
+      "filename": "SDS-41_filtered_table_001.csv",
+      "rows": 5,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-41_filtered_table_002.csv",
+      "pdf_source": "SDS-41_filtered",
+      "path": "02_cleaned/SDS-41_filtered_table_002.csv",
+      "filename": "SDS-41_filtered_table_002.csv",
+      "rows": 5,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-44_filtered_table_001.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_001.csv",
+      "filename": "SDS-44_filtered_table_001.csv",
+      "rows": 10,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [
+        "temperature",
+        "phase"
+      ],
+      "chemicals": [
+        "Cu",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-44_filtered_table_002.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_002.csv",
+      "filename": "SDS-44_filtered_table_002.csv",
+      "rows": 5,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-44_filtered_table_003.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_003.csv",
+      "filename": "SDS-44_filtered_table_003.csv",
+      "rows": 14,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-44_filtered_table_004.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_004.csv",
+      "filename": "SDS-44_filtered_table_004.csv",
+      "rows": 5,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-44_filtered_table_005.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_005.csv",
+      "filename": "SDS-44_filtered_table_005.csv",
+      "rows": 17,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-44_filtered_table_006.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_006.csv",
+      "filename": "SDS-44_filtered_table_006.csv",
+      "rows": 13,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "OC",
+        "El",
+        "Cl",
+        "C2"
+      ]
+    },
+    {
+      "file": "SDS-44_filtered_table_007.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_007.csv",
+      "filename": "SDS-44_filtered_table_007.csv",
+      "rows": 4,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-44_filtered_table_008.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_008.csv",
+      "filename": "SDS-44_filtered_table_008.csv",
+      "rows": 11,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "I"
+      ]
+    },
+    {
+      "file": "SDS-44_filtered_table_009.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_009.csv",
+      "filename": "SDS-44_filtered_table_009.csv",
+      "rows": 6,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "Ib"
+      ]
+    },
+    {
+      "file": "SDS-44_filtered_table_010.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_010.csv",
+      "filename": "SDS-44_filtered_table_010.csv",
+      "rows": 1,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-44_filtered_table_011.csv",
+      "pdf_source": "SDS-44_filtered",
+      "path": "02_cleaned/SDS-44_filtered_table_011.csv",
+      "filename": "SDS-44_filtered_table_011.csv",
+      "rows": 6,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_001.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_001.csv",
+      "filename": "SDS-47_filtered_table_001.csv",
+      "rows": 12,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "H",
+        "II",
+        "LiCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_002.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_002.csv",
+      "filename": "SDS-47_filtered_table_002.csv",
+      "rows": 7,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_003.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_003.csv",
+      "filename": "SDS-47_filtered_table_003.csv",
+      "rows": 4,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "J"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_004.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_004.csv",
+      "filename": "SDS-47_filtered_table_004.csv",
+      "rows": 7,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "LiCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_005.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_005.csv",
+      "filename": "SDS-47_filtered_table_005.csv",
+      "rows": 15,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H",
+        "LiCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_006.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_006.csv",
+      "filename": "SDS-47_filtered_table_006.csv",
+      "rows": 30,
+      "cols": 12,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "LiCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_007.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_007.csv",
+      "filename": "SDS-47_filtered_table_007.csv",
+      "rows": 33,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_008.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_008.csv",
+      "filename": "SDS-47_filtered_table_008.csv",
+      "rows": 25,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H",
+        "LiC1"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_009.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_009.csv",
+      "filename": "SDS-47_filtered_table_009.csv",
+      "rows": 21,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [
+        "phase"
+      ],
+      "chemicals": [
+        "LICl",
+        "I"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_010.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_010.csv",
+      "filename": "SDS-47_filtered_table_010.csv",
+      "rows": 4,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "H",
+        "LiCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_011.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_011.csv",
+      "filename": "SDS-47_filtered_table_011.csv",
+      "rows": 31,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "LiCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_012.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_012.csv",
+      "filename": "SDS-47_filtered_table_012.csv",
+      "rows": 23,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "LiC1",
+        "LiCl",
+        "VI"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_013.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_013.csv",
+      "filename": "SDS-47_filtered_table_013.csv",
+      "rows": 2,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_014.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_014.csv",
+      "filename": "SDS-47_filtered_table_014.csv",
+      "rows": 6,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "LiC1"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_015.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_015.csv",
+      "filename": "SDS-47_filtered_table_015.csv",
+      "rows": 12,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H",
+        "LiC1",
+        "LiCl",
+        "E"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_016.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_016.csv",
+      "filename": "SDS-47_filtered_table_016.csv",
+      "rows": 8,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "LiCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_017.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_017.csv",
+      "filename": "SDS-47_filtered_table_017.csv",
+      "rows": 10,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_018.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_018.csv",
+      "filename": "SDS-47_filtered_table_018.csv",
+      "rows": 22,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_019.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_019.csv",
+      "filename": "SDS-47_filtered_table_019.csv",
+      "rows": 6,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_020.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_020.csv",
+      "filename": "SDS-47_filtered_table_020.csv",
+      "rows": 18,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_021.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_021.csv",
+      "filename": "SDS-47_filtered_table_021.csv",
+      "rows": 31,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaC1"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_022.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_022.csv",
+      "filename": "SDS-47_filtered_table_022.csv",
+      "rows": 16,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_023.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_023.csv",
+      "filename": "SDS-47_filtered_table_023.csv",
+      "rows": 7,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_024.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_024.csv",
+      "filename": "SDS-47_filtered_table_024.csv",
+      "rows": 5,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_025.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_025.csv",
+      "filename": "SDS-47_filtered_table_025.csv",
+      "rows": 8,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "H"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_026.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_026.csv",
+      "filename": "SDS-47_filtered_table_026.csv",
+      "rows": 28,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_027.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_027.csv",
+      "filename": "SDS-47_filtered_table_027.csv",
+      "rows": 20,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_028.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_028.csv",
+      "filename": "SDS-47_filtered_table_028.csv",
+      "rows": 9,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_029.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_029.csv",
+      "filename": "SDS-47_filtered_table_029.csv",
+      "rows": 10,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_030.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_030.csv",
+      "filename": "SDS-47_filtered_table_030.csv",
+      "rows": 23,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "NaC1",
+        "II",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_031.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_031.csv",
+      "filename": "SDS-47_filtered_table_031.csv",
+      "rows": 26,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_032.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_032.csv",
+      "filename": "SDS-47_filtered_table_032.csv",
+      "rows": 17,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_033.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_033.csv",
+      "filename": "SDS-47_filtered_table_033.csv",
+      "rows": 5,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_034.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_034.csv",
+      "filename": "SDS-47_filtered_table_034.csv",
+      "rows": 4,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_035.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_035.csv",
+      "filename": "SDS-47_filtered_table_035.csv",
+      "rows": 8,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_036.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_036.csv",
+      "filename": "SDS-47_filtered_table_036.csv",
+      "rows": 16,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_037.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_037.csv",
+      "filename": "SDS-47_filtered_table_037.csv",
+      "rows": 3,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_038.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_038.csv",
+      "filename": "SDS-47_filtered_table_038.csv",
+      "rows": 8,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_039.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_039.csv",
+      "filename": "SDS-47_filtered_table_039.csv",
+      "rows": 8,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_040.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_040.csv",
+      "filename": "SDS-47_filtered_table_040.csv",
+      "rows": 10,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "K"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_041.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_041.csv",
+      "filename": "SDS-47_filtered_table_041.csv",
+      "rows": 4,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_042.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_042.csv",
+      "filename": "SDS-47_filtered_table_042.csv",
+      "rows": 6,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_043.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_043.csv",
+      "filename": "SDS-47_filtered_table_043.csv",
+      "rows": 11,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_044.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_044.csv",
+      "filename": "SDS-47_filtered_table_044.csv",
+      "rows": 16,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_045.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_045.csv",
+      "filename": "SDS-47_filtered_table_045.csv",
+      "rows": 4,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_046.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_046.csv",
+      "filename": "SDS-47_filtered_table_046.csv",
+      "rows": 15,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "NaCl",
+        "J"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_047.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_047.csv",
+      "filename": "SDS-47_filtered_table_047.csv",
+      "rows": 12,
+      "cols": 2,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_048.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_048.csv",
+      "filename": "SDS-47_filtered_table_048.csv",
+      "rows": 17,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_049.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_049.csv",
+      "filename": "SDS-47_filtered_table_049.csv",
+      "rows": 5,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_050.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_050.csv",
+      "filename": "SDS-47_filtered_table_050.csv",
+      "rows": 4,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_051.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_051.csv",
+      "filename": "SDS-47_filtered_table_051.csv",
+      "rows": 4,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_052.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_052.csv",
+      "filename": "SDS-47_filtered_table_052.csv",
+      "rows": 8,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_053.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_053.csv",
+      "filename": "SDS-47_filtered_table_053.csv",
+      "rows": 28,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_054.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_054.csv",
+      "filename": "SDS-47_filtered_table_054.csv",
+      "rows": 7,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_055.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_055.csv",
+      "filename": "SDS-47_filtered_table_055.csv",
+      "rows": 8,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaC1",
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_056.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_056.csv",
+      "filename": "SDS-47_filtered_table_056.csv",
+      "rows": 18,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_057.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_057.csv",
+      "filename": "SDS-47_filtered_table_057.csv",
+      "rows": 2,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_058.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_058.csv",
+      "filename": "SDS-47_filtered_table_058.csv",
+      "rows": 9,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_059.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_059.csv",
+      "filename": "SDS-47_filtered_table_059.csv",
+      "rows": 18,
+      "cols": 14,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Pc"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_060.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_060.csv",
+      "filename": "SDS-47_filtered_table_060.csv",
+      "rows": 8,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_061.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_061.csv",
+      "filename": "SDS-47_filtered_table_061.csv",
+      "rows": 4,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaC1"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_062.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_062.csv",
+      "filename": "SDS-47_filtered_table_062.csv",
+      "rows": 29,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "I",
+        "G",
+        "NaCl",
+        "L",
+        "S"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_063.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_063.csv",
+      "filename": "SDS-47_filtered_table_063.csv",
+      "rows": 3,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_064.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_064.csv",
+      "filename": "SDS-47_filtered_table_064.csv",
+      "rows": 11,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_065.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_065.csv",
+      "filename": "SDS-47_filtered_table_065.csv",
+      "rows": 16,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_066.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_066.csv",
+      "filename": "SDS-47_filtered_table_066.csv",
+      "rows": 18,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_067.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_067.csv",
+      "filename": "SDS-47_filtered_table_067.csv",
+      "rows": 13,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_068.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_068.csv",
+      "filename": "SDS-47_filtered_table_068.csv",
+      "rows": 4,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_069.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_069.csv",
+      "filename": "SDS-47_filtered_table_069.csv",
+      "rows": 12,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "G8",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_070.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_070.csv",
+      "filename": "SDS-47_filtered_table_070.csv",
+      "rows": 8,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_071.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_071.csv",
+      "filename": "SDS-47_filtered_table_071.csv",
+      "rows": 12,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_072.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_072.csv",
+      "filename": "SDS-47_filtered_table_072.csv",
+      "rows": 22,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_073.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_073.csv",
+      "filename": "SDS-47_filtered_table_073.csv",
+      "rows": 7,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "NaC1",
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_074.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_074.csv",
+      "filename": "SDS-47_filtered_table_074.csv",
+      "rows": 5,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_075.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_075.csv",
+      "filename": "SDS-47_filtered_table_075.csv",
+      "rows": 7,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_076.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_076.csv",
+      "filename": "SDS-47_filtered_table_076.csv",
+      "rows": 6,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_077.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_077.csv",
+      "filename": "SDS-47_filtered_table_077.csv",
+      "rows": 4,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KC1"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_078.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_078.csv",
+      "filename": "SDS-47_filtered_table_078.csv",
+      "rows": 8,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_079.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_079.csv",
+      "filename": "SDS-47_filtered_table_079.csv",
+      "rows": 22,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_080.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_080.csv",
+      "filename": "SDS-47_filtered_table_080.csv",
+      "rows": 10,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_081.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_081.csv",
+      "filename": "SDS-47_filtered_table_081.csv",
+      "rows": 5,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_082.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_082.csv",
+      "filename": "SDS-47_filtered_table_082.csv",
+      "rows": 7,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_083.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_083.csv",
+      "filename": "SDS-47_filtered_table_083.csv",
+      "rows": 14,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_084.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_084.csv",
+      "filename": "SDS-47_filtered_table_084.csv",
+      "rows": 6,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_085.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_085.csv",
+      "filename": "SDS-47_filtered_table_085.csv",
+      "rows": 3,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_086.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_086.csv",
+      "filename": "SDS-47_filtered_table_086.csv",
+      "rows": 7,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "XCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_087.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_087.csv",
+      "filename": "SDS-47_filtered_table_087.csv",
+      "rows": 18,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_088.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_088.csv",
+      "filename": "SDS-47_filtered_table_088.csv",
+      "rows": 13,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "JO",
+        "II",
+        "J"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_089.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_089.csv",
+      "filename": "SDS-47_filtered_table_089.csv",
+      "rows": 7,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_090.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_090.csv",
+      "filename": "SDS-47_filtered_table_090.csv",
+      "rows": 4,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_091.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_091.csv",
+      "filename": "SDS-47_filtered_table_091.csv",
+      "rows": 5,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_092.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_092.csv",
+      "filename": "SDS-47_filtered_table_092.csv",
+      "rows": 12,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_093.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_093.csv",
+      "filename": "SDS-47_filtered_table_093.csv",
+      "rows": 4,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_094.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_094.csv",
+      "filename": "SDS-47_filtered_table_094.csv",
+      "rows": 4,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl",
+        "III"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_095.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_095.csv",
+      "filename": "SDS-47_filtered_table_095.csv",
+      "rows": 3,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_096.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_096.csv",
+      "filename": "SDS-47_filtered_table_096.csv",
+      "rows": 5,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_097.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_097.csv",
+      "filename": "SDS-47_filtered_table_097.csv",
+      "rows": 25,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "IJ",
+        "J"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_098.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_098.csv",
+      "filename": "SDS-47_filtered_table_098.csv",
+      "rows": 9,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "J",
+        "RCI"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_099.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_099.csv",
+      "filename": "SDS-47_filtered_table_099.csv",
+      "rows": 3,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_100.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_100.csv",
+      "filename": "SDS-47_filtered_table_100.csv",
+      "rows": 12,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [
+        "phase"
+      ],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_101.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_101.csv",
+      "filename": "SDS-47_filtered_table_101.csv",
+      "rows": 6,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_102.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_102.csv",
+      "filename": "SDS-47_filtered_table_102.csv",
+      "rows": 6,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_103.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_103.csv",
+      "filename": "SDS-47_filtered_table_103.csv",
+      "rows": 7,
+      "cols": 2,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_104.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_104.csv",
+      "filename": "SDS-47_filtered_table_104.csv",
+      "rows": 21,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "J06",
+        "JOO",
+        "J03",
+        "J"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_105.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_105.csv",
+      "filename": "SDS-47_filtered_table_105.csv",
+      "rows": 11,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl",
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_106.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_106.csv",
+      "filename": "SDS-47_filtered_table_106.csv",
+      "rows": 8,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl",
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_107.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_107.csv",
+      "filename": "SDS-47_filtered_table_107.csv",
+      "rows": 27,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "U16217",
+        "Ob80"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_108.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_108.csv",
+      "filename": "SDS-47_filtered_table_108.csv",
+      "rows": 2,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [
+        "phase"
+      ],
+      "chemicals": [
+        "KCt",
+        "H",
+        "O"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_109.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_109.csv",
+      "filename": "SDS-47_filtered_table_109.csv",
+      "rows": 5,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "XCI"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_110.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_110.csv",
+      "filename": "SDS-47_filtered_table_110.csv",
+      "rows": 13,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_111.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_111.csv",
+      "filename": "SDS-47_filtered_table_111.csv",
+      "rows": 3,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KC1"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_112.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_112.csv",
+      "filename": "SDS-47_filtered_table_112.csv",
+      "rows": 10,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_113.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_113.csv",
+      "filename": "SDS-47_filtered_table_113.csv",
+      "rows": 6,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "XCl",
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_114.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_114.csv",
+      "filename": "SDS-47_filtered_table_114.csv",
+      "rows": 7,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl",
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_115.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_115.csv",
+      "filename": "SDS-47_filtered_table_115.csv",
+      "rows": 33,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "NaCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_116.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_116.csv",
+      "filename": "SDS-47_filtered_table_116.csv",
+      "rows": 11,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "XCI"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_117.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_117.csv",
+      "filename": "SDS-47_filtered_table_117.csv",
+      "rows": 18,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_118.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_118.csv",
+      "filename": "SDS-47_filtered_table_118.csv",
+      "rows": 22,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Wa"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_119.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_119.csv",
+      "filename": "SDS-47_filtered_table_119.csv",
+      "rows": 8,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_120.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_120.csv",
+      "filename": "SDS-47_filtered_table_120.csv",
+      "rows": 17,
+      "cols": 12,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "XCl",
+        "KC1",
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_121.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_121.csv",
+      "filename": "SDS-47_filtered_table_121.csv",
+      "rows": 16,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_122.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_122.csv",
+      "filename": "SDS-47_filtered_table_122.csv",
+      "rows": 12,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KC1",
+        "II",
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_123.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_123.csv",
+      "filename": "SDS-47_filtered_table_123.csv",
+      "rows": 3,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_124.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_124.csv",
+      "filename": "SDS-47_filtered_table_124.csv",
+      "rows": 11,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl",
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_125.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_125.csv",
+      "filename": "SDS-47_filtered_table_125.csv",
+      "rows": 2,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_126.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_126.csv",
+      "filename": "SDS-47_filtered_table_126.csv",
+      "rows": 4,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_127.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_127.csv",
+      "filename": "SDS-47_filtered_table_127.csv",
+      "rows": 2,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_128.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_128.csv",
+      "filename": "SDS-47_filtered_table_128.csv",
+      "rows": 4,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_129.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_129.csv",
+      "filename": "SDS-47_filtered_table_129.csv",
+      "rows": 16,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KC1"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_130.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_130.csv",
+      "filename": "SDS-47_filtered_table_130.csv",
+      "rows": 9,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_131.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_131.csv",
+      "filename": "SDS-47_filtered_table_131.csv",
+      "rows": 12,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl",
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_132.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_132.csv",
+      "filename": "SDS-47_filtered_table_132.csv",
+      "rows": 13,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_133.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_133.csv",
+      "filename": "SDS-47_filtered_table_133.csv",
+      "rows": 6,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_134.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_134.csv",
+      "filename": "SDS-47_filtered_table_134.csv",
+      "rows": 11,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "KCl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_135.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_135.csv",
+      "filename": "SDS-47_filtered_table_135.csv",
+      "rows": 2,
+      "cols": 6,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Rb",
+        "Cl"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_136.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_136.csv",
+      "filename": "SDS-47_filtered_table_136.csv",
+      "rows": 2,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Cl",
+        "R"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_137.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_137.csv",
+      "filename": "SDS-47_filtered_table_137.csv",
+      "rows": 2,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_138.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_138.csv",
+      "filename": "SDS-47_filtered_table_138.csv",
+      "rows": 18,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_139.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_139.csv",
+      "filename": "SDS-47_filtered_table_139.csv",
+      "rows": 10,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_140.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_140.csv",
+      "filename": "SDS-47_filtered_table_140.csv",
+      "rows": 22,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_141.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_141.csv",
+      "filename": "SDS-47_filtered_table_141.csv",
+      "rows": 8,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "CsCI",
+        "II"
+      ]
+    },
+    {
+      "file": "SDS-47_filtered_table_142.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_142.csv",
+      "filename": "SDS-47_filtered_table_142.csv",
+      "rows": 7,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_143.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_143.csv",
+      "filename": "SDS-47_filtered_table_143.csv",
+      "rows": 16,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_144.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_144.csv",
+      "filename": "SDS-47_filtered_table_144.csv",
+      "rows": 10,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_145.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_145.csv",
+      "filename": "SDS-47_filtered_table_145.csv",
+      "rows": 19,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_146.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_146.csv",
+      "filename": "SDS-47_filtered_table_146.csv",
+      "rows": 7,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-47_filtered_table_147.csv",
+      "pdf_source": "SDS-47_filtered",
+      "path": "02_cleaned/SDS-47_filtered_table_147.csv",
+      "filename": "SDS-47_filtered_table_147.csv",
+      "rows": 3,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "CsCl"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_001.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_001.csv",
+      "filename": "SDS-52_filtered_table_001.csv",
+      "rows": 8,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_002.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_002.csv",
+      "filename": "SDS-52_filtered_table_002.csv",
+      "rows": 13,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "S5"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_003.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_003.csv",
+      "filename": "SDS-52_filtered_table_003.csv",
+      "rows": 9,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_004.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_004.csv",
+      "filename": "SDS-52_filtered_table_004.csv",
+      "rows": 29,
+      "cols": 11,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "I",
+        "PREPARED",
+        "Oxide",
+        "ES",
+        "J",
+        "CaO",
+        "BY",
+        "Hydroxide"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_005.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_005.csv",
+      "filename": "SDS-52_filtered_table_005.csv",
+      "rows": 14,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_006.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_006.csv",
+      "filename": "SDS-52_filtered_table_006.csv",
+      "rows": 10,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_007.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_007.csv",
+      "filename": "SDS-52_filtered_table_007.csv",
+      "rows": 8,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_008.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_008.csv",
+      "filename": "SDS-52_filtered_table_008.csv",
+      "rows": 4,
+      "cols": 10,
+      "has_numeric_data": true,
+      "data_types": [
+        "temperature"
+      ],
+      "chemicals": [
+        "OH",
+        "Pt",
+        "Ag",
+        "CaC03",
+        "hydroxide",
+        "CaO",
+        "Ca"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_009.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_009.csv",
+      "filename": "SDS-52_filtered_table_009.csv",
+      "rows": 7,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_010.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_010.csv",
+      "filename": "SDS-52_filtered_table_010.csv",
+      "rows": 44,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "K"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_011.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_011.csv",
+      "filename": "SDS-52_filtered_table_011.csv",
+      "rows": 11,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "K",
+        "S"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_012.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_012.csv",
+      "filename": "SDS-52_filtered_table_012.csv",
+      "rows": 11,
+      "cols": 12,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "CaO",
+        "K",
+        "Ca",
+        "OH"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_013.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_013.csv",
+      "filename": "SDS-52_filtered_table_013.csv",
+      "rows": 16,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_014.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_014.csv",
+      "filename": "SDS-52_filtered_table_014.csv",
+      "rows": 8,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_015.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_015.csv",
+      "filename": "SDS-52_filtered_table_015.csv",
+      "rows": 22,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_016.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_016.csv",
+      "filename": "SDS-52_filtered_table_016.csv",
+      "rows": 24,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_017.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_017.csv",
+      "filename": "SDS-52_filtered_table_017.csv",
+      "rows": 1,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "ERROR",
+        "ESTIMATED",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_018.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_018.csv",
+      "filename": "SDS-52_filtered_table_018.csv",
+      "rows": 11,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H20",
+        "Sr",
+        "OH"
+      ]
+    },
+    {
+      "file": "SDS-52_filtered_table_019.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_019.csv",
+      "filename": "SDS-52_filtered_table_019.csv",
+      "rows": 19,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_020.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_020.csv",
+      "filename": "SDS-52_filtered_table_020.csv",
+      "rows": 5,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-52_filtered_table_021.csv",
+      "pdf_source": "SDS-52_filtered",
+      "path": "02_cleaned/SDS-52_filtered_table_021.csv",
+      "filename": "SDS-52_filtered_table_021.csv",
+      "rows": 9,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-55_filtered_table_001.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_001.csv",
+      "filename": "SDS-55_filtered_table_001.csv",
+      "rows": 18,
+      "cols": 14,
+      "has_numeric_data": true,
+      "data_types": [
+        "molality",
+        "phase"
+      ],
+      "chemicals": [
+        "N0",
+        "A",
+        "N03",
+        "U0"
+      ]
+    },
+    {
+      "file": "SDS-55_filtered_table_002.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_002.csv",
+      "filename": "SDS-55_filtered_table_002.csv",
+      "rows": 25,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "II",
+        "A"
+      ]
+    },
+    {
+      "file": "SDS-55_filtered_table_003.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_003.csv",
+      "filename": "SDS-55_filtered_table_003.csv",
+      "rows": 8,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-55_filtered_table_004.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_004.csv",
+      "filename": "SDS-55_filtered_table_004.csv",
+      "rows": 20,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-55_filtered_table_005.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_005.csv",
+      "filename": "SDS-55_filtered_table_005.csv",
+      "rows": 21,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A"
+      ]
+    },
+    {
+      "file": "SDS-55_filtered_table_006.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_006.csv",
+      "filename": "SDS-55_filtered_table_006.csv",
+      "rows": 7,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-55_filtered_table_007.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_007.csv",
+      "filename": "SDS-55_filtered_table_007.csv",
+      "rows": 12,
+      "cols": 7,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A"
+      ]
+    },
+    {
+      "file": "SDS-55_filtered_table_008.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_008.csv",
+      "filename": "SDS-55_filtered_table_008.csv",
+      "rows": 2,
+      "cols": 10,
+      "has_numeric_data": false,
+      "data_types": [
+        "molality",
+        "phase"
+      ],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-55_filtered_table_009.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_009.csv",
+      "filename": "SDS-55_filtered_table_009.csv",
+      "rows": 11,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "file": "SDS-55_filtered_table_010.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_010.csv",
+      "filename": "SDS-55_filtered_table_010.csv",
+      "rows": 21,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [
+        "molality",
+        "phase"
+      ],
+      "chemicals": [
+        "II",
+        "A"
+      ]
+    },
+    {
+      "file": "SDS-55_filtered_table_011.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_011.csv",
+      "filename": "SDS-55_filtered_table_011.csv",
+      "rows": 15,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Ad",
+        "C37",
+        "A"
+      ]
+    },
+    {
+      "file": "SDS-55_filtered_table_012.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_012.csv",
+      "filename": "SDS-55_filtered_table_012.csv",
+      "rows": 3,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-55_filtered_table_013.csv",
+      "pdf_source": "SDS-55_filtered",
+      "path": "02_cleaned/SDS-55_filtered_table_013.csv",
+      "filename": "SDS-55_filtered_table_013.csv",
+      "rows": 7,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "O",
+        "C"
+      ]
+    },
+    {
+      "file": "SDS-61_filtered_table_001.csv",
+      "pdf_source": "SDS-61_filtered",
+      "path": "02_cleaned/SDS-61_filtered_table_001.csv",
+      "filename": "SDS-61_filtered_table_001.csv",
+      "rows": 17,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "T",
+        "R"
+      ]
+    },
+    {
+      "file": "SDS-61_filtered_table_002.csv",
+      "pdf_source": "SDS-61_filtered",
+      "path": "02_cleaned/SDS-61_filtered_table_002.csv",
+      "filename": "SDS-61_filtered_table_002.csv",
+      "rows": 10,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "H",
+        "LiC"
+      ]
+    },
+    {
+      "file": "SDS-61_filtered_table_003.csv",
+      "pdf_source": "SDS-61_filtered",
+      "path": "02_cleaned/SDS-61_filtered_table_003.csv",
+      "filename": "SDS-61_filtered_table_003.csv",
+      "rows": 3,
+      "cols": 9,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-61_filtered_table_004.csv",
+      "pdf_source": "SDS-61_filtered",
+      "path": "02_cleaned/SDS-61_filtered_table_004.csv",
+      "filename": "SDS-61_filtered_table_004.csv",
+      "rows": 24,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": []
+    },
+    {
+      "file": "SDS-61_filtered_table_005.csv",
+      "pdf_source": "SDS-61_filtered",
+      "path": "02_cleaned/SDS-61_filtered_table_005.csv",
+      "filename": "SDS-61_filtered_table_005.csv",
+      "rows": 10,
+      "cols": 4,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "TI",
+        "NaCI04",
+        "H20"
+      ]
+    },
+    {
+      "file": "SDS-61_filtered_table_006.csv",
+      "pdf_source": "SDS-61_filtered",
+      "path": "02_cleaned/SDS-61_filtered_table_006.csv",
+      "filename": "SDS-61_filtered_table_006.csv",
+      "rows": 18,
+      "cols": 3,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "Hi",
+        "E",
+        "J"
+      ]
+    },
+    {
+      "file": "SDS-61_filtered_table_007.csv",
+      "pdf_source": "SDS-61_filtered",
+      "path": "02_cleaned/SDS-61_filtered_table_007.csv",
+      "filename": "SDS-61_filtered_table_007.csv",
+      "rows": 19,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "It",
+        "SO",
+        "H20",
+        "NaCI04"
+      ]
+    },
+    {
+      "file": "SDS-61_filtered_table_008.csv",
+      "pdf_source": "SDS-61_filtered",
+      "path": "02_cleaned/SDS-61_filtered_table_008.csv",
+      "filename": "SDS-61_filtered_table_008.csv",
+      "rows": 7,
+      "cols": 5,
+      "has_numeric_data": true,
+      "data_types": [
+        "molality",
+        "phase",
+        "solubility"
+      ],
+      "chemicals": [
+        "NaCI04",
+        "TIK"
+      ]
+    },
+    {
+      "file": "SDS-61_filtered_table_009.csv",
+      "pdf_source": "SDS-61_filtered",
+      "path": "02_cleaned/SDS-61_filtered_table_009.csv",
+      "filename": "SDS-61_filtered_table_009.csv",
+      "rows": 28,
+      "cols": 8,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "ARIABLES",
+        "NaC",
+        "NaCl04",
+        "PREPARED",
+        "NaCl",
+        "BY",
+        "perchlorate",
+        "K",
+        "H20"
+      ]
+    },
+    {
+      "file": "SDS-65_filtered_table_001.csv",
+      "pdf_source": "SDS-65_filtered",
+      "path": "02_cleaned/SDS-65_filtered_table_001.csv",
+      "filename": "SDS-65_filtered_table_001.csv",
+      "rows": 37,
+      "cols": 1,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "V",
+        "Perchlorate",
+        "Chloride",
+        "ORIGINAL",
+        "NaCl",
+        "MEASUREMENTS",
+        "CuCl",
+        "COMPONENTS",
+        "Sulfate"
+      ]
+    },
+    {
+      "file": "SDS-65_filtered_table_002.csv",
+      "pdf_source": "SDS-65_filtered",
+      "path": "02_cleaned/SDS-65_filtered_table_002.csv",
+      "filename": "SDS-65_filtered_table_002.csv",
+      "rows": 22,
+      "cols": 1,
+      "has_numeric_data": true,
+      "data_types": [],
+      "chemicals": [
+        "inside",
+        "ORIGINAL",
+        "Iodide",
+        "L",
+        "M",
+        "COMPONENTS",
+        "MEASUREMENTS"
+      ]
+    }
+  ]
+}
